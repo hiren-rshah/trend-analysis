@@ -1,5 +1,7 @@
-package com.learning.trend.ml.model;
+package com.learning.trend.ml;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.tribuo.*;
 import org.tribuo.classification.Label;
 import org.tribuo.classification.LabelFactory;
@@ -22,6 +24,8 @@ import java.util.Map;
 
 
 public class FarmerInputModelTrainer {
+
+    private static final Logger LOG = LoggerFactory.getLogger(FarmerInputModelTrainer.class);
 
     public static final String DATASET_PATH = "src/main/resources/dataset/farmer_input_timeseries_records.csv";
 
@@ -84,17 +88,17 @@ public class FarmerInputModelTrainer {
             }
         }
 
-        System.out.println("Empty label rows: " + emptyCount);
+        LOG.info("Empty label rows: " + emptyCount);
         // Train model
-        System.out.println("Outputs found: " + train.getOutputs());
-        System.out.println("Number of unique outputs: " + train.getOutputInfo().size());
-        System.out.println("train.size():" + train.size());
+        LOG.info("Outputs found: " + train.getOutputs());
+        LOG.info("Number of unique outputs: " + train.getOutputInfo().size());
+        LOG.info("train.size():" + train.size());
 
-        System.out.println("Unique Labels found: " + train.getOutputIDInfo());
-        System.out.println("Number of Labels: " + train.getOutputIDInfo().size());
+        LOG.info("Unique Labels found: " + train.getOutputIDInfo());
+        LOG.info("Number of Labels: " + train.getOutputIDInfo().size());
 
-        System.out.println("Labels model will learn: " + train.getOutputIDInfo().getDomain());
-        System.out.println("Labels in test set: " + test.getOutputIDInfo().getDomain());
+        LOG.info("Labels model will learn: " + train.getOutputIDInfo().getDomain());
+        LOG.info("Labels in test set: " + test.getOutputIDInfo().getDomain());
 
         // Only train if labels actually exist
         if (train.getOutputIDInfo().size() > 0) {
@@ -105,8 +109,8 @@ public class FarmerInputModelTrainer {
             LabelEvaluator evaluator = new LabelEvaluator();
             LabelEvaluation evaluation = evaluator.evaluate(model, test);
 
-            System.out.println("Accuracy: " + evaluation.accuracy());
-            System.out.println(evaluation.toString());
+            LOG.info("Accuracy: " + evaluation.accuracy());
+            LOG.info(evaluation.toString());
 
             return model;
         }
@@ -117,7 +121,7 @@ public class FarmerInputModelTrainer {
     }
 
     public static void saveModel(Model<?> model, String path) throws Exception {
-        System.out.println("Saving model to: " + path);
+        LOG.info("Saving model to: " + path);
         try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(path))) {
             oos.writeObject(model);
         }
@@ -128,7 +132,7 @@ public class FarmerInputModelTrainer {
         // 1. Load dataset
         DataSource<Label> dataSource = loadDataSource(DATASET_PATH);
 
-        System.out.println(dataSource.getClass());
+        LOG.info("DataSource loaded with outputs: " + dataSource.toString());
 
         // 2. Trainer
         var trainer = createTrainer();

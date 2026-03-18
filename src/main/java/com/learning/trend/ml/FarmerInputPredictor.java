@@ -1,4 +1,4 @@
-package com.learning.trend.ml.model;
+package com.learning.trend.ml;
 
 import org.tribuo.Example;
 import org.tribuo.Feature;
@@ -25,13 +25,13 @@ public class FarmerInputPredictor {
         Example<Label> example = new ArrayExample<>(new Label("previous_input_usage"));
 
         // Numeric features
-        example.add(new Feature("year", 2027));
+        example.add(new Feature("year", 2023));
         example.add(new Feature("month", 7));
         example.add(new Feature("rainfall_mm", 100));
         example.add(new Feature("farmer_land_size_acres", 1.5));
 
         // Categorical (One-hot encoding)
-        example.add(new Feature("crop_type@Rice", 1.0));
+        example.add(new Feature("crop_type@Wheat", 1.0));
         example.add(new Feature("soil_type@Black", 1.0));
         example.add(new Feature("region@Maharashtra", 1.0));
         example.add(new Feature("season@Kharif", 1.0));

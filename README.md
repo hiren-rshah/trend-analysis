@@ -3,6 +3,9 @@
 
 A Springboot and Spring AI based JAVA project to perform Trend analysis based on historic Input and Product data.
 
+## Highlevel Architecture
+<img src="reference/hl-architecture.png"></img>
+
 ## Technology Stack
 * JAVA 17
 * Spring Boot
@@ -11,58 +14,55 @@ A Springboot and Spring AI based JAVA project to perform Trend analysis based on
 * Spring Web
 * H2 In Memory Database
 
+## Activities
+
+1. Create SpringBoot Project with Spring AI dependencies
+2. Integrate H2 Database and make it work with Spring Data JPA
+3. Integrate Machine Learning Model capabilities using <b>tribuo</b> library and perform below activities.
+   1. Load CSV file, Create Trainer, Train Model, Evaluate the Model and Save to filesystem
+   2. Run Prediction by passing Example data to the trained model and get the output
+4. <b>DONE</b> Integrate Spring AI to add machine learning capabilities to the application
+5. Create ChatController and ChatService to perform below activities.
+   1. <b>/chat endpoint:</b> performs below activities.
+      1. Accepts user Prompt
+      2. Perform JSON Extraction by connecting to <b>OpenAI LLM</b>
+      3. Create Feature and pass to trained model
+      4. Get the predictions from Trained Model
+      5. Pass Prediction to <b>OpenAI LLM</b> to convert prediction for user explanation
+      6. Respond back to user with the final output from LLM
+   2. <b>/api endpoint:</b> performs below activities.
+      1. Accepts user input in JSON format
+      2. Create Feature and pass to trained model
+      3. Get the predictions from Trained Model
+      4. Respond back to user with the final output in JSON format
+6. Test the REST API using Postman
+7. Use the trained machine learning model to make predictions in the REST API endpoints
+
+## Curl command
+### Prompt Format
+```bash
+curl --location 'http://localhost:8080/trend/chat' \
+--header 'Content-Type: text/plain' \
+--data 'I am growing soybean in Maharashtra in Kharif season, rainfall is 900mm, land size 5 acres'
+```
+
+### JSON Format
+```bash
+curl --location 'http://localhost:8080/trend/api' \
+--header 'Content-Type: application/json' \
+--data '{
+"year": 2026,
+"month": 6,
+"crop_type": "Rice",
+"soil_type": "Red",
+"region": "Madhya Pradesh",
+"season": "Kharif",
+"rainfall": 900,
+"farmer_land_size": 5,
+"previous_input_usage": "Mancozeb"
+}'
+```
+
 ## References
 * H2 Database URL: http://localhost:8080/h2-console
 * https://www.baeldung.com/java-ml-tribuo-guide
-
-## Activities
-### MVP 1
-1. <b>DONE</b> - Create SpringBoot Project with Spring AI/MCP dependencies
-1. <b>DONE</b> - Integrate H2 Database and make it work with Spring Data JPA
-1. <b>DONE</b> - Integrate Machine Learning Model capabilities using twibo and train it with sample data from CSV file
-1. <b>DONE</b> - Run Prediction by passing Example data to the trained model and get the output
-1. Create ChatController and Chat UI Page to interact with the trained model and get predictions based on user input 
-1
-1. Integrate Spring AI/MCP to add machine learning capabilities to the application
-1. Create a machine learning model using Spring AI/MCP and train it with sample data
-1. Continuously improve the machine learning model by retraining it with new data and evaluating its performance
-1. Create a simple REST API to manage entities in the H2 database
-1. Implement CRUD operations for the entities using Spring Data JPA
-1. Test the REST API using Postman or any other API testing tool
-1. Add validation to the REST API endpoints to ensure data integrity
-1. Implement error handling for the REST API to return appropriate HTTP status codes and messages
-1. Use the trained machine learning model to make predictions in the REST API endpoints
-1. Implement a feature to visualize the predictions using a charting library such as Chart.js
-1. Implement a feature to export the data from the H2 database to a CSV file
-1. Implement a feature to import data from a CSV file into the H2 database
-### MVP 2
-1. Create a simple frontend using Thymeleaf to interact with the REST API
-1. Implement user authentication and authorization using Spring Security
-1. Deploy the application to a cloud platform such as Heroku or AWS
-1. Monitor the application using Spring Boot Actuator and set up logging with Logback
-1. Implement unit tests for the service layer using JUnit and Mockito
-1. Implement integration tests for the REST API endpoints using Spring Boot Test
-1. Optimize the application performance by implementing caching with Spring Cache
-1. Implement asynchronous processing for long-running tasks using Spring's @Async annotation
-1. Set up a CI/CD pipeline using Jenkins or GitHub Actions to automate the build and deployment process
-1. Implement API documentation using Swagger/OpenAPI to provide clear documentation for the REST API endpoints
-1. Implement rate limiting for the REST API endpoints to prevent abuse and ensure fair usage
-1. Implement a feature to send email notifications using Spring's JavaMailSender
-1. Implement a feature to schedule tasks using Spring's @Scheduled annotation
-1. Implement a feature to handle file uploads and store them in the H2 database or on the file system
-1. Implement a feature to handle file downloads from the H2 database or the file system
-1. Implement a feature to generate PDF reports using a library such as iText or Apache PDFBox
-1. Implement a feature to integrate with an external API to fetch data and store it in the H2 database
-1. Implement a feature to integrate with an external API to send data from the H2 database
-1. Implement a feature to handle user roles and permissions using Spring Security
-1. Implement a feature to log user activities and actions in the application
-1. Implement a feature to handle internationalization (i18n) and support multiple languages in the application
-1. Implement a feature to handle time zones and display dates/times in the user's local time zone
-1. Implement a feature to handle pagination and sorting for the REST API endpoints
-1. Implement a feature to handle filtering and searching for the REST API endpoints
-1. Implement a feature to handle bulk operations for the REST API endpoints
-1. Implement a feature to handle data validation and error messages in the frontend using Thymeleaf
-1. Implement a feature to handle user registration and account management
-1. Implement a feature to handle password reset functionality for users
-
-
