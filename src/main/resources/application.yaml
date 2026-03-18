@@ -16,3 +16,9 @@ spring:
       path: /h2-console
       settings.trace: false
       settings.web-allow-others: false
+  ai:
+    openai:
+      api-key: ${OPENAI_API_KEY:your-api-key-here}
+      chat:
+        options:
+          model: gpt-4o-mini
