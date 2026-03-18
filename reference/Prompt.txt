@@ -1,4 +1,33 @@
+---- DB Createion ----
 I am creating a Farmer's Input database where I need to store input what is required by farmer to grow a crop.
 Create an Input Database tables to store and perform below,
 Create Table script with Input table
-Generate 50 random input master data and create insert sript to store in Input table.
+
+
+
+----- Machine Learning Tools/Technologies ------
+
+A Springboot and Spring AI based JAVA project to perform Trend analysis based on historic Input and Product data. I have created below DB tables to begin with,
+1. Store input what is required by farmer to grow a crop,
+2. Farmer's demographic data
+3. Input Transaction showing which input is being used by farmer
+
+I have large volume of test data. Now I want to perform below activities, Please suggest Tools, technologies and steps to use.
+1. Integrate Spring AI/MCP to add machine learning capabilities to the application
+2. Create a machine learning model using Spring AI/MCP and train it with sample data
+3. Continuously improve the machine learning model by retraining it with new data and evaluating its performance
+
+
+------ Creating Trend data for Farmer's Input Analysis -----
+I would like to perform Farmer's Input trend analysis and training my model based on below paramters. List of Input is attached herewith in temp.sql file to explain all parameters. Please create CSV file mentioning usage of this inputs based on below parameters. I would like 100 or even more records in CSV file to train my model.
+    crop_type
+    soil_type
+    region
+    season
+    rainfall
+    farmer_land_size
+    previous_input_usage
+	
+Please add another parameter year/month to better understand time series for trend analysis. Please generate 1000 realistic records for better ML training with time-series data (year/month)	
+	
+I would like to train a tribuo model to analyze trend based on previous_input_usage. Please provide JAVA Code to perform below activities. 1/ create dataset from this CSV file 2/ create Trainer 3/ evaluate Models 4/ save Model 5/ load Model 6/ predict using parameters in ArrayExample	

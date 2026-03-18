@@ -1,0 +1,38 @@
+1. Create Input usage data based on below parameters: Model will be able to predict Input usage based on this parameters only.
+    year - Year of farming activity
+    month - Month (1–12)
+    crop_type - Crop grown by farmer
+    soil_type - Soil type
+    region - Indian region/state
+    season - Farming season
+    rainfall - Annual/seasonal rainfall (mm)
+    farmer_land_size - Size of farm
+    previous_input_usage - Inputs previously used (semicolon separated)
+
+2. Create CSV file and pass it to AI Model for training. It will be done in another JAVA Program.
+
+3. Run the predictor based on the trained model to predict input usage for a given set of parameters. The predictor will take the following parameters as input:
+
+    year - Year of farming activity
+    month - Month (1–12)
+    crop_type - Crop grown by farmer
+    soil_type - Soil type
+    region - Indian region/state
+    season - Farming season
+    rainfall - Annual/seasonal rainfall (mm)
+    farmer_land_size - Size of farm
+    previous_input_usage - Inputs previously used (semicolon separated)
+
+
+4. The predictor will output the predicted input usage for the given parameters. The output will be in the form of a list of inputs that the farmer should use for optimal crop growth based on the trained model.
+
+    Here is an example of how the input usage data can be structured in a CSV file for training the AI model:
+
+    ```csv  year,month,crop_type,soil_type,region,season,rainfall,farmer_land_size,previous_input_usage
+    2023,5,Wheat,Loamy,North India,Summer,500,2 acres,Fertilizer A;Pesticide B
+
+5. Test the Predictor for few more test data.
+
+6. Create API endpoint to receive input parameters and return predicted input usage. The API will be built using a web framework such as Spring Boot in Java.
+    OR
+   Use it in existing project only.

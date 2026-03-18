@@ -11,23 +11,28 @@ A Springboot and Spring AI based JAVA project to perform Trend analysis based on
 * Spring Web
 * H2 In Memory Database
 
-## Configurations
+## References
 * H2 Database URL: http://localhost:8080/h2-console
+* https://www.baeldung.com/java-ml-tribuo-guide
 
 ## Activities
 ### MVP 1
-1. Create SpringBoot Project with Spring AI/MCP dependencies
-1. Integrate H2 Database and make it work with Spring Data JPA
+1. <b>DONE</b> - Create SpringBoot Project with Spring AI/MCP dependencies
+1. <b>DONE</b> - Integrate H2 Database and make it work with Spring Data JPA
+1. <b>DONE</b> - Integrate Machine Learning Model capabilities using twibo and train it with sample data from CSV file
+1. <b>DONE</b> - Run Prediction by passing Example data to the trained model and get the output
+1. Create ChatController and Chat UI Page to interact with the trained model and get predictions based on user input 
+1
+1. Integrate Spring AI/MCP to add machine learning capabilities to the application
+1. Create a machine learning model using Spring AI/MCP and train it with sample data
+1. Continuously improve the machine learning model by retraining it with new data and evaluating its performance
 1. Create a simple REST API to manage entities in the H2 database
 1. Implement CRUD operations for the entities using Spring Data JPA
 1. Test the REST API using Postman or any other API testing tool
 1. Add validation to the REST API endpoints to ensure data integrity
 1. Implement error handling for the REST API to return appropriate HTTP status codes and messages
-1. Integrate Spring AI/MCP to add machine learning capabilities to the application
-1. Create a machine learning model using Spring AI/MCP and train it with sample data
 1. Use the trained machine learning model to make predictions in the REST API endpoints
 1. Implement a feature to visualize the predictions using a charting library such as Chart.js
-1. Continuously improve the machine learning model by retraining it with new data and evaluating its performance
 1. Implement a feature to export the data from the H2 database to a CSV file
 1. Implement a feature to import data from a CSV file into the H2 database
 ### MVP 2

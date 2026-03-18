@@ -1,0 +1,1995 @@
+year,month,crop_type,soil_type,region,season,rainfall_mm,farmer_land_size_acres,previous_input_usage
+2022,2,Tomato,Red,Madhya Pradesh,Rabi,707,7.54,Mancozeb
+2022,2,Tomato,Red,Madhya Pradesh,Rabi,707,7.54,Neem Oil
+2025,4,Tomato,Loamy,Maharashtra,Rabi,1033,18.36,Humic Acid
+2025,4,Tomato,Loamy,Maharashtra,Rabi,1033,18.36,Hybrid Tomato Seed
+2025,4,Tomato,Loamy,Maharashtra,Rabi,1033,18.36,Mancozeb
+2022,2,Tomato,Sandy,Madhya Pradesh,Rabi,831,4.18,Mancozeb
+2025,11,Rice,Clay,Telangana,Kharif,1437,10.06,Urea
+2025,11,Rice,Clay,Telangana,Kharif,1437,10.06,Zinc Sulphate
+2025,2,Maize,Alluvial,Gujarat,Kharif,1440,17.01,Urea
+2025,2,Maize,Alluvial,Gujarat,Kharif,1440,17.01,DAP
+2025,7,Cotton,Sandy,Madhya Pradesh,Kharif,1234,16.51,Urea
+2025,7,Cotton,Sandy,Madhya Pradesh,Kharif,1234,16.51,Imidacloprid
+2025,12,Chili,Clay,Karnataka,Rabi,547,15.0,Humic Acid
+2022,11,Rice,Clay,Maharashtra,Kharif,479,7.16,Zinc Sulphate
+2022,11,Rice,Clay,Maharashtra,Kharif,479,7.16,Urea
+2023,8,Cotton,Sandy,Telangana,Kharif,1138,10.06,Cypermethrin
+2023,3,Chili,Alluvial,Gujarat,Zaid,628,19.61,Hybrid Tomato Seed
+2023,3,Chili,Alluvial,Gujarat,Zaid,628,19.61,Neem Oil
+2023,3,Chili,Alluvial,Gujarat,Zaid,628,19.61,Imidacloprid
+2025,2,Rice,Clay,Punjab,Kharif,471,14.48,Carbendazim
+2023,9,Wheat,Sandy,Maharashtra,Rabi,620,24.99,MOP
+2023,9,Wheat,Sandy,Maharashtra,Rabi,620,24.99,Zinc Sulphate
+2022,12,Soybean,Sandy,Madhya Pradesh,Kharif,801,20.04,Mancozeb
+2022,6,Maize,Red,Punjab,Rabi,1233,21.1,Cypermethrin
+2022,6,Maize,Red,Punjab,Rabi,1233,21.1,Urea
+2022,6,Maize,Red,Punjab,Rabi,1233,21.1,MOP
+2023,8,Tomato,Red,Gujarat,Zaid,1405,19.0,Neem Oil
+2023,4,Tomato,Clay,Punjab,Zaid,344,9.92,Neem Oil
+2023,4,Tomato,Clay,Punjab,Zaid,344,9.92,Mancozeb
+2023,4,Tomato,Clay,Punjab,Zaid,344,9.92,Hybrid Tomato Seed
+2025,2,Tomato,Loamy,Telangana,Zaid,1045,1.36,Mancozeb
+2025,7,Cotton,Sandy,Madhya Pradesh,Kharif,1303,14.29,Urea
+2025,7,Cotton,Sandy,Madhya Pradesh,Kharif,1303,14.29,Imidacloprid
+2025,7,Cotton,Sandy,Madhya Pradesh,Kharif,1303,14.29,DAP
+2025,3,Chili,Clay,Madhya Pradesh,Rabi,934,5.52,Imidacloprid
+2024,5,Rice,Sandy,Telangana,Kharif,790,15.26,Carbendazim
+2024,5,Rice,Sandy,Telangana,Kharif,790,15.26,Imidacloprid
+2024,12,Maize,Clay,Telangana,Kharif,1484,12.32,Cypermethrin
+2024,12,Maize,Clay,Telangana,Kharif,1484,12.32,DAP
+2024,12,Maize,Clay,Telangana,Kharif,1484,12.32,MOP
+2022,6,Tomato,Sandy,Karnataka,Rabi,644,3.45,Mancozeb
+2022,6,Tomato,Sandy,Karnataka,Rabi,644,3.45,Imidacloprid
+2022,6,Tomato,Sandy,Karnataka,Rabi,644,3.45,Humic Acid
+2025,12,Soybean,Alluvial,Karnataka,Kharif,924,23.25,Urea
+2025,12,Soybean,Alluvial,Karnataka,Kharif,924,23.25,DAP
+2025,12,Soybean,Alluvial,Karnataka,Kharif,924,23.25,Mancozeb
+2023,12,Rice,Loamy,Karnataka,Kharif,1069,22.67,Zinc Sulphate
+2023,12,Rice,Loamy,Karnataka,Kharif,1069,22.67,Imidacloprid
+2025,10,Rice,Alluvial,Madhya Pradesh,Kharif,530,15.7,Hybrid Rice Seed
+2025,10,Rice,Alluvial,Madhya Pradesh,Kharif,530,15.7,Urea
+2023,3,Cotton,Sandy,Karnataka,Kharif,422,16.08,DAP
+2022,9,Tomato,Red,Gujarat,Rabi,642,9.97,Hybrid Tomato Seed
+2022,9,Tomato,Red,Gujarat,Rabi,642,9.97,Neem Oil
+2022,9,Tomato,Red,Gujarat,Rabi,642,9.97,Imidacloprid
+2022,11,Wheat,Loamy,Telangana,Rabi,419,0.99,MOP
+2022,11,Wheat,Loamy,Telangana,Rabi,419,0.99,Zinc Sulphate
+2022,6,Wheat,Loamy,Punjab,Rabi,1069,24.15,MOP
+2022,6,Wheat,Loamy,Punjab,Rabi,1069,24.15,Glyphosate
+2023,11,Rice,Loamy,Maharashtra,Kharif,1368,17.89,Imidacloprid
+2023,12,Rice,Red,Madhya Pradesh,Kharif,1011,13.87,DAP
+2023,12,Rice,Red,Madhya Pradesh,Kharif,1011,13.87,Hybrid Rice Seed
+2023,12,Rice,Red,Madhya Pradesh,Kharif,1011,13.87,Urea
+2023,7,Rice,Alluvial,Madhya Pradesh,Kharif,1126,18.71,Carbendazim
+2025,12,Maize,Loamy,Gujarat,Rabi,452,2.9,DAP
+2024,11,Soybean,Black,Gujarat,Kharif,1217,1.47,Urea
+2024,11,Soybean,Black,Gujarat,Kharif,1217,1.47,Rhizobium
+2024,11,Soybean,Black,Gujarat,Kharif,1217,1.47,DAP
+2022,12,Soybean,Loamy,Telangana,Kharif,589,2.6,Urea
+2022,12,Soybean,Loamy,Telangana,Kharif,589,2.6,Rhizobium
+2022,12,Soybean,Loamy,Telangana,Kharif,589,2.6,Mancozeb
+2022,6,Soybean,Alluvial,Madhya Pradesh,Kharif,397,10.39,Mancozeb
+2022,6,Soybean,Alluvial,Madhya Pradesh,Kharif,397,10.39,Rhizobium
+2022,6,Soybean,Alluvial,Madhya Pradesh,Kharif,397,10.39,Urea
+2025,6,Maize,Alluvial,Karnataka,Rabi,1152,14.76,Cypermethrin
+2022,6,Chili,Loamy,Punjab,Zaid,327,17.26,Neem Oil
+2022,6,Chili,Loamy,Punjab,Zaid,327,17.26,Hybrid Tomato Seed
+2022,11,Tomato,Alluvial,Maharashtra,Rabi,1131,7.0,Imidacloprid
+2022,11,Tomato,Alluvial,Maharashtra,Rabi,1131,7.0,Mancozeb
+2022,11,Tomato,Alluvial,Maharashtra,Rabi,1131,7.0,Humic Acid
+2022,2,Cotton,Red,Telangana,Kharif,806,15.7,Cypermethrin
+2025,7,Wheat,Loamy,Gujarat,Rabi,877,4.79,Glyphosate
+2025,7,Wheat,Loamy,Gujarat,Rabi,877,4.79,Urea
+2025,7,Wheat,Loamy,Gujarat,Rabi,877,4.79,DAP
+2025,11,Maize,Black,Karnataka,Rabi,694,21.77,Urea
+2025,6,Wheat,Clay,Punjab,Rabi,432,17.81,Urea
+2022,3,Maize,Red,Gujarat,Kharif,799,1.76,Urea
+2025,1,Soybean,Alluvial,Madhya Pradesh,Kharif,527,20.68,Rhizobium
+2024,10,Chili,Sandy,Gujarat,Zaid,920,2.33,Imidacloprid
+2024,10,Chili,Sandy,Gujarat,Zaid,920,2.33,Hybrid Tomato Seed
+2024,2,Rice,Alluvial,Karnataka,Kharif,1131,5.75,MOP
+2024,2,Rice,Alluvial,Karnataka,Kharif,1131,5.75,Carbendazim
+2024,2,Rice,Alluvial,Karnataka,Kharif,1131,5.75,DAP
+2022,8,Soybean,Alluvial,Madhya Pradesh,Kharif,814,22.33,DAP
+2025,7,Chili,Sandy,Madhya Pradesh,Rabi,1168,20.92,Humic Acid
+2025,7,Chili,Sandy,Madhya Pradesh,Rabi,1168,20.92,Neem Oil
+2025,6,Wheat,Red,Madhya Pradesh,Rabi,951,12.63,MOP
+2025,6,Wheat,Red,Madhya Pradesh,Rabi,951,12.63,Urea
+2025,6,Wheat,Red,Madhya Pradesh,Rabi,951,12.63,Zinc Sulphate
+2023,8,Cotton,Clay,Karnataka,Kharif,455,11.51,Imidacloprid
+2025,5,Rice,Alluvial,Telangana,Kharif,1058,12.14,Zinc Sulphate
+2022,5,Chili,Black,Madhya Pradesh,Zaid,1168,8.89,Imidacloprid
+2022,5,Chili,Black,Madhya Pradesh,Zaid,1168,8.89,Humic Acid
+2024,2,Chili,Red,Karnataka,Zaid,1493,19.0,Neem Oil
+2024,2,Chili,Red,Karnataka,Zaid,1493,19.0,Humic Acid
+2022,7,Rice,Clay,Madhya Pradesh,Kharif,1386,13.66,DAP
+2022,7,Rice,Clay,Madhya Pradesh,Kharif,1386,13.66,Zinc Sulphate
+2024,4,Rice,Alluvial,Maharashtra,Kharif,1288,7.16,Urea
+2024,4,Rice,Alluvial,Maharashtra,Kharif,1288,7.16,Imidacloprid
+2024,4,Rice,Alluvial,Maharashtra,Kharif,1288,7.16,DAP
+2023,10,Rice,Loamy,Punjab,Kharif,1151,15.62,Zinc Sulphate
+2023,10,Rice,Loamy,Punjab,Kharif,1151,15.62,Imidacloprid
+2022,7,Tomato,Sandy,Karnataka,Zaid,1305,15.55,Hybrid Tomato Seed
+2022,7,Tomato,Sandy,Karnataka,Zaid,1305,15.55,Humic Acid
+2022,7,Tomato,Sandy,Karnataka,Zaid,1305,15.55,Neem Oil
+2024,4,Maize,Loamy,Gujarat,Rabi,476,12.72,MOP
+2024,4,Maize,Loamy,Gujarat,Rabi,476,12.72,Cypermethrin
+2024,3,Wheat,Alluvial,Telangana,Rabi,1090,9.51,Glyphosate
+2023,11,Soybean,Red,Karnataka,Kharif,488,24.14,DAP
+2025,4,Cotton,Alluvial,Gujarat,Kharif,595,3.15,Glyphosate
+2023,12,Cotton,Alluvial,Telangana,Kharif,1079,13.76,DAP
+2023,12,Cotton,Alluvial,Telangana,Kharif,1079,13.76,Cypermethrin
+2023,12,Cotton,Alluvial,Telangana,Kharif,1079,13.76,Glyphosate
+2022,2,Cotton,Clay,Telangana,Kharif,554,16.34,Glyphosate
+2022,2,Cotton,Clay,Telangana,Kharif,554,16.34,Urea
+2022,2,Cotton,Clay,Telangana,Kharif,554,16.34,Cypermethrin
+2023,1,Soybean,Sandy,Maharashtra,Kharif,1032,11.19,Urea
+2023,1,Soybean,Sandy,Maharashtra,Kharif,1032,11.19,Mancozeb
+2023,1,Soybean,Sandy,Maharashtra,Kharif,1032,11.19,DAP
+2024,10,Soybean,Alluvial,Telangana,Kharif,1148,7.52,Rhizobium
+2024,10,Soybean,Alluvial,Telangana,Kharif,1148,7.52,Urea
+2024,10,Soybean,Alluvial,Telangana,Kharif,1148,7.52,DAP
+2024,5,Cotton,Clay,Telangana,Kharif,1141,16.49,Glyphosate
+2024,5,Cotton,Clay,Telangana,Kharif,1141,16.49,Imidacloprid
+2025,3,Soybean,Loamy,Madhya Pradesh,Kharif,340,18.66,Rhizobium
+2025,3,Soybean,Loamy,Madhya Pradesh,Kharif,340,18.66,Urea
+2025,3,Soybean,Loamy,Madhya Pradesh,Kharif,340,18.66,DAP
+2025,1,Wheat,Alluvial,Madhya Pradesh,Rabi,811,5.35,MOP
+2025,1,Wheat,Alluvial,Madhya Pradesh,Rabi,811,5.35,Glyphosate
+2025,1,Wheat,Alluvial,Madhya Pradesh,Rabi,811,5.35,Urea
+2023,10,Maize,Loamy,Gujarat,Kharif,1429,1.01,DAP
+2023,7,Wheat,Red,Madhya Pradesh,Rabi,425,21.24,Urea
+2023,7,Wheat,Red,Madhya Pradesh,Rabi,425,21.24,Glyphosate
+2023,7,Wheat,Red,Madhya Pradesh,Rabi,425,21.24,MOP
+2024,12,Tomato,Alluvial,Telangana,Zaid,300,13.08,Hybrid Tomato Seed
+2024,12,Tomato,Alluvial,Telangana,Zaid,300,13.08,Neem Oil
+2024,12,Tomato,Alluvial,Telangana,Zaid,300,13.08,Humic Acid
+2025,5,Cotton,Loamy,Madhya Pradesh,Kharif,934,18.58,Imidacloprid
+2025,5,Cotton,Loamy,Madhya Pradesh,Kharif,934,18.58,Urea
+2024,12,Wheat,Red,Telangana,Rabi,1399,9.61,Zinc Sulphate
+2024,12,Wheat,Red,Telangana,Rabi,1399,9.61,Urea
+2023,10,Wheat,Clay,Maharashtra,Rabi,312,14.21,Zinc Sulphate
+2023,10,Wheat,Clay,Maharashtra,Rabi,312,14.21,DAP
+2023,10,Wheat,Clay,Maharashtra,Rabi,312,14.21,Urea
+2023,1,Cotton,Black,Telangana,Kharif,1437,8.62,Cypermethrin
+2023,1,Cotton,Black,Telangana,Kharif,1437,8.62,DAP
+2023,11,Soybean,Loamy,Madhya Pradesh,Kharif,654,5.24,Urea
+2025,11,Rice,Clay,Telangana,Kharif,1217,2.58,MOP
+2025,11,Rice,Clay,Telangana,Kharif,1217,2.58,Carbendazim
+2025,3,Chili,Loamy,Gujarat,Rabi,519,21.93,Neem Oil
+2022,4,Tomato,Alluvial,Karnataka,Rabi,1245,12.63,Imidacloprid
+2022,4,Tomato,Alluvial,Karnataka,Rabi,1245,12.63,Neem Oil
+2022,4,Rice,Clay,Telangana,Kharif,1099,17.56,Hybrid Rice Seed
+2022,4,Rice,Clay,Telangana,Kharif,1099,17.56,Zinc Sulphate
+2024,7,Chili,Red,Karnataka,Rabi,1185,10.18,Imidacloprid
+2023,10,Tomato,Red,Punjab,Zaid,1378,5.29,Imidacloprid
+2023,10,Tomato,Red,Punjab,Zaid,1378,5.29,Hybrid Tomato Seed
+2025,7,Chili,Black,Telangana,Rabi,1027,18.8,Imidacloprid
+2023,9,Tomato,Black,Gujarat,Zaid,1477,21.25,Humic Acid
+2024,5,Rice,Clay,Gujarat,Kharif,665,23.21,Imidacloprid
+2024,5,Rice,Clay,Gujarat,Kharif,665,23.21,MOP
+2024,5,Rice,Clay,Gujarat,Kharif,665,23.21,Carbendazim
+2022,5,Soybean,Red,Maharashtra,Kharif,1142,19.43,Mancozeb
+2022,5,Soybean,Red,Maharashtra,Kharif,1142,19.43,Urea
+2022,5,Soybean,Red,Maharashtra,Kharif,1142,19.43,DAP
+2024,6,Maize,Black,Maharashtra,Rabi,743,0.57,DAP
+2024,6,Wheat,Red,Maharashtra,Rabi,375,2.31,Urea
+2025,5,Wheat,Black,Gujarat,Rabi,1384,11.42,MOP
+2025,5,Wheat,Black,Gujarat,Rabi,1384,11.42,Glyphosate
+2023,11,Tomato,Black,Punjab,Zaid,1090,21.66,Hybrid Tomato Seed
+2023,11,Tomato,Black,Punjab,Zaid,1090,21.66,Mancozeb
+2023,11,Tomato,Black,Punjab,Zaid,1090,21.66,Imidacloprid
+2023,8,Wheat,Sandy,Madhya Pradesh,Rabi,1373,7.73,Zinc Sulphate
+2023,8,Wheat,Sandy,Madhya Pradesh,Rabi,1373,7.73,Glyphosate
+2024,11,Tomato,Clay,Telangana,Rabi,1133,6.09,Neem Oil
+2024,11,Tomato,Clay,Telangana,Rabi,1133,6.09,Imidacloprid
+2024,11,Tomato,Clay,Telangana,Rabi,1133,6.09,Hybrid Tomato Seed
+2022,7,Rice,Red,Madhya Pradesh,Kharif,830,17.92,Imidacloprid
+2024,9,Soybean,Loamy,Karnataka,Kharif,890,17.13,Urea
+2024,9,Soybean,Loamy,Karnataka,Kharif,890,17.13,Mancozeb
+2024,9,Soybean,Loamy,Karnataka,Kharif,890,17.13,Rhizobium
+2024,8,Wheat,Black,Maharashtra,Rabi,792,6.19,Glyphosate
+2024,8,Wheat,Black,Maharashtra,Rabi,792,6.19,Urea
+2024,8,Wheat,Black,Maharashtra,Rabi,792,6.19,DAP
+2024,9,Wheat,Black,Karnataka,Rabi,907,4.63,Zinc Sulphate
+2024,9,Wheat,Black,Karnataka,Rabi,907,4.63,Urea
+2024,9,Wheat,Black,Karnataka,Rabi,907,4.63,Glyphosate
+2024,6,Cotton,Clay,Madhya Pradesh,Kharif,637,7.72,Glyphosate
+2024,6,Cotton,Clay,Madhya Pradesh,Kharif,637,7.72,DAP
+2024,6,Maize,Loamy,Madhya Pradesh,Kharif,440,18.56,Urea
+2024,6,Maize,Loamy,Madhya Pradesh,Kharif,440,18.56,MOP
+2024,6,Maize,Loamy,Madhya Pradesh,Kharif,440,18.56,Cypermethrin
+2023,2,Chili,Red,Gujarat,Rabi,604,3.59,Hybrid Tomato Seed
+2023,10,Wheat,Red,Gujarat,Rabi,1461,11.92,Urea
+2025,2,Cotton,Loamy,Telangana,Kharif,321,3.94,Urea
+2024,1,Maize,Loamy,Maharashtra,Kharif,712,20.95,Urea
+2024,1,Maize,Loamy,Maharashtra,Kharif,712,20.95,DAP
+2022,7,Cotton,Loamy,Madhya Pradesh,Kharif,478,15.95,DAP
+2022,7,Cotton,Loamy,Madhya Pradesh,Kharif,478,15.95,Glyphosate
+2022,7,Cotton,Loamy,Madhya Pradesh,Kharif,478,15.95,Cypermethrin
+2024,6,Maize,Black,Punjab,Rabi,811,4.92,MOP
+2024,6,Maize,Black,Punjab,Rabi,811,4.92,DAP
+2022,6,Chili,Loamy,Punjab,Rabi,1242,5.05,Humic Acid
+2022,6,Chili,Loamy,Punjab,Rabi,1242,5.05,Neem Oil
+2024,6,Tomato,Alluvial,Telangana,Zaid,1099,10.88,Imidacloprid
+2024,6,Tomato,Alluvial,Telangana,Zaid,1099,10.88,Neem Oil
+2023,7,Soybean,Clay,Karnataka,Kharif,1297,8.86,DAP
+2025,3,Rice,Loamy,Madhya Pradesh,Kharif,950,4.83,Imidacloprid
+2025,2,Cotton,Loamy,Karnataka,Kharif,929,20.99,Imidacloprid
+2023,5,Cotton,Black,Telangana,Kharif,1393,10.89,Cypermethrin
+2023,5,Cotton,Black,Telangana,Kharif,1393,10.89,Imidacloprid
+2023,5,Cotton,Black,Telangana,Kharif,1393,10.89,Urea
+2025,12,Maize,Loamy,Punjab,Rabi,938,22.17,DAP
+2025,12,Maize,Loamy,Punjab,Rabi,938,22.17,Cypermethrin
+2025,12,Maize,Loamy,Punjab,Rabi,938,22.17,MOP
+2024,10,Tomato,Clay,Madhya Pradesh,Rabi,1020,10.92,Hybrid Tomato Seed
+2022,6,Maize,Loamy,Karnataka,Rabi,1020,15.88,Urea
+2022,6,Maize,Loamy,Karnataka,Rabi,1020,15.88,MOP
+2023,7,Wheat,Sandy,Punjab,Rabi,967,17.56,Glyphosate
+2023,7,Wheat,Sandy,Punjab,Rabi,967,17.56,Urea
+2023,7,Wheat,Sandy,Punjab,Rabi,967,17.56,MOP
+2025,4,Rice,Sandy,Karnataka,Kharif,697,23.33,Zinc Sulphate
+2025,4,Rice,Sandy,Karnataka,Kharif,697,23.33,DAP
+2022,12,Rice,Black,Telangana,Kharif,1410,21.5,Zinc Sulphate
+2025,3,Tomato,Red,Madhya Pradesh,Rabi,772,11.05,Hybrid Tomato Seed
+2025,3,Tomato,Red,Madhya Pradesh,Rabi,772,11.05,Mancozeb
+2025,3,Tomato,Red,Madhya Pradesh,Rabi,772,11.05,Neem Oil
+2025,2,Tomato,Black,Punjab,Zaid,1123,7.59,Hybrid Tomato Seed
+2025,2,Tomato,Black,Punjab,Zaid,1123,7.59,Mancozeb
+2025,2,Tomato,Black,Punjab,Zaid,1123,7.59,Neem Oil
+2025,6,Chili,Clay,Madhya Pradesh,Zaid,495,7.03,Humic Acid
+2023,3,Rice,Red,Telangana,Kharif,795,16.78,Imidacloprid
+2024,6,Soybean,Alluvial,Gujarat,Kharif,1075,22.0,Urea
+2024,6,Soybean,Alluvial,Gujarat,Kharif,1075,22.0,Rhizobium
+2024,12,Soybean,Red,Maharashtra,Kharif,882,21.68,Urea
+2024,12,Soybean,Red,Maharashtra,Kharif,882,21.68,Rhizobium
+2024,12,Soybean,Red,Maharashtra,Kharif,882,21.68,DAP
+2024,2,Cotton,Red,Madhya Pradesh,Kharif,423,24.58,Urea
+2024,2,Cotton,Red,Madhya Pradesh,Kharif,423,24.58,Glyphosate
+2024,2,Cotton,Red,Madhya Pradesh,Kharif,423,24.58,Imidacloprid
+2022,9,Soybean,Red,Madhya Pradesh,Kharif,395,20.19,Urea
+2025,1,Tomato,Loamy,Telangana,Zaid,418,13.64,Imidacloprid
+2023,9,Chili,Loamy,Telangana,Rabi,467,3.69,Imidacloprid
+2023,9,Chili,Loamy,Telangana,Rabi,467,3.69,Humic Acid
+2025,11,Soybean,Black,Punjab,Kharif,711,18.43,Rhizobium
+2025,11,Soybean,Black,Punjab,Kharif,711,18.43,DAP
+2023,9,Wheat,Black,Punjab,Rabi,321,6.56,DAP
+2023,9,Wheat,Black,Punjab,Rabi,321,6.56,Zinc Sulphate
+2023,9,Wheat,Black,Punjab,Rabi,321,6.56,Glyphosate
+2022,10,Wheat,Loamy,Karnataka,Rabi,498,1.8,Zinc Sulphate
+2022,10,Wheat,Loamy,Karnataka,Rabi,498,1.8,Urea
+2024,3,Soybean,Alluvial,Telangana,Kharif,922,11.58,Rhizobium
+2024,3,Soybean,Alluvial,Telangana,Kharif,922,11.58,Urea
+2024,4,Rice,Alluvial,Maharashtra,Kharif,845,21.01,DAP
+2024,4,Rice,Alluvial,Maharashtra,Kharif,845,21.01,Carbendazim
+2024,4,Rice,Alluvial,Maharashtra,Kharif,845,21.01,MOP
+2025,11,Maize,Black,Madhya Pradesh,Rabi,1290,2.84,Urea
+2025,11,Maize,Black,Madhya Pradesh,Rabi,1290,2.84,DAP
+2024,12,Soybean,Black,Karnataka,Kharif,379,3.02,Mancozeb
+2024,12,Soybean,Black,Karnataka,Kharif,379,3.02,Rhizobium
+2022,10,Cotton,Clay,Madhya Pradesh,Kharif,499,22.02,Cypermethrin
+2022,10,Cotton,Clay,Madhya Pradesh,Kharif,499,22.02,Glyphosate
+2024,5,Tomato,Clay,Punjab,Zaid,943,18.65,Neem Oil
+2024,5,Tomato,Clay,Punjab,Zaid,943,18.65,Mancozeb
+2024,5,Tomato,Clay,Punjab,Zaid,943,18.65,Imidacloprid
+2024,12,Cotton,Loamy,Maharashtra,Kharif,1282,10.01,Cypermethrin
+2024,12,Cotton,Loamy,Maharashtra,Kharif,1282,10.01,Imidacloprid
+2024,12,Cotton,Loamy,Maharashtra,Kharif,1282,10.01,DAP
+2023,5,Maize,Black,Karnataka,Rabi,844,13.32,Cypermethrin
+2024,7,Chili,Red,Gujarat,Zaid,461,6.85,Imidacloprid
+2024,8,Rice,Loamy,Punjab,Kharif,575,15.5,Imidacloprid
+2024,8,Rice,Loamy,Punjab,Kharif,575,15.5,Hybrid Rice Seed
+2023,11,Tomato,Alluvial,Madhya Pradesh,Zaid,1406,13.61,Imidacloprid
+2022,12,Cotton,Sandy,Gujarat,Kharif,519,6.99,Cypermethrin
+2023,12,Wheat,Sandy,Punjab,Rabi,1410,3.99,Zinc Sulphate
+2023,12,Wheat,Sandy,Punjab,Rabi,1410,3.99,DAP
+2024,9,Wheat,Clay,Maharashtra,Rabi,1110,14.91,DAP
+2025,11,Tomato,Black,Telangana,Rabi,393,15.37,Neem Oil
+2025,11,Tomato,Black,Telangana,Rabi,393,15.37,Humic Acid
+2025,8,Soybean,Sandy,Maharashtra,Kharif,843,1.2,Mancozeb
+2025,8,Soybean,Sandy,Maharashtra,Kharif,843,1.2,DAP
+2024,5,Rice,Sandy,Punjab,Kharif,303,2.59,MOP
+2024,5,Rice,Sandy,Punjab,Kharif,303,2.59,Carbendazim
+2025,4,Soybean,Alluvial,Karnataka,Kharif,432,22.66,Urea
+2025,4,Soybean,Alluvial,Karnataka,Kharif,432,22.66,DAP
+2023,11,Maize,Sandy,Madhya Pradesh,Rabi,561,13.35,Cypermethrin
+2023,11,Maize,Sandy,Madhya Pradesh,Rabi,561,13.35,DAP
+2023,11,Maize,Sandy,Madhya Pradesh,Rabi,561,13.35,MOP
+2022,10,Tomato,Clay,Gujarat,Rabi,529,4.55,Hybrid Tomato Seed
+2024,8,Maize,Alluvial,Gujarat,Rabi,1055,16.26,MOP
+2024,11,Chili,Black,Karnataka,Rabi,336,0.7,Imidacloprid
+2024,11,Chili,Black,Karnataka,Rabi,336,0.7,Neem Oil
+2024,11,Chili,Black,Karnataka,Rabi,336,0.7,Hybrid Tomato Seed
+2022,6,Soybean,Red,Maharashtra,Kharif,605,8.54,Rhizobium
+2023,1,Chili,Clay,Gujarat,Rabi,760,2.92,Hybrid Tomato Seed
+2023,1,Chili,Clay,Gujarat,Rabi,760,2.92,Neem Oil
+2023,11,Wheat,Alluvial,Gujarat,Rabi,952,11.73,DAP
+2023,11,Wheat,Alluvial,Gujarat,Rabi,952,11.73,Glyphosate
+2023,11,Wheat,Alluvial,Gujarat,Rabi,952,11.73,MOP
+2023,7,Cotton,Red,Karnataka,Kharif,890,20.93,Urea
+2023,3,Soybean,Alluvial,Punjab,Kharif,1472,12.47,Rhizobium
+2023,3,Soybean,Alluvial,Punjab,Kharif,1472,12.47,DAP
+2022,7,Chili,Sandy,Madhya Pradesh,Zaid,730,22.98,Humic Acid
+2024,6,Maize,Clay,Gujarat,Rabi,512,24.11,MOP
+2024,6,Maize,Clay,Gujarat,Rabi,512,24.11,DAP
+2024,6,Maize,Clay,Gujarat,Rabi,512,24.11,Cypermethrin
+2025,7,Soybean,Alluvial,Karnataka,Kharif,1452,21.27,Mancozeb
+2025,7,Soybean,Alluvial,Karnataka,Kharif,1452,21.27,DAP
+2025,7,Soybean,Alluvial,Karnataka,Kharif,1452,21.27,Urea
+2024,8,Maize,Loamy,Telangana,Rabi,1058,18.73,Cypermethrin
+2024,8,Maize,Loamy,Telangana,Rabi,1058,18.73,DAP
+2024,10,Chili,Black,Karnataka,Zaid,1386,24.77,Humic Acid
+2022,11,Chili,Alluvial,Karnataka,Zaid,745,24.86,Neem Oil
+2022,11,Chili,Alluvial,Karnataka,Zaid,745,24.86,Imidacloprid
+2023,12,Wheat,Alluvial,Gujarat,Rabi,779,0.51,Zinc Sulphate
+2023,12,Wheat,Alluvial,Gujarat,Rabi,779,0.51,Glyphosate
+2024,12,Chili,Red,Punjab,Zaid,1098,7.17,Humic Acid
+2024,12,Chili,Red,Punjab,Zaid,1098,7.17,Neem Oil
+2025,10,Chili,Clay,Maharashtra,Zaid,1245,23.02,Hybrid Tomato Seed
+2023,12,Soybean,Clay,Karnataka,Kharif,942,5.31,Mancozeb
+2022,12,Wheat,Sandy,Madhya Pradesh,Rabi,862,13.38,MOP
+2022,12,Wheat,Sandy,Madhya Pradesh,Rabi,862,13.38,Zinc Sulphate
+2022,12,Wheat,Sandy,Madhya Pradesh,Rabi,862,13.38,Glyphosate
+2022,6,Wheat,Red,Gujarat,Rabi,812,19.91,MOP
+2022,6,Wheat,Red,Gujarat,Rabi,812,19.91,Urea
+2022,6,Wheat,Red,Gujarat,Rabi,812,19.91,Glyphosate
+2022,2,Cotton,Red,Punjab,Kharif,692,18.46,DAP
+2022,2,Cotton,Red,Punjab,Kharif,692,18.46,Glyphosate
+2022,2,Cotton,Red,Punjab,Kharif,692,18.46,Urea
+2024,1,Maize,Red,Karnataka,Kharif,402,8.67,Cypermethrin
+2023,5,Wheat,Alluvial,Maharashtra,Rabi,495,5.74,Zinc Sulphate
+2023,5,Wheat,Alluvial,Maharashtra,Rabi,495,5.74,MOP
+2023,5,Wheat,Alluvial,Maharashtra,Rabi,495,5.74,Glyphosate
+2025,6,Cotton,Sandy,Telangana,Kharif,974,10.65,Cypermethrin
+2025,6,Cotton,Sandy,Telangana,Kharif,974,10.65,Urea
+2023,4,Cotton,Sandy,Madhya Pradesh,Kharif,1353,1.24,DAP
+2022,12,Rice,Sandy,Maharashtra,Kharif,1116,22.08,Carbendazim
+2024,11,Tomato,Black,Karnataka,Zaid,898,22.5,Mancozeb
+2022,7,Tomato,Loamy,Telangana,Rabi,770,12.41,Neem Oil
+2022,7,Tomato,Loamy,Telangana,Rabi,770,12.41,Mancozeb
+2022,9,Chili,Clay,Madhya Pradesh,Rabi,902,24.98,Hybrid Tomato Seed
+2022,4,Tomato,Alluvial,Maharashtra,Zaid,440,18.78,Humic Acid
+2022,4,Tomato,Alluvial,Maharashtra,Zaid,440,18.78,Hybrid Tomato Seed
+2022,4,Tomato,Alluvial,Maharashtra,Zaid,440,18.78,Imidacloprid
+2024,9,Soybean,Black,Karnataka,Kharif,651,23.48,Rhizobium
+2024,9,Soybean,Black,Karnataka,Kharif,651,23.48,DAP
+2024,9,Chili,Clay,Punjab,Zaid,1306,19.8,Imidacloprid
+2024,9,Chili,Clay,Punjab,Zaid,1306,19.8,Neem Oil
+2024,9,Chili,Clay,Punjab,Zaid,1306,19.8,Hybrid Tomato Seed
+2023,9,Rice,Black,Gujarat,Kharif,1126,23.85,DAP
+2023,9,Rice,Black,Gujarat,Kharif,1126,23.85,Hybrid Rice Seed
+2024,11,Cotton,Sandy,Madhya Pradesh,Kharif,1181,15.31,Imidacloprid
+2024,11,Cotton,Sandy,Madhya Pradesh,Kharif,1181,15.31,DAP
+2023,7,Chili,Sandy,Telangana,Rabi,561,8.07,Neem Oil
+2022,10,Chili,Red,Karnataka,Rabi,589,5.54,Humic Acid
+2022,10,Chili,Red,Karnataka,Rabi,589,5.54,Hybrid Tomato Seed
+2022,10,Chili,Red,Karnataka,Rabi,589,5.54,Neem Oil
+2023,10,Maize,Clay,Telangana,Rabi,1192,23.05,DAP
+2023,10,Maize,Clay,Telangana,Rabi,1192,23.05,Cypermethrin
+2022,11,Tomato,Black,Telangana,Zaid,459,6.59,Neem Oil
+2022,11,Tomato,Black,Telangana,Zaid,459,6.59,Mancozeb
+2024,4,Maize,Loamy,Punjab,Rabi,737,15.53,Cypermethrin
+2024,4,Maize,Loamy,Punjab,Rabi,737,15.53,MOP
+2024,4,Maize,Loamy,Punjab,Rabi,737,15.53,Urea
+2025,10,Wheat,Clay,Karnataka,Rabi,867,8.46,Zinc Sulphate
+2025,10,Wheat,Clay,Karnataka,Rabi,867,8.46,MOP
+2024,7,Soybean,Sandy,Telangana,Kharif,1071,2.19,Mancozeb
+2024,11,Rice,Clay,Telangana,Kharif,904,22.6,Urea
+2024,11,Rice,Clay,Telangana,Kharif,904,22.6,Imidacloprid
+2024,11,Rice,Clay,Telangana,Kharif,904,22.6,Carbendazim
+2025,4,Tomato,Loamy,Karnataka,Rabi,954,19.61,Neem Oil
+2025,4,Tomato,Loamy,Karnataka,Rabi,954,19.61,Humic Acid
+2025,4,Tomato,Loamy,Madhya Pradesh,Rabi,845,10.2,Mancozeb
+2025,4,Tomato,Loamy,Madhya Pradesh,Rabi,845,10.2,Humic Acid
+2023,8,Tomato,Red,Maharashtra,Zaid,305,15.56,Imidacloprid
+2025,8,Cotton,Alluvial,Telangana,Kharif,1358,0.57,Urea
+2025,9,Wheat,Black,Punjab,Rabi,1458,4.98,DAP
+2025,9,Wheat,Black,Punjab,Rabi,1458,4.98,Zinc Sulphate
+2025,9,Wheat,Black,Punjab,Rabi,1458,4.98,Glyphosate
+2024,12,Tomato,Black,Punjab,Rabi,885,23.32,Imidacloprid
+2023,2,Tomato,Black,Telangana,Rabi,1450,13.36,Imidacloprid
+2023,2,Tomato,Black,Telangana,Rabi,1450,13.36,Humic Acid
+2025,2,Chili,Red,Karnataka,Rabi,1455,19.59,Humic Acid
+2023,6,Cotton,Alluvial,Madhya Pradesh,Kharif,361,8.37,Urea
+2023,6,Cotton,Alluvial,Madhya Pradesh,Kharif,361,8.37,Imidacloprid
+2024,12,Cotton,Sandy,Punjab,Kharif,980,8.26,Imidacloprid
+2024,6,Wheat,Loamy,Madhya Pradesh,Rabi,1156,8.35,Glyphosate
+2024,6,Wheat,Loamy,Madhya Pradesh,Rabi,1156,8.35,Urea
+2024,9,Rice,Black,Telangana,Kharif,520,12.55,Zinc Sulphate
+2024,9,Rice,Black,Telangana,Kharif,520,12.55,Carbendazim
+2024,5,Tomato,Red,Karnataka,Rabi,456,24.06,Imidacloprid
+2024,5,Tomato,Red,Karnataka,Rabi,456,24.06,Humic Acid
+2024,5,Tomato,Red,Karnataka,Rabi,456,24.06,Hybrid Tomato Seed
+2025,2,Tomato,Clay,Karnataka,Zaid,969,19.79,Mancozeb
+2025,2,Tomato,Clay,Karnataka,Zaid,969,19.79,Imidacloprid
+2025,5,Soybean,Loamy,Karnataka,Kharif,1249,3.28,Mancozeb
+2022,1,Soybean,Clay,Karnataka,Kharif,464,20.48,Rhizobium
+2022,1,Soybean,Clay,Karnataka,Kharif,464,20.48,Mancozeb
+2023,10,Maize,Clay,Karnataka,Kharif,342,16.85,DAP
+2023,10,Maize,Clay,Karnataka,Kharif,342,16.85,Cypermethrin
+2023,10,Maize,Clay,Karnataka,Kharif,342,16.85,Urea
+2025,3,Wheat,Alluvial,Gujarat,Rabi,682,2.03,DAP
+2025,3,Wheat,Alluvial,Gujarat,Rabi,682,2.03,Glyphosate
+2023,2,Soybean,Loamy,Gujarat,Kharif,848,6.99,DAP
+2023,2,Soybean,Loamy,Gujarat,Kharif,848,6.99,Mancozeb
+2023,2,Soybean,Loamy,Gujarat,Kharif,848,6.99,Rhizobium
+2022,5,Rice,Red,Maharashtra,Kharif,1010,19.62,Imidacloprid
+2023,6,Maize,Alluvial,Telangana,Kharif,956,9.76,Urea
+2023,6,Maize,Alluvial,Telangana,Kharif,956,9.76,MOP
+2023,12,Rice,Black,Maharashtra,Kharif,720,16.85,Zinc Sulphate
+2022,6,Wheat,Clay,Madhya Pradesh,Rabi,887,11.72,Glyphosate
+2022,5,Chili,Red,Maharashtra,Zaid,416,15.88,Humic Acid
+2022,5,Chili,Red,Maharashtra,Zaid,416,15.88,Hybrid Tomato Seed
+2022,5,Chili,Red,Maharashtra,Zaid,416,15.88,Neem Oil
+2022,4,Maize,Loamy,Madhya Pradesh,Rabi,1016,19.76,Urea
+2024,6,Wheat,Alluvial,Telangana,Rabi,756,0.84,Zinc Sulphate
+2024,6,Wheat,Alluvial,Telangana,Rabi,756,0.84,MOP
+2024,6,Wheat,Alluvial,Telangana,Rabi,756,0.84,DAP
+2022,12,Soybean,Alluvial,Telangana,Kharif,940,13.34,DAP
+2023,9,Chili,Loamy,Gujarat,Zaid,1107,22.32,Humic Acid
+2023,9,Chili,Loamy,Gujarat,Zaid,1107,22.32,Hybrid Tomato Seed
+2022,11,Tomato,Alluvial,Telangana,Zaid,380,20.84,Imidacloprid
+2022,11,Tomato,Alluvial,Telangana,Zaid,380,20.84,Mancozeb
+2022,12,Cotton,Loamy,Telangana,Kharif,452,16.54,DAP
+2022,12,Cotton,Loamy,Telangana,Kharif,452,16.54,Urea
+2024,3,Wheat,Clay,Telangana,Rabi,376,1.15,Urea
+2024,3,Wheat,Clay,Telangana,Rabi,376,1.15,Glyphosate
+2024,3,Wheat,Clay,Telangana,Rabi,376,1.15,MOP
+2024,10,Cotton,Red,Punjab,Kharif,739,23.69,Imidacloprid
+2024,10,Cotton,Red,Punjab,Kharif,739,23.69,Cypermethrin
+2024,10,Cotton,Red,Punjab,Kharif,739,23.69,Glyphosate
+2025,7,Wheat,Clay,Madhya Pradesh,Rabi,1293,18.84,Urea
+2025,7,Wheat,Clay,Madhya Pradesh,Rabi,1293,18.84,Zinc Sulphate
+2024,6,Maize,Red,Punjab,Rabi,1007,16.03,DAP
+2024,6,Maize,Red,Punjab,Rabi,1007,16.03,Cypermethrin
+2024,6,Maize,Red,Punjab,Rabi,1007,16.03,MOP
+2023,11,Cotton,Loamy,Maharashtra,Kharif,772,15.42,Urea
+2025,11,Maize,Clay,Gujarat,Kharif,1355,12.54,DAP
+2025,11,Maize,Clay,Gujarat,Kharif,1355,12.54,Urea
+2025,2,Cotton,Clay,Telangana,Kharif,1472,5.81,Imidacloprid
+2025,2,Cotton,Clay,Telangana,Kharif,1472,5.81,Cypermethrin
+2025,2,Cotton,Clay,Telangana,Kharif,1472,5.81,DAP
+2025,9,Rice,Black,Gujarat,Kharif,1131,20.48,MOP
+2022,10,Chili,Loamy,Maharashtra,Zaid,558,2.93,Hybrid Tomato Seed
+2022,10,Chili,Loamy,Maharashtra,Zaid,558,2.93,Imidacloprid
+2024,7,Chili,Loamy,Gujarat,Zaid,383,15.02,Imidacloprid
+2024,7,Chili,Loamy,Gujarat,Zaid,383,15.02,Neem Oil
+2024,12,Cotton,Alluvial,Maharashtra,Kharif,660,15.99,Urea
+2022,3,Soybean,Loamy,Karnataka,Kharif,1375,12.02,Urea
+2022,3,Soybean,Loamy,Karnataka,Kharif,1375,12.02,Mancozeb
+2022,3,Soybean,Loamy,Karnataka,Kharif,1375,12.02,Rhizobium
+2024,8,Rice,Sandy,Karnataka,Kharif,816,21.3,DAP
+2024,8,Rice,Sandy,Karnataka,Kharif,816,21.3,Imidacloprid
+2023,9,Soybean,Clay,Punjab,Kharif,683,1.13,DAP
+2023,9,Soybean,Clay,Punjab,Kharif,683,1.13,Urea
+2023,12,Maize,Loamy,Telangana,Kharif,436,15.63,MOP
+2023,12,Maize,Loamy,Telangana,Kharif,436,15.63,DAP
+2025,2,Chili,Red,Maharashtra,Zaid,1426,17.86,Hybrid Tomato Seed
+2025,2,Chili,Red,Maharashtra,Zaid,1426,17.86,Humic Acid
+2023,9,Soybean,Black,Karnataka,Kharif,1038,13.39,Mancozeb
+2025,8,Rice,Red,Maharashtra,Kharif,1079,0.53,Hybrid Rice Seed
+2025,8,Rice,Red,Maharashtra,Kharif,1079,0.53,MOP
+2023,10,Tomato,Alluvial,Maharashtra,Zaid,1422,18.84,Mancozeb
+2023,10,Tomato,Alluvial,Maharashtra,Zaid,1422,18.84,Humic Acid
+2025,7,Wheat,Black,Punjab,Rabi,990,5.13,MOP
+2024,6,Tomato,Black,Punjab,Zaid,1384,4.72,Humic Acid
+2022,2,Chili,Black,Madhya Pradesh,Zaid,1415,1.54,Humic Acid
+2022,2,Chili,Black,Madhya Pradesh,Zaid,1415,1.54,Neem Oil
+2022,2,Chili,Black,Madhya Pradesh,Zaid,1415,1.54,Hybrid Tomato Seed
+2022,8,Wheat,Loamy,Punjab,Rabi,1009,14.74,MOP
+2022,8,Wheat,Loamy,Punjab,Rabi,1009,14.74,Zinc Sulphate
+2022,8,Wheat,Loamy,Punjab,Rabi,1009,14.74,DAP
+2023,4,Maize,Loamy,Gujarat,Rabi,1147,15.38,Urea
+2023,4,Maize,Loamy,Gujarat,Rabi,1147,15.38,Cypermethrin
+2022,6,Chili,Loamy,Gujarat,Zaid,623,23.14,Humic Acid
+2022,6,Chili,Loamy,Gujarat,Zaid,623,23.14,Imidacloprid
+2022,4,Wheat,Loamy,Telangana,Rabi,1286,15.73,Glyphosate
+2024,10,Maize,Alluvial,Punjab,Rabi,405,2.49,DAP
+2025,1,Tomato,Alluvial,Punjab,Rabi,804,8.62,Mancozeb
+2023,6,Soybean,Loamy,Karnataka,Kharif,1362,10.23,DAP
+2025,8,Rice,Loamy,Gujarat,Kharif,752,12.14,Zinc Sulphate
+2025,8,Rice,Loamy,Gujarat,Kharif,752,12.14,Urea
+2025,8,Rice,Loamy,Gujarat,Kharif,752,12.14,Hybrid Rice Seed
+2022,6,Cotton,Red,Gujarat,Kharif,978,10.89,Imidacloprid
+2022,6,Cotton,Red,Gujarat,Kharif,978,10.89,Cypermethrin
+2022,6,Cotton,Red,Gujarat,Kharif,978,10.89,Urea
+2022,8,Rice,Sandy,Telangana,Kharif,732,21.54,Urea
+2022,8,Rice,Sandy,Telangana,Kharif,732,21.54,DAP
+2022,8,Rice,Sandy,Telangana,Kharif,732,21.54,Hybrid Rice Seed
+2022,10,Tomato,Clay,Madhya Pradesh,Rabi,932,12.56,Humic Acid
+2022,10,Tomato,Clay,Madhya Pradesh,Rabi,932,12.56,Mancozeb
+2024,4,Soybean,Red,Madhya Pradesh,Kharif,710,3.39,DAP
+2024,10,Tomato,Loamy,Madhya Pradesh,Zaid,1134,9.23,Neem Oil
+2024,10,Tomato,Loamy,Madhya Pradesh,Zaid,1134,9.23,Imidacloprid
+2022,6,Maize,Alluvial,Maharashtra,Kharif,713,20.18,MOP
+2022,6,Maize,Alluvial,Maharashtra,Kharif,713,20.18,DAP
+2022,6,Maize,Alluvial,Maharashtra,Kharif,713,20.18,Urea
+2022,12,Chili,Clay,Maharashtra,Rabi,1286,18.18,Imidacloprid
+2022,12,Chili,Clay,Maharashtra,Rabi,1286,18.18,Neem Oil
+2022,12,Chili,Clay,Maharashtra,Rabi,1286,18.18,Hybrid Tomato Seed
+2023,7,Cotton,Alluvial,Madhya Pradesh,Kharif,472,0.94,DAP
+2024,2,Tomato,Black,Karnataka,Rabi,701,16.03,Mancozeb
+2024,2,Tomato,Black,Karnataka,Rabi,701,16.03,Hybrid Tomato Seed
+2025,10,Tomato,Loamy,Gujarat,Zaid,340,6.22,Humic Acid
+2025,10,Tomato,Loamy,Gujarat,Zaid,340,6.22,Hybrid Tomato Seed
+2022,7,Chili,Alluvial,Madhya Pradesh,Zaid,487,13.24,Imidacloprid
+2022,7,Chili,Alluvial,Madhya Pradesh,Zaid,487,13.24,Neem Oil
+2022,7,Chili,Alluvial,Madhya Pradesh,Zaid,487,13.24,Humic Acid
+2024,2,Rice,Red,Punjab,Kharif,1047,24.4,Imidacloprid
+2024,2,Rice,Red,Punjab,Kharif,1047,24.4,Zinc Sulphate
+2022,3,Soybean,Black,Madhya Pradesh,Kharif,946,9.87,DAP
+2022,3,Soybean,Black,Madhya Pradesh,Kharif,946,9.87,Mancozeb
+2022,3,Soybean,Black,Madhya Pradesh,Kharif,946,9.87,Rhizobium
+2022,9,Tomato,Clay,Gujarat,Rabi,1211,3.02,Hybrid Tomato Seed
+2022,9,Tomato,Clay,Gujarat,Rabi,1211,3.02,Neem Oil
+2022,7,Wheat,Clay,Gujarat,Rabi,885,21.19,Glyphosate
+2022,7,Wheat,Clay,Gujarat,Rabi,885,21.19,Urea
+2022,7,Wheat,Clay,Gujarat,Rabi,885,21.19,Zinc Sulphate
+2023,9,Wheat,Alluvial,Madhya Pradesh,Rabi,621,7.68,DAP
+2024,7,Tomato,Alluvial,Madhya Pradesh,Rabi,614,15.13,Humic Acid
+2024,7,Tomato,Alluvial,Madhya Pradesh,Rabi,614,15.13,Neem Oil
+2023,3,Chili,Clay,Madhya Pradesh,Zaid,449,22.42,Imidacloprid
+2023,3,Chili,Clay,Madhya Pradesh,Zaid,449,22.42,Humic Acid
+2024,6,Maize,Alluvial,Karnataka,Rabi,472,10.47,Urea
+2024,1,Rice,Clay,Karnataka,Kharif,1381,10.27,MOP
+2024,1,Rice,Clay,Karnataka,Kharif,1381,10.27,Imidacloprid
+2024,1,Rice,Clay,Karnataka,Kharif,1381,10.27,Hybrid Rice Seed
+2022,4,Maize,Alluvial,Punjab,Kharif,436,11.41,Cypermethrin
+2022,4,Maize,Alluvial,Punjab,Kharif,436,11.41,Urea
+2022,4,Maize,Alluvial,Punjab,Kharif,436,11.41,MOP
+2023,8,Soybean,Black,Karnataka,Kharif,1156,8.93,Mancozeb
+2023,8,Soybean,Black,Karnataka,Kharif,1156,8.93,Urea
+2024,1,Maize,Alluvial,Karnataka,Kharif,925,12.89,DAP
+2024,1,Maize,Alluvial,Karnataka,Kharif,925,12.89,MOP
+2023,11,Chili,Sandy,Gujarat,Rabi,342,2.24,Hybrid Tomato Seed
+2025,10,Tomato,Clay,Karnataka,Rabi,449,10.72,Mancozeb
+2025,12,Maize,Sandy,Punjab,Rabi,1081,15.54,Cypermethrin
+2025,2,Cotton,Black,Telangana,Kharif,1224,3.69,DAP
+2023,8,Soybean,Sandy,Telangana,Kharif,837,2.18,Urea
+2023,8,Soybean,Sandy,Telangana,Kharif,837,2.18,Mancozeb
+2023,8,Soybean,Sandy,Telangana,Kharif,837,2.18,Rhizobium
+2022,8,Wheat,Clay,Punjab,Rabi,1452,9.67,Glyphosate
+2022,8,Wheat,Clay,Punjab,Rabi,1452,9.67,Urea
+2024,12,Cotton,Alluvial,Punjab,Kharif,911,6.89,Imidacloprid
+2024,12,Cotton,Alluvial,Punjab,Kharif,911,6.89,DAP
+2022,8,Cotton,Clay,Madhya Pradesh,Kharif,922,4.82,DAP
+2022,8,Cotton,Clay,Madhya Pradesh,Kharif,922,4.82,Glyphosate
+2022,8,Cotton,Clay,Madhya Pradesh,Kharif,922,4.82,Cypermethrin
+2025,11,Rice,Alluvial,Telangana,Kharif,1021,21.97,Carbendazim
+2025,6,Wheat,Alluvial,Telangana,Rabi,599,8.14,DAP
+2024,4,Rice,Sandy,Gujarat,Kharif,1343,7.83,DAP
+2024,5,Wheat,Alluvial,Telangana,Rabi,1167,22.4,Glyphosate
+2025,5,Chili,Loamy,Telangana,Rabi,1186,15.0,Neem Oil
+2025,5,Chili,Loamy,Telangana,Rabi,1186,15.0,Hybrid Tomato Seed
+2025,5,Chili,Loamy,Telangana,Rabi,1186,15.0,Imidacloprid
+2022,5,Chili,Loamy,Madhya Pradesh,Zaid,990,20.46,Humic Acid
+2022,5,Chili,Loamy,Madhya Pradesh,Zaid,990,20.46,Neem Oil
+2025,4,Soybean,Alluvial,Maharashtra,Kharif,948,8.52,Urea
+2025,4,Soybean,Alluvial,Maharashtra,Kharif,948,8.52,Mancozeb
+2025,4,Soybean,Alluvial,Maharashtra,Kharif,948,8.52,DAP
+2025,2,Rice,Alluvial,Gujarat,Kharif,1325,24.76,Hybrid Rice Seed
+2023,9,Tomato,Sandy,Telangana,Zaid,855,3.34,Neem Oil
+2023,9,Tomato,Sandy,Telangana,Zaid,855,3.34,Mancozeb
+2023,9,Tomato,Sandy,Telangana,Zaid,855,3.34,Humic Acid
+2024,10,Wheat,Sandy,Gujarat,Rabi,438,17.5,DAP
+2024,10,Wheat,Sandy,Gujarat,Rabi,438,17.5,Urea
+2024,10,Wheat,Sandy,Gujarat,Rabi,438,17.5,MOP
+2023,11,Maize,Alluvial,Telangana,Rabi,528,24.02,DAP
+2024,10,Rice,Alluvial,Gujarat,Kharif,1015,22.62,Carbendazim
+2024,10,Rice,Alluvial,Gujarat,Kharif,1015,22.62,DAP
+2024,10,Rice,Alluvial,Gujarat,Kharif,1015,22.62,Imidacloprid
+2024,11,Maize,Clay,Punjab,Rabi,1367,5.87,Urea
+2024,11,Maize,Clay,Punjab,Rabi,1367,5.87,Cypermethrin
+2024,11,Maize,Clay,Punjab,Rabi,1367,5.87,MOP
+2024,2,Chili,Alluvial,Punjab,Zaid,383,11.61,Imidacloprid
+2023,11,Rice,Alluvial,Punjab,Kharif,975,21.15,Zinc Sulphate
+2023,11,Rice,Alluvial,Punjab,Kharif,975,21.15,Carbendazim
+2023,11,Rice,Alluvial,Punjab,Kharif,975,21.15,MOP
+2022,1,Chili,Loamy,Punjab,Rabi,916,16.1,Imidacloprid
+2022,1,Chili,Loamy,Punjab,Rabi,916,16.1,Humic Acid
+2022,6,Wheat,Clay,Karnataka,Rabi,855,20.98,DAP
+2025,3,Soybean,Red,Telangana,Kharif,659,7.29,DAP
+2025,3,Soybean,Red,Telangana,Kharif,659,7.29,Rhizobium
+2025,3,Soybean,Red,Telangana,Kharif,659,7.29,Mancozeb
+2025,1,Chili,Red,Madhya Pradesh,Zaid,762,8.29,Humic Acid
+2025,1,Chili,Red,Madhya Pradesh,Zaid,762,8.29,Neem Oil
+2022,4,Cotton,Clay,Maharashtra,Kharif,1370,23.29,Glyphosate
+2025,4,Cotton,Clay,Madhya Pradesh,Kharif,305,14.82,Cypermethrin
+2025,3,Chili,Sandy,Madhya Pradesh,Rabi,678,17.55,Humic Acid
+2025,3,Chili,Sandy,Madhya Pradesh,Rabi,678,17.55,Imidacloprid
+2025,3,Chili,Sandy,Madhya Pradesh,Rabi,678,17.55,Neem Oil
+2024,7,Maize,Black,Karnataka,Kharif,1345,7.72,Cypermethrin
+2023,4,Wheat,Red,Gujarat,Rabi,1091,11.04,Glyphosate
+2025,11,Cotton,Black,Karnataka,Kharif,740,16.75,Imidacloprid
+2025,9,Tomato,Sandy,Gujarat,Zaid,1144,17.32,Hybrid Tomato Seed
+2023,11,Wheat,Black,Maharashtra,Rabi,1356,10.48,Urea
+2023,11,Wheat,Black,Maharashtra,Rabi,1356,10.48,Glyphosate
+2022,1,Tomato,Red,Madhya Pradesh,Zaid,864,22.27,Humic Acid
+2022,1,Tomato,Red,Madhya Pradesh,Zaid,864,22.27,Neem Oil
+2022,1,Tomato,Red,Madhya Pradesh,Zaid,864,22.27,Hybrid Tomato Seed
+2024,10,Maize,Alluvial,Karnataka,Kharif,1355,11.57,Cypermethrin
+2024,10,Maize,Alluvial,Karnataka,Kharif,1355,11.57,DAP
+2023,1,Cotton,Clay,Punjab,Kharif,1336,19.79,Glyphosate
+2023,1,Cotton,Clay,Punjab,Kharif,1336,19.79,Cypermethrin
+2024,6,Maize,Black,Karnataka,Rabi,1210,5.23,Urea
+2024,6,Maize,Black,Karnataka,Rabi,1210,5.23,DAP
+2022,1,Soybean,Sandy,Telangana,Kharif,1041,20.56,Rhizobium
+2022,1,Soybean,Sandy,Telangana,Kharif,1041,20.56,Urea
+2025,4,Wheat,Red,Gujarat,Rabi,423,12.06,Glyphosate
+2025,3,Soybean,Loamy,Karnataka,Kharif,449,7.65,Mancozeb
+2025,3,Soybean,Loamy,Karnataka,Kharif,449,7.65,Rhizobium
+2025,3,Soybean,Loamy,Karnataka,Kharif,449,7.65,DAP
+2022,10,Cotton,Clay,Karnataka,Kharif,719,2.02,Cypermethrin
+2024,7,Soybean,Red,Karnataka,Kharif,967,8.26,Rhizobium
+2024,7,Soybean,Red,Karnataka,Kharif,967,8.26,DAP
+2024,7,Soybean,Red,Karnataka,Kharif,967,8.26,Urea
+2023,12,Chili,Sandy,Punjab,Zaid,799,6.87,Neem Oil
+2022,5,Chili,Alluvial,Madhya Pradesh,Rabi,813,21.23,Imidacloprid
+2025,2,Tomato,Clay,Maharashtra,Rabi,1262,7.77,Imidacloprid
+2025,2,Tomato,Clay,Maharashtra,Rabi,1262,7.77,Humic Acid
+2025,2,Tomato,Clay,Maharashtra,Rabi,1262,7.77,Mancozeb
+2024,11,Soybean,Black,Punjab,Kharif,727,21.2,Rhizobium
+2024,11,Soybean,Black,Punjab,Kharif,727,21.2,Mancozeb
+2024,11,Soybean,Black,Punjab,Kharif,727,21.2,DAP
+2024,1,Cotton,Black,Telangana,Kharif,1318,14.16,Glyphosate
+2024,1,Cotton,Black,Telangana,Kharif,1318,14.16,DAP
+2024,1,Cotton,Black,Telangana,Kharif,1318,14.16,Urea
+2025,7,Wheat,Loamy,Karnataka,Rabi,1176,7.15,MOP
+2025,7,Wheat,Loamy,Karnataka,Rabi,1176,7.15,DAP
+2025,7,Wheat,Loamy,Karnataka,Rabi,1176,7.15,Zinc Sulphate
+2025,11,Rice,Alluvial,Gujarat,Kharif,950,8.29,Imidacloprid
+2025,11,Rice,Alluvial,Gujarat,Kharif,950,8.29,Urea
+2025,11,Rice,Alluvial,Gujarat,Kharif,950,8.29,DAP
+2025,5,Maize,Alluvial,Madhya Pradesh,Rabi,1486,6.71,Cypermethrin
+2024,2,Tomato,Clay,Madhya Pradesh,Zaid,1212,24.62,Humic Acid
+2022,4,Rice,Red,Gujarat,Kharif,1015,15.5,Urea
+2022,4,Rice,Red,Gujarat,Kharif,1015,15.5,Hybrid Rice Seed
+2022,10,Maize,Black,Maharashtra,Rabi,1428,4.97,Cypermethrin
+2022,10,Maize,Black,Maharashtra,Rabi,1428,4.97,Urea
+2022,10,Maize,Black,Maharashtra,Rabi,1428,4.97,MOP
+2023,2,Tomato,Red,Maharashtra,Rabi,703,24.96,Neem Oil
+2023,2,Tomato,Red,Maharashtra,Rabi,703,24.96,Imidacloprid
+2024,6,Chili,Red,Telangana,Rabi,723,17.07,Humic Acid
+2024,6,Chili,Red,Telangana,Rabi,723,17.07,Neem Oil
+2023,7,Cotton,Sandy,Gujarat,Kharif,300,23.6,Urea
+2023,7,Cotton,Sandy,Gujarat,Kharif,300,23.6,Glyphosate
+2024,5,Rice,Black,Telangana,Kharif,351,1.06,Zinc Sulphate
+2024,5,Rice,Black,Telangana,Kharif,351,1.06,Carbendazim
+2024,5,Rice,Black,Telangana,Kharif,351,1.06,Imidacloprid
+2025,6,Maize,Clay,Maharashtra,Rabi,453,11.73,Urea
+2025,6,Maize,Clay,Maharashtra,Rabi,453,11.73,Cypermethrin
+2024,2,Rice,Black,Punjab,Kharif,1329,3.12,Imidacloprid
+2024,2,Rice,Black,Punjab,Kharif,1329,3.12,Carbendazim
+2024,2,Rice,Black,Punjab,Kharif,1329,3.12,Zinc Sulphate
+2023,11,Wheat,Sandy,Karnataka,Rabi,1073,3.48,DAP
+2025,4,Tomato,Black,Punjab,Zaid,1300,2.55,Hybrid Tomato Seed
+2025,4,Tomato,Black,Punjab,Zaid,1300,2.55,Humic Acid
+2025,4,Tomato,Black,Punjab,Zaid,1300,2.55,Imidacloprid
+2023,11,Rice,Sandy,Maharashtra,Kharif,1040,7.9,Imidacloprid
+2025,1,Rice,Alluvial,Punjab,Kharif,1079,3.54,Urea
+2025,1,Rice,Alluvial,Punjab,Kharif,1079,3.54,Zinc Sulphate
+2023,8,Chili,Sandy,Madhya Pradesh,Zaid,1301,14.47,Humic Acid
+2023,8,Chili,Sandy,Madhya Pradesh,Zaid,1301,14.47,Imidacloprid
+2024,6,Cotton,Alluvial,Gujarat,Kharif,848,18.56,DAP
+2024,6,Cotton,Alluvial,Gujarat,Kharif,848,18.56,Urea
+2024,6,Cotton,Alluvial,Gujarat,Kharif,848,18.56,Cypermethrin
+2024,1,Rice,Clay,Telangana,Kharif,998,19.25,MOP
+2024,1,Rice,Clay,Telangana,Kharif,998,19.25,Imidacloprid
+2022,5,Tomato,Alluvial,Gujarat,Rabi,1010,9.49,Neem Oil
+2023,1,Soybean,Loamy,Karnataka,Kharif,1304,7.8,Urea
+2024,7,Rice,Sandy,Madhya Pradesh,Kharif,823,10.67,Urea
+2024,7,Rice,Sandy,Madhya Pradesh,Kharif,823,10.67,Carbendazim
+2024,7,Rice,Sandy,Madhya Pradesh,Kharif,823,10.67,Hybrid Rice Seed
+2024,8,Cotton,Alluvial,Telangana,Kharif,1019,8.72,DAP
+2024,8,Cotton,Alluvial,Telangana,Kharif,1019,8.72,Cypermethrin
+2024,8,Cotton,Alluvial,Telangana,Kharif,1019,8.72,Urea
+2024,12,Wheat,Loamy,Punjab,Rabi,589,24.31,Zinc Sulphate
+2024,12,Wheat,Loamy,Punjab,Rabi,589,24.31,Glyphosate
+2025,4,Soybean,Red,Telangana,Kharif,557,22.56,DAP
+2025,4,Soybean,Red,Telangana,Kharif,557,22.56,Urea
+2022,9,Rice,Sandy,Punjab,Kharif,1022,17.09,MOP
+2022,9,Rice,Sandy,Punjab,Kharif,1022,17.09,Zinc Sulphate
+2022,9,Rice,Sandy,Punjab,Kharif,1022,17.09,DAP
+2023,5,Wheat,Clay,Karnataka,Rabi,1000,23.94,DAP
+2024,7,Wheat,Black,Madhya Pradesh,Rabi,1435,18.01,DAP
+2022,7,Cotton,Red,Karnataka,Kharif,1167,7.97,Cypermethrin
+2022,7,Cotton,Red,Karnataka,Kharif,1167,7.97,Urea
+2023,6,Maize,Alluvial,Madhya Pradesh,Kharif,1368,14.14,MOP
+2023,9,Tomato,Clay,Maharashtra,Rabi,1003,7.64,Mancozeb
+2023,9,Tomato,Clay,Maharashtra,Rabi,1003,7.64,Neem Oil
+2025,6,Tomato,Alluvial,Maharashtra,Zaid,538,4.8,Mancozeb
+2025,6,Tomato,Alluvial,Maharashtra,Zaid,538,4.8,Hybrid Tomato Seed
+2024,3,Maize,Alluvial,Punjab,Kharif,858,11.25,Cypermethrin
+2024,3,Maize,Alluvial,Punjab,Kharif,858,11.25,DAP
+2024,12,Wheat,Loamy,Maharashtra,Rabi,619,23.97,Urea
+2024,12,Wheat,Loamy,Maharashtra,Rabi,619,23.97,DAP
+2025,9,Chili,Red,Telangana,Zaid,314,14.51,Humic Acid
+2025,9,Chili,Red,Telangana,Zaid,314,14.51,Imidacloprid
+2025,9,Chili,Red,Telangana,Zaid,314,14.51,Neem Oil
+2022,11,Rice,Loamy,Maharashtra,Kharif,1188,20.74,Urea
+2022,11,Rice,Loamy,Maharashtra,Kharif,1188,20.74,Imidacloprid
+2022,11,Rice,Loamy,Maharashtra,Kharif,1188,20.74,DAP
+2022,6,Wheat,Loamy,Punjab,Rabi,1279,0.87,DAP
+2022,6,Wheat,Loamy,Punjab,Rabi,1279,0.87,Glyphosate
+2022,1,Cotton,Red,Madhya Pradesh,Kharif,1078,2.44,Urea
+2022,1,Cotton,Red,Madhya Pradesh,Kharif,1078,2.44,Imidacloprid
+2022,1,Cotton,Red,Madhya Pradesh,Kharif,1078,2.44,Cypermethrin
+2022,2,Soybean,Sandy,Maharashtra,Kharif,1047,21.5,Urea
+2024,11,Tomato,Black,Telangana,Rabi,1195,6.2,Neem Oil
+2024,11,Tomato,Black,Telangana,Rabi,1195,6.2,Hybrid Tomato Seed
+2025,8,Soybean,Alluvial,Karnataka,Kharif,930,18.16,Rhizobium
+2024,1,Tomato,Black,Punjab,Zaid,1157,3.38,Mancozeb
+2024,1,Tomato,Black,Punjab,Zaid,1157,3.38,Humic Acid
+2024,1,Tomato,Black,Punjab,Zaid,1157,3.38,Hybrid Tomato Seed
+2025,7,Rice,Red,Maharashtra,Kharif,852,2.68,Carbendazim
+2024,4,Tomato,Alluvial,Gujarat,Zaid,900,18.91,Neem Oil
+2024,4,Tomato,Alluvial,Gujarat,Zaid,900,18.91,Mancozeb
+2022,2,Cotton,Clay,Madhya Pradesh,Kharif,559,24.97,DAP
+2022,2,Cotton,Clay,Madhya Pradesh,Kharif,559,24.97,Imidacloprid
+2022,12,Soybean,Sandy,Gujarat,Kharif,958,3.19,Urea
+2022,12,Soybean,Sandy,Gujarat,Kharif,958,3.19,Mancozeb
+2022,12,Soybean,Sandy,Gujarat,Kharif,958,3.19,Rhizobium
+2024,7,Rice,Black,Telangana,Kharif,1332,22.54,Carbendazim
+2023,7,Rice,Sandy,Maharashtra,Kharif,1336,5.55,Zinc Sulphate
+2023,7,Rice,Sandy,Maharashtra,Kharif,1336,5.55,Urea
+2025,12,Wheat,Black,Gujarat,Rabi,400,7.1,Urea
+2025,12,Wheat,Black,Gujarat,Rabi,400,7.1,Glyphosate
+2025,12,Wheat,Black,Gujarat,Rabi,400,7.1,DAP
+2025,10,Maize,Clay,Punjab,Kharif,700,24.54,Cypermethrin
+2025,10,Maize,Clay,Punjab,Kharif,700,24.54,MOP
+2023,12,Soybean,Alluvial,Punjab,Kharif,1209,14.5,Urea
+2024,4,Tomato,Sandy,Telangana,Zaid,1176,0.88,Neem Oil
+2023,8,Cotton,Red,Gujarat,Kharif,1438,23.5,Imidacloprid
+2025,10,Wheat,Alluvial,Gujarat,Rabi,619,21.95,Urea
+2024,1,Soybean,Black,Maharashtra,Kharif,425,13.25,Rhizobium
+2024,1,Soybean,Black,Maharashtra,Kharif,425,13.25,Urea
+2024,1,Soybean,Black,Maharashtra,Kharif,425,13.25,DAP
+2022,8,Chili,Clay,Gujarat,Zaid,1479,7.78,Neem Oil
+2022,8,Chili,Clay,Gujarat,Zaid,1479,7.78,Imidacloprid
+2023,8,Maize,Black,Punjab,Kharif,851,23.73,MOP
+2023,8,Maize,Black,Punjab,Kharif,851,23.73,Urea
+2023,9,Tomato,Clay,Karnataka,Zaid,1139,19.89,Hybrid Tomato Seed
+2024,11,Chili,Loamy,Maharashtra,Zaid,1357,16.44,Humic Acid
+2024,11,Chili,Loamy,Maharashtra,Zaid,1357,16.44,Hybrid Tomato Seed
+2024,11,Chili,Loamy,Maharashtra,Zaid,1357,16.44,Neem Oil
+2022,1,Soybean,Alluvial,Karnataka,Kharif,1495,17.46,DAP
+2022,1,Soybean,Alluvial,Karnataka,Kharif,1495,17.46,Urea
+2022,1,Soybean,Alluvial,Karnataka,Kharif,1495,17.46,Rhizobium
+2022,9,Wheat,Red,Karnataka,Rabi,340,2.51,Zinc Sulphate
+2022,9,Wheat,Red,Karnataka,Rabi,340,2.51,DAP
+2022,9,Wheat,Red,Karnataka,Rabi,340,2.51,MOP
+2025,1,Maize,Red,Gujarat,Kharif,1155,11.66,Urea
+2024,1,Soybean,Red,Telangana,Kharif,952,12.74,Rhizobium
+2023,5,Cotton,Alluvial,Gujarat,Kharif,874,9.51,Imidacloprid
+2025,9,Maize,Black,Madhya Pradesh,Kharif,360,6.1,Urea
+2025,9,Maize,Black,Madhya Pradesh,Kharif,360,6.1,Cypermethrin
+2025,9,Maize,Black,Madhya Pradesh,Kharif,360,6.1,DAP
+2025,5,Chili,Loamy,Telangana,Rabi,801,13.46,Imidacloprid
+2025,5,Chili,Loamy,Telangana,Rabi,801,13.46,Neem Oil
+2025,5,Chili,Loamy,Telangana,Rabi,801,13.46,Hybrid Tomato Seed
+2022,10,Soybean,Red,Madhya Pradesh,Kharif,389,15.07,Urea
+2022,10,Soybean,Red,Madhya Pradesh,Kharif,389,15.07,DAP
+2022,10,Soybean,Red,Madhya Pradesh,Kharif,389,15.07,Mancozeb
+2023,11,Tomato,Sandy,Madhya Pradesh,Rabi,1176,10.22,Imidacloprid
+2025,1,Cotton,Clay,Gujarat,Kharif,1178,2.2,Urea
+2025,1,Cotton,Clay,Gujarat,Kharif,1178,2.2,Glyphosate
+2025,1,Cotton,Clay,Gujarat,Kharif,1178,2.2,Imidacloprid
+2025,10,Rice,Loamy,Telangana,Kharif,516,15.82,MOP
+2024,3,Tomato,Loamy,Madhya Pradesh,Zaid,1108,8.9,Neem Oil
+2025,3,Maize,Red,Maharashtra,Rabi,663,13.07,Urea
+2025,3,Maize,Red,Maharashtra,Rabi,663,13.07,DAP
+2025,3,Maize,Red,Maharashtra,Rabi,663,13.07,Cypermethrin
+2023,10,Cotton,Clay,Maharashtra,Kharif,542,7.37,Imidacloprid
+2023,10,Cotton,Clay,Maharashtra,Kharif,542,7.37,DAP
+2023,12,Wheat,Black,Maharashtra,Rabi,826,5.88,Zinc Sulphate
+2023,11,Chili,Sandy,Maharashtra,Zaid,425,14.04,Neem Oil
+2024,6,Wheat,Loamy,Gujarat,Rabi,1271,22.76,Urea
+2024,6,Wheat,Loamy,Gujarat,Rabi,1271,22.76,MOP
+2024,6,Wheat,Loamy,Gujarat,Rabi,1271,22.76,Glyphosate
+2023,2,Chili,Sandy,Madhya Pradesh,Rabi,544,7.99,Imidacloprid
+2023,2,Chili,Sandy,Madhya Pradesh,Rabi,544,7.99,Humic Acid
+2023,2,Chili,Sandy,Madhya Pradesh,Rabi,544,7.99,Neem Oil
+2022,4,Maize,Black,Gujarat,Kharif,1104,18.34,Urea
+2022,4,Maize,Black,Gujarat,Kharif,1104,18.34,MOP
+2022,4,Maize,Black,Gujarat,Kharif,1104,18.34,Cypermethrin
+2024,5,Wheat,Loamy,Punjab,Rabi,1388,24.18,Glyphosate
+2022,9,Tomato,Black,Punjab,Rabi,635,9.27,Humic Acid
+2022,9,Tomato,Black,Punjab,Rabi,635,9.27,Mancozeb
+2022,9,Tomato,Black,Punjab,Rabi,635,9.27,Imidacloprid
+2024,6,Tomato,Sandy,Maharashtra,Rabi,603,23.15,Hybrid Tomato Seed
+2022,11,Maize,Alluvial,Telangana,Rabi,920,6.31,MOP
+2022,11,Maize,Alluvial,Telangana,Rabi,920,6.31,Cypermethrin
+2022,11,Maize,Alluvial,Telangana,Rabi,920,6.31,DAP
+2024,7,Wheat,Red,Madhya Pradesh,Rabi,1100,19.59,MOP
+2024,7,Wheat,Red,Madhya Pradesh,Rabi,1100,19.59,Glyphosate
+2023,11,Soybean,Sandy,Punjab,Kharif,508,9.95,Mancozeb
+2023,11,Soybean,Sandy,Punjab,Kharif,508,9.95,DAP
+2022,1,Chili,Black,Madhya Pradesh,Rabi,1400,7.86,Imidacloprid
+2022,1,Chili,Black,Madhya Pradesh,Rabi,1400,7.86,Neem Oil
+2025,12,Tomato,Clay,Gujarat,Zaid,614,3.3,Hybrid Tomato Seed
+2025,12,Tomato,Clay,Gujarat,Zaid,614,3.3,Imidacloprid
+2025,7,Soybean,Black,Punjab,Kharif,513,12.63,DAP
+2025,7,Soybean,Black,Punjab,Kharif,513,12.63,Urea
+2022,6,Rice,Red,Telangana,Kharif,313,14.54,Zinc Sulphate
+2024,11,Rice,Red,Madhya Pradesh,Kharif,1289,7.07,MOP
+2024,11,Rice,Red,Madhya Pradesh,Kharif,1289,7.07,Hybrid Rice Seed
+2022,2,Maize,Clay,Punjab,Kharif,875,12.09,Cypermethrin
+2022,2,Maize,Clay,Punjab,Kharif,875,12.09,Urea
+2022,2,Maize,Clay,Punjab,Kharif,875,12.09,MOP
+2023,9,Rice,Alluvial,Karnataka,Kharif,355,13.8,DAP
+2023,5,Wheat,Black,Punjab,Rabi,1031,0.58,MOP
+2023,5,Wheat,Black,Punjab,Rabi,1031,0.58,DAP
+2023,8,Maize,Alluvial,Madhya Pradesh,Kharif,1411,23.73,Urea
+2023,8,Maize,Alluvial,Madhya Pradesh,Kharif,1411,23.73,Cypermethrin
+2022,4,Soybean,Red,Punjab,Kharif,579,4.83,DAP
+2023,8,Tomato,Red,Karnataka,Zaid,1031,13.64,Hybrid Tomato Seed
+2023,8,Tomato,Red,Karnataka,Zaid,1031,13.64,Mancozeb
+2023,8,Tomato,Red,Karnataka,Zaid,1031,13.64,Neem Oil
+2025,9,Maize,Clay,Gujarat,Kharif,866,11.5,DAP
+2025,9,Maize,Clay,Gujarat,Kharif,866,11.5,Urea
+2022,9,Rice,Clay,Punjab,Kharif,1459,13.86,Urea
+2022,3,Wheat,Red,Gujarat,Rabi,1418,20.26,MOP
+2024,11,Maize,Sandy,Maharashtra,Rabi,1336,15.33,Urea
+2024,11,Maize,Sandy,Maharashtra,Rabi,1336,15.33,Cypermethrin
+2024,11,Maize,Sandy,Maharashtra,Rabi,1336,15.33,DAP
+2024,6,Soybean,Clay,Punjab,Kharif,1149,0.88,Rhizobium
+2024,6,Soybean,Clay,Punjab,Kharif,1149,0.88,DAP
+2022,12,Soybean,Black,Telangana,Kharif,775,6.16,Mancozeb
+2022,12,Soybean,Black,Telangana,Kharif,775,6.16,Urea
+2023,3,Maize,Red,Gujarat,Kharif,702,0.8,DAP
+2023,3,Maize,Red,Gujarat,Kharif,702,0.8,Cypermethrin
+2022,9,Wheat,Clay,Maharashtra,Rabi,1085,10.5,Glyphosate
+2022,7,Maize,Alluvial,Telangana,Rabi,1476,22.07,Urea
+2022,7,Maize,Alluvial,Telangana,Rabi,1476,22.07,Cypermethrin
+2022,7,Maize,Alluvial,Telangana,Rabi,1476,22.07,MOP
+2025,3,Rice,Loamy,Karnataka,Kharif,1402,4.12,Hybrid Rice Seed
+2025,3,Rice,Loamy,Karnataka,Kharif,1402,4.12,Urea
+2022,1,Soybean,Clay,Punjab,Kharif,1151,22.98,Rhizobium
+2022,1,Soybean,Clay,Punjab,Kharif,1151,22.98,Urea
+2022,9,Maize,Sandy,Maharashtra,Kharif,1157,24.75,Cypermethrin
+2023,1,Cotton,Clay,Maharashtra,Kharif,892,17.6,Glyphosate
+2023,1,Cotton,Clay,Maharashtra,Kharif,892,17.6,Cypermethrin
+2023,1,Cotton,Clay,Maharashtra,Kharif,892,17.6,Imidacloprid
+2022,3,Soybean,Sandy,Gujarat,Kharif,541,0.88,Mancozeb
+2023,1,Cotton,Black,Gujarat,Kharif,876,19.83,Imidacloprid
+2023,1,Cotton,Black,Gujarat,Kharif,876,19.83,DAP
+2023,1,Cotton,Black,Gujarat,Kharif,876,19.83,Glyphosate
+2024,11,Soybean,Alluvial,Maharashtra,Kharif,1150,21.43,DAP
+2024,11,Soybean,Alluvial,Maharashtra,Kharif,1150,21.43,Urea
+2024,11,Soybean,Alluvial,Maharashtra,Kharif,1150,21.43,Rhizobium
+2022,10,Maize,Black,Karnataka,Rabi,1449,8.55,DAP
+2023,4,Tomato,Sandy,Maharashtra,Rabi,1281,12.29,Neem Oil
+2023,4,Tomato,Sandy,Maharashtra,Rabi,1281,12.29,Imidacloprid
+2022,1,Tomato,Sandy,Karnataka,Rabi,1358,20.09,Hybrid Tomato Seed
+2022,1,Tomato,Sandy,Karnataka,Rabi,1358,20.09,Humic Acid
+2022,1,Tomato,Sandy,Karnataka,Rabi,1358,20.09,Neem Oil
+2025,8,Chili,Red,Maharashtra,Zaid,777,0.52,Hybrid Tomato Seed
+2025,8,Chili,Red,Maharashtra,Zaid,777,0.52,Imidacloprid
+2024,4,Maize,Sandy,Maharashtra,Rabi,558,20.01,MOP
+2022,9,Wheat,Loamy,Maharashtra,Rabi,989,3.28,Glyphosate
+2022,9,Wheat,Loamy,Maharashtra,Rabi,989,3.28,Zinc Sulphate
+2025,11,Cotton,Clay,Gujarat,Kharif,554,23.73,Glyphosate
+2025,11,Cotton,Clay,Gujarat,Kharif,554,23.73,DAP
+2025,11,Cotton,Clay,Gujarat,Kharif,554,23.73,Urea
+2023,11,Maize,Clay,Karnataka,Kharif,1018,4.0,Cypermethrin
+2023,11,Maize,Clay,Karnataka,Kharif,1018,4.0,MOP
+2022,7,Cotton,Sandy,Maharashtra,Kharif,1040,15.55,Imidacloprid
+2022,7,Cotton,Sandy,Maharashtra,Kharif,1040,15.55,Urea
+2023,9,Rice,Sandy,Telangana,Kharif,1477,16.67,MOP
+2023,9,Rice,Sandy,Telangana,Kharif,1477,16.67,DAP
+2022,7,Soybean,Sandy,Gujarat,Kharif,726,3.76,DAP
+2022,7,Soybean,Sandy,Gujarat,Kharif,726,3.76,Rhizobium
+2022,7,Soybean,Sandy,Gujarat,Kharif,726,3.76,Urea
+2025,11,Wheat,Sandy,Telangana,Rabi,596,9.87,DAP
+2025,11,Wheat,Sandy,Telangana,Rabi,596,9.87,Zinc Sulphate
+2025,11,Wheat,Sandy,Telangana,Rabi,596,9.87,MOP
+2023,10,Rice,Loamy,Maharashtra,Kharif,409,10.61,Hybrid Rice Seed
+2023,10,Rice,Loamy,Maharashtra,Kharif,409,10.61,Imidacloprid
+2023,1,Wheat,Black,Telangana,Rabi,765,19.3,DAP
+2023,1,Wheat,Black,Telangana,Rabi,765,19.3,MOP
+2023,1,Wheat,Black,Telangana,Rabi,765,19.3,Urea
+2022,12,Cotton,Alluvial,Madhya Pradesh,Kharif,1120,24.95,DAP
+2023,7,Maize,Clay,Maharashtra,Rabi,822,4.46,DAP
+2023,7,Maize,Clay,Maharashtra,Rabi,822,4.46,MOP
+2023,7,Maize,Clay,Maharashtra,Rabi,822,4.46,Urea
+2022,7,Soybean,Red,Madhya Pradesh,Kharif,478,17.62,Rhizobium
+2022,7,Soybean,Red,Madhya Pradesh,Kharif,478,17.62,DAP
+2023,8,Rice,Clay,Madhya Pradesh,Kharif,906,14.14,DAP
+2023,11,Maize,Red,Punjab,Kharif,891,16.67,MOP
+2023,11,Maize,Alluvial,Punjab,Rabi,1117,22.41,DAP
+2023,1,Chili,Sandy,Madhya Pradesh,Zaid,1041,2.33,Hybrid Tomato Seed
+2023,1,Chili,Sandy,Madhya Pradesh,Zaid,1041,2.33,Neem Oil
+2023,4,Chili,Red,Gujarat,Rabi,1422,16.73,Hybrid Tomato Seed
+2023,4,Chili,Red,Gujarat,Rabi,1422,16.73,Humic Acid
+2023,4,Chili,Red,Gujarat,Rabi,1422,16.73,Neem Oil
+2023,11,Soybean,Red,Karnataka,Kharif,1140,17.36,DAP
+2025,11,Tomato,Clay,Karnataka,Zaid,770,8.12,Mancozeb
+2025,11,Tomato,Clay,Karnataka,Zaid,770,8.12,Neem Oil
+2025,11,Tomato,Clay,Karnataka,Zaid,770,8.12,Humic Acid
+2025,12,Soybean,Red,Karnataka,Kharif,653,4.06,Mancozeb
+2025,12,Soybean,Red,Karnataka,Kharif,653,4.06,DAP
+2025,12,Soybean,Red,Karnataka,Kharif,653,4.06,Rhizobium
+2023,2,Tomato,Clay,Telangana,Zaid,618,16.36,Hybrid Tomato Seed
+2023,2,Tomato,Clay,Telangana,Zaid,618,16.36,Neem Oil
+2023,2,Tomato,Clay,Telangana,Zaid,618,16.36,Mancozeb
+2023,3,Chili,Loamy,Gujarat,Zaid,1427,1.74,Hybrid Tomato Seed
+2023,6,Wheat,Black,Gujarat,Rabi,1191,20.99,DAP
+2024,2,Rice,Loamy,Karnataka,Kharif,560,20.19,Urea
+2023,2,Rice,Sandy,Gujarat,Kharif,398,24.73,Imidacloprid
+2023,1,Maize,Clay,Telangana,Rabi,360,18.33,Cypermethrin
+2023,1,Maize,Clay,Telangana,Rabi,360,18.33,MOP
+2023,1,Maize,Clay,Telangana,Rabi,360,18.33,Urea
+2023,10,Chili,Sandy,Punjab,Rabi,745,2.1,Hybrid Tomato Seed
+2023,10,Chili,Sandy,Punjab,Rabi,745,2.1,Imidacloprid
+2023,11,Cotton,Clay,Maharashtra,Kharif,866,20.75,Urea
+2023,11,Cotton,Clay,Maharashtra,Kharif,866,20.75,Imidacloprid
+2023,1,Rice,Clay,Punjab,Kharif,1376,3.81,Carbendazim
+2023,1,Rice,Clay,Punjab,Kharif,1376,3.81,Zinc Sulphate
+2023,1,Rice,Clay,Punjab,Kharif,1376,3.81,Imidacloprid
+2024,11,Wheat,Red,Karnataka,Rabi,792,11.41,Glyphosate
+2024,11,Wheat,Red,Karnataka,Rabi,792,11.41,Zinc Sulphate
+2024,11,Wheat,Red,Karnataka,Rabi,792,11.41,Urea
+2023,9,Chili,Clay,Karnataka,Rabi,1066,17.48,Imidacloprid
+2023,9,Chili,Clay,Karnataka,Rabi,1066,17.48,Humic Acid
+2023,12,Tomato,Sandy,Madhya Pradesh,Rabi,1249,12.96,Mancozeb
+2023,12,Tomato,Sandy,Madhya Pradesh,Rabi,1249,12.96,Hybrid Tomato Seed
+2025,3,Chili,Clay,Karnataka,Rabi,539,24.32,Neem Oil
+2025,3,Chili,Clay,Karnataka,Rabi,539,24.32,Humic Acid
+2024,2,Rice,Sandy,Gujarat,Kharif,1148,16.59,Urea
+2024,2,Rice,Sandy,Gujarat,Kharif,1148,16.59,Imidacloprid
+2025,1,Maize,Black,Punjab,Kharif,1150,2.66,Cypermethrin
+2025,1,Maize,Black,Punjab,Kharif,1150,2.66,MOP
+2025,1,Maize,Black,Punjab,Kharif,1150,2.66,DAP
+2025,6,Maize,Black,Maharashtra,Rabi,1011,11.7,MOP
+2025,3,Cotton,Sandy,Karnataka,Kharif,1070,22.99,Glyphosate
+2025,3,Cotton,Sandy,Karnataka,Kharif,1070,22.99,DAP
+2022,1,Maize,Loamy,Punjab,Rabi,1266,6.41,Cypermethrin
+2022,1,Maize,Loamy,Punjab,Rabi,1266,6.41,MOP
+2022,1,Maize,Loamy,Punjab,Rabi,1266,6.41,DAP
+2022,3,Soybean,Black,Telangana,Kharif,514,19.16,Mancozeb
+2025,12,Cotton,Black,Maharashtra,Kharif,648,22.12,Urea
+2024,5,Chili,Loamy,Maharashtra,Zaid,1219,24.87,Imidacloprid
+2024,5,Chili,Loamy,Maharashtra,Zaid,1219,24.87,Neem Oil
+2024,5,Chili,Loamy,Maharashtra,Zaid,1219,24.87,Humic Acid
+2022,4,Wheat,Clay,Karnataka,Rabi,1364,0.59,DAP
+2022,4,Wheat,Clay,Karnataka,Rabi,1364,0.59,Urea
+2022,4,Wheat,Clay,Karnataka,Rabi,1364,0.59,MOP
+2025,10,Rice,Black,Gujarat,Kharif,545,4.29,Hybrid Rice Seed
+2024,6,Wheat,Loamy,Telangana,Rabi,369,21.36,DAP
+2022,9,Soybean,Clay,Karnataka,Kharif,719,14.77,Mancozeb
+2022,9,Soybean,Clay,Karnataka,Kharif,719,14.77,Urea
+2022,9,Soybean,Clay,Karnataka,Kharif,719,14.77,Rhizobium
+2022,10,Rice,Loamy,Gujarat,Kharif,1485,8.21,Zinc Sulphate
+2022,10,Rice,Loamy,Gujarat,Kharif,1485,8.21,Imidacloprid
+2025,1,Tomato,Sandy,Punjab,Zaid,319,16.45,Humic Acid
+2024,2,Wheat,Sandy,Gujarat,Rabi,1443,13.48,DAP
+2024,4,Rice,Black,Punjab,Kharif,618,10.19,Urea
+2022,4,Soybean,Black,Madhya Pradesh,Kharif,373,14.58,Mancozeb
+2022,10,Rice,Loamy,Madhya Pradesh,Kharif,1287,6.87,DAP
+2022,10,Rice,Loamy,Madhya Pradesh,Kharif,1287,6.87,Hybrid Rice Seed
+2022,10,Rice,Loamy,Madhya Pradesh,Kharif,1287,6.87,Zinc Sulphate
+2022,3,Maize,Black,Karnataka,Kharif,884,23.06,Urea
+2022,3,Maize,Black,Karnataka,Kharif,884,23.06,Cypermethrin
+2024,11,Wheat,Black,Maharashtra,Rabi,424,15.35,DAP
+2024,11,Wheat,Black,Maharashtra,Rabi,424,15.35,Zinc Sulphate
+2024,11,Wheat,Black,Maharashtra,Rabi,424,15.35,Urea
+2023,4,Cotton,Loamy,Telangana,Kharif,748,15.31,Urea
+2024,7,Rice,Clay,Maharashtra,Kharif,1500,12.81,Urea
+2024,7,Rice,Clay,Maharashtra,Kharif,1500,12.81,Zinc Sulphate
+2024,7,Rice,Clay,Maharashtra,Kharif,1500,12.81,Hybrid Rice Seed
+2022,8,Tomato,Loamy,Punjab,Zaid,1331,22.34,Neem Oil
+2022,8,Tomato,Loamy,Punjab,Zaid,1331,22.34,Imidacloprid
+2024,11,Cotton,Black,Punjab,Kharif,1156,21.68,DAP
+2024,11,Cotton,Black,Punjab,Kharif,1156,21.68,Imidacloprid
+2024,11,Cotton,Black,Punjab,Kharif,1156,21.68,Urea
+2024,6,Chili,Black,Maharashtra,Zaid,399,11.57,Humic Acid
+2024,6,Chili,Black,Maharashtra,Zaid,399,11.57,Neem Oil
+2023,11,Chili,Loamy,Karnataka,Rabi,869,0.97,Neem Oil
+2023,11,Chili,Loamy,Karnataka,Rabi,869,0.97,Imidacloprid
+2022,6,Tomato,Clay,Gujarat,Rabi,772,22.73,Imidacloprid
+2022,6,Tomato,Clay,Gujarat,Rabi,772,22.73,Humic Acid
+2023,1,Soybean,Black,Karnataka,Kharif,1136,22.53,Urea
+2023,1,Soybean,Black,Karnataka,Kharif,1136,22.53,Rhizobium
+2023,1,Soybean,Black,Karnataka,Kharif,1136,22.53,Mancozeb
+2024,2,Soybean,Red,Maharashtra,Kharif,950,9.55,DAP
+2024,2,Soybean,Red,Maharashtra,Kharif,950,9.55,Rhizobium
+2024,2,Soybean,Red,Maharashtra,Kharif,950,9.55,Mancozeb
+2023,8,Wheat,Red,Punjab,Rabi,388,22.25,MOP
+2023,8,Wheat,Red,Punjab,Rabi,388,22.25,Zinc Sulphate
+2023,8,Wheat,Red,Punjab,Rabi,388,22.25,Glyphosate
+2023,10,Chili,Alluvial,Gujarat,Zaid,1157,9.75,Humic Acid
+2023,10,Chili,Alluvial,Gujarat,Zaid,1157,9.75,Neem Oil
+2023,10,Chili,Alluvial,Gujarat,Zaid,1157,9.75,Imidacloprid
+2024,4,Wheat,Clay,Maharashtra,Rabi,803,11.96,Glyphosate
+2024,4,Wheat,Clay,Maharashtra,Rabi,803,11.96,Zinc Sulphate
+2024,4,Wheat,Clay,Maharashtra,Rabi,803,11.96,DAP
+2022,3,Soybean,Loamy,Telangana,Kharif,1172,1.0,Mancozeb
+2024,7,Wheat,Red,Telangana,Rabi,1303,7.85,Urea
+2024,7,Wheat,Red,Telangana,Rabi,1303,7.85,MOP
+2024,7,Wheat,Red,Telangana,Rabi,1303,7.85,Glyphosate
+2025,4,Soybean,Sandy,Maharashtra,Kharif,329,20.78,Urea
+2022,9,Chili,Black,Punjab,Rabi,1365,17.21,Neem Oil
+2022,9,Chili,Black,Punjab,Rabi,1365,17.21,Imidacloprid
+2022,9,Chili,Black,Punjab,Rabi,1365,17.21,Hybrid Tomato Seed
+2024,4,Chili,Alluvial,Telangana,Rabi,1421,14.09,Hybrid Tomato Seed
+2024,4,Chili,Alluvial,Telangana,Rabi,1421,14.09,Imidacloprid
+2025,12,Cotton,Sandy,Telangana,Kharif,1457,19.29,DAP
+2025,12,Cotton,Sandy,Telangana,Kharif,1457,19.29,Glyphosate
+2023,4,Maize,Black,Maharashtra,Kharif,417,20.35,Urea
+2023,4,Maize,Black,Maharashtra,Kharif,417,20.35,Cypermethrin
+2023,4,Maize,Black,Maharashtra,Kharif,417,20.35,MOP
+2023,7,Soybean,Loamy,Punjab,Kharif,939,4.9,Urea
+2023,7,Soybean,Loamy,Punjab,Kharif,939,4.9,DAP
+2025,9,Soybean,Red,Maharashtra,Kharif,1404,3.45,Urea
+2025,1,Rice,Black,Telangana,Kharif,396,6.16,Urea
+2025,10,Maize,Alluvial,Karnataka,Kharif,1438,18.57,DAP
+2025,10,Maize,Alluvial,Karnataka,Kharif,1438,18.57,Urea
+2025,10,Maize,Alluvial,Karnataka,Kharif,1438,18.57,MOP
+2025,7,Rice,Loamy,Gujarat,Kharif,810,11.31,DAP
+2023,6,Chili,Sandy,Telangana,Zaid,942,17.99,Imidacloprid
+2023,6,Chili,Sandy,Telangana,Zaid,942,17.99,Humic Acid
+2023,1,Chili,Clay,Maharashtra,Zaid,324,22.28,Imidacloprid
+2023,1,Chili,Clay,Maharashtra,Zaid,324,22.28,Hybrid Tomato Seed
+2024,2,Tomato,Sandy,Gujarat,Rabi,583,17.42,Neem Oil
+2024,2,Tomato,Sandy,Gujarat,Rabi,583,17.42,Mancozeb
+2025,12,Rice,Alluvial,Telangana,Kharif,328,8.02,DAP
+2025,12,Rice,Alluvial,Telangana,Kharif,328,8.02,Zinc Sulphate
+2025,12,Rice,Alluvial,Telangana,Kharif,328,8.02,Carbendazim
+2024,8,Wheat,Black,Telangana,Rabi,455,10.61,MOP
+2024,8,Wheat,Black,Telangana,Rabi,455,10.61,Glyphosate
+2024,8,Wheat,Black,Telangana,Rabi,455,10.61,DAP
+2025,8,Maize,Alluvial,Karnataka,Rabi,497,14.04,MOP
+2025,8,Maize,Alluvial,Karnataka,Rabi,497,14.04,Urea
+2022,8,Soybean,Alluvial,Madhya Pradesh,Kharif,932,13.86,DAP
+2022,8,Soybean,Alluvial,Madhya Pradesh,Kharif,932,13.86,Rhizobium
+2022,8,Soybean,Alluvial,Madhya Pradesh,Kharif,932,13.86,Urea
+2025,6,Rice,Alluvial,Punjab,Kharif,561,18.33,DAP
+2025,6,Rice,Alluvial,Punjab,Kharif,561,18.33,Imidacloprid
+2023,11,Soybean,Red,Telangana,Kharif,1371,2.26,Rhizobium
+2023,11,Soybean,Red,Telangana,Kharif,1371,2.26,Urea
+2023,11,Soybean,Red,Telangana,Kharif,1371,2.26,Mancozeb
+2024,1,Soybean,Black,Karnataka,Kharif,660,15.52,DAP
+2024,1,Soybean,Black,Karnataka,Kharif,660,15.52,Urea
+2024,4,Maize,Black,Maharashtra,Kharif,541,0.79,Urea
+2024,4,Maize,Black,Maharashtra,Kharif,541,0.79,MOP
+2024,4,Maize,Black,Maharashtra,Kharif,541,0.79,DAP
+2023,6,Soybean,Alluvial,Madhya Pradesh,Kharif,1148,17.22,DAP
+2025,6,Soybean,Clay,Maharashtra,Kharif,1074,24.86,Mancozeb
+2025,6,Soybean,Clay,Maharashtra,Kharif,1074,24.86,Rhizobium
+2025,6,Soybean,Clay,Maharashtra,Kharif,1074,24.86,Urea
+2023,2,Rice,Alluvial,Punjab,Kharif,616,23.3,MOP
+2023,2,Rice,Alluvial,Punjab,Kharif,616,23.3,Zinc Sulphate
+2023,4,Tomato,Black,Madhya Pradesh,Zaid,405,5.85,Neem Oil
+2022,3,Soybean,Alluvial,Gujarat,Kharif,663,14.42,DAP
+2022,3,Soybean,Alluvial,Gujarat,Kharif,663,14.42,Urea
+2022,3,Soybean,Alluvial,Gujarat,Kharif,663,14.42,Rhizobium
+2024,1,Chili,Clay,Telangana,Rabi,894,10.79,Humic Acid
+2023,12,Soybean,Alluvial,Gujarat,Kharif,1440,16.98,Mancozeb
+2022,8,Soybean,Red,Telangana,Kharif,945,6.76,Mancozeb
+2022,8,Soybean,Red,Telangana,Kharif,945,6.76,DAP
+2022,8,Soybean,Red,Telangana,Kharif,945,6.76,Urea
+2025,1,Rice,Red,Punjab,Kharif,531,14.32,MOP
+2025,8,Maize,Alluvial,Gujarat,Rabi,983,18.83,Urea
+2025,8,Maize,Alluvial,Gujarat,Rabi,983,18.83,Cypermethrin
+2025,8,Maize,Alluvial,Gujarat,Rabi,983,18.83,MOP
+2024,8,Soybean,Clay,Gujarat,Kharif,361,15.78,DAP
+2022,12,Chili,Clay,Telangana,Zaid,1377,9.83,Neem Oil
+2022,12,Chili,Clay,Telangana,Zaid,1377,9.83,Hybrid Tomato Seed
+2022,12,Chili,Clay,Telangana,Zaid,1377,9.83,Imidacloprid
+2025,7,Soybean,Black,Maharashtra,Kharif,711,4.63,DAP
+2025,7,Soybean,Black,Maharashtra,Kharif,711,4.63,Mancozeb
+2022,11,Chili,Loamy,Karnataka,Zaid,339,14.68,Imidacloprid
+2022,7,Rice,Red,Karnataka,Kharif,1084,12.51,DAP
+2022,7,Rice,Red,Karnataka,Kharif,1084,12.51,Zinc Sulphate
+2022,7,Rice,Red,Karnataka,Kharif,1084,12.51,Carbendazim
+2023,8,Cotton,Clay,Gujarat,Kharif,1358,1.09,DAP
+2023,10,Soybean,Alluvial,Gujarat,Kharif,1190,17.39,Rhizobium
+2025,8,Maize,Loamy,Maharashtra,Rabi,1039,16.65,MOP
+2025,8,Maize,Loamy,Maharashtra,Rabi,1039,16.65,DAP
+2025,3,Tomato,Loamy,Telangana,Rabi,675,19.56,Imidacloprid
+2025,3,Tomato,Loamy,Telangana,Rabi,675,19.56,Hybrid Tomato Seed
+2025,3,Tomato,Loamy,Telangana,Rabi,675,19.56,Mancozeb
+2024,5,Soybean,Alluvial,Madhya Pradesh,Kharif,491,25.0,Urea
+2024,5,Soybean,Alluvial,Madhya Pradesh,Kharif,491,25.0,DAP
+2024,5,Soybean,Alluvial,Madhya Pradesh,Kharif,491,25.0,Mancozeb
+2024,6,Rice,Loamy,Punjab,Kharif,1388,23.71,Zinc Sulphate
+2024,6,Rice,Loamy,Punjab,Kharif,1388,23.71,Imidacloprid
+2024,6,Rice,Loamy,Punjab,Kharif,1388,23.71,MOP
+2023,5,Soybean,Sandy,Maharashtra,Kharif,720,13.7,Urea
+2024,5,Maize,Clay,Madhya Pradesh,Rabi,1256,17.5,DAP
+2024,5,Maize,Clay,Madhya Pradesh,Rabi,1256,17.5,MOP
+2024,5,Maize,Clay,Madhya Pradesh,Rabi,1256,17.5,Urea
+2024,10,Soybean,Sandy,Karnataka,Kharif,320,24.23,Rhizobium
+2024,10,Soybean,Sandy,Karnataka,Kharif,320,24.23,Urea
+2024,10,Soybean,Sandy,Karnataka,Kharif,320,24.23,Mancozeb
+2023,9,Rice,Alluvial,Madhya Pradesh,Kharif,1407,23.31,DAP
+2023,9,Rice,Alluvial,Madhya Pradesh,Kharif,1407,23.31,Zinc Sulphate
+2025,12,Chili,Black,Karnataka,Rabi,775,23.0,Hybrid Tomato Seed
+2025,12,Chili,Black,Karnataka,Rabi,775,23.0,Neem Oil
+2025,12,Chili,Black,Karnataka,Rabi,775,23.0,Humic Acid
+2025,4,Wheat,Black,Punjab,Rabi,1090,17.47,Urea
+2025,4,Wheat,Black,Punjab,Rabi,1090,17.47,MOP
+2025,4,Wheat,Black,Punjab,Rabi,1090,17.47,Glyphosate
+2023,7,Chili,Black,Madhya Pradesh,Zaid,1159,20.41,Hybrid Tomato Seed
+2023,7,Chili,Black,Madhya Pradesh,Zaid,1159,20.41,Imidacloprid
+2025,7,Soybean,Clay,Gujarat,Kharif,1000,14.48,Mancozeb
+2025,7,Soybean,Clay,Gujarat,Kharif,1000,14.48,Rhizobium
+2022,4,Rice,Red,Telangana,Kharif,527,2.0,Imidacloprid
+2022,4,Rice,Red,Telangana,Kharif,527,2.0,Urea
+2022,4,Rice,Red,Telangana,Kharif,527,2.0,DAP
+2023,5,Cotton,Sandy,Karnataka,Kharif,1476,12.48,Urea
+2024,5,Maize,Alluvial,Gujarat,Kharif,375,2.92,DAP
+2023,9,Maize,Alluvial,Maharashtra,Rabi,625,11.24,DAP
+2023,9,Maize,Alluvial,Maharashtra,Rabi,625,11.24,Cypermethrin
+2023,9,Maize,Alluvial,Maharashtra,Rabi,625,11.24,Urea
+2025,4,Chili,Clay,Punjab,Rabi,1426,6.88,Hybrid Tomato Seed
+2024,6,Rice,Alluvial,Telangana,Kharif,566,21.11,Carbendazim
+2024,6,Rice,Alluvial,Telangana,Kharif,566,21.11,Hybrid Rice Seed
+2022,2,Soybean,Loamy,Maharashtra,Kharif,794,6.35,DAP
+2022,2,Soybean,Loamy,Maharashtra,Kharif,794,6.35,Rhizobium
+2022,2,Soybean,Loamy,Maharashtra,Kharif,794,6.35,Mancozeb
+2024,7,Cotton,Clay,Telangana,Kharif,1044,8.85,Cypermethrin
+2024,7,Cotton,Clay,Telangana,Kharif,1044,8.85,Glyphosate
+2024,3,Rice,Sandy,Telangana,Kharif,911,14.89,Zinc Sulphate
+2023,10,Soybean,Black,Gujarat,Kharif,760,15.36,DAP
+2023,1,Cotton,Red,Karnataka,Kharif,490,2.88,Imidacloprid
+2023,1,Cotton,Red,Karnataka,Kharif,490,2.88,Urea
+2023,1,Cotton,Red,Karnataka,Kharif,490,2.88,DAP
+2022,9,Maize,Alluvial,Gujarat,Rabi,1366,3.34,MOP
+2022,9,Maize,Alluvial,Gujarat,Rabi,1366,3.34,Cypermethrin
+2025,2,Cotton,Alluvial,Gujarat,Kharif,1255,4.36,Imidacloprid
+2025,2,Cotton,Alluvial,Gujarat,Kharif,1255,4.36,Urea
+2025,2,Cotton,Alluvial,Gujarat,Kharif,1255,4.36,Glyphosate
+2024,8,Cotton,Clay,Gujarat,Kharif,643,12.94,Urea
+2024,8,Cotton,Clay,Gujarat,Kharif,643,12.94,Glyphosate
+2024,8,Cotton,Clay,Gujarat,Kharif,643,12.94,Imidacloprid
+2023,7,Wheat,Black,Punjab,Rabi,1424,3.14,MOP
+2024,7,Chili,Red,Telangana,Rabi,1355,8.44,Hybrid Tomato Seed
+2024,7,Chili,Red,Telangana,Rabi,1355,8.44,Humic Acid
+2024,7,Chili,Red,Telangana,Rabi,1355,8.44,Neem Oil
+2023,10,Maize,Clay,Madhya Pradesh,Rabi,1064,19.87,DAP
+2023,10,Maize,Clay,Madhya Pradesh,Rabi,1064,19.87,Urea
+2023,12,Tomato,Sandy,Madhya Pradesh,Rabi,1303,6.77,Imidacloprid
+2022,3,Wheat,Black,Karnataka,Rabi,659,16.98,Urea
+2022,3,Wheat,Black,Karnataka,Rabi,659,16.98,DAP
+2022,3,Wheat,Black,Karnataka,Rabi,659,16.98,Glyphosate
+2024,1,Wheat,Black,Telangana,Rabi,1174,6.65,Zinc Sulphate
+2024,4,Wheat,Red,Gujarat,Rabi,1162,1.42,Urea
+2022,9,Soybean,Loamy,Karnataka,Kharif,1266,6.4,Rhizobium
+2022,9,Soybean,Loamy,Karnataka,Kharif,1266,6.4,Mancozeb
+2022,2,Rice,Red,Maharashtra,Kharif,1242,6.03,Carbendazim
+2022,2,Rice,Red,Maharashtra,Kharif,1242,6.03,MOP
+2025,4,Soybean,Red,Punjab,Kharif,645,7.41,Rhizobium
+2022,3,Soybean,Sandy,Telangana,Kharif,376,3.75,Urea
+2022,6,Chili,Alluvial,Karnataka,Rabi,336,0.83,Neem Oil
+2022,6,Chili,Alluvial,Karnataka,Rabi,336,0.83,Humic Acid
+2025,1,Cotton,Black,Telangana,Kharif,792,11.99,Urea
+2025,1,Cotton,Black,Telangana,Kharif,792,11.99,Imidacloprid
+2024,10,Cotton,Black,Telangana,Kharif,875,24.3,Cypermethrin
+2025,8,Soybean,Alluvial,Gujarat,Kharif,770,13.97,DAP
+2025,8,Chili,Sandy,Punjab,Zaid,784,21.96,Humic Acid
+2024,9,Rice,Alluvial,Maharashtra,Kharif,418,13.98,Urea
+2024,9,Rice,Alluvial,Maharashtra,Kharif,418,13.98,MOP
+2023,7,Chili,Black,Madhya Pradesh,Rabi,1461,2.04,Imidacloprid
+2024,8,Cotton,Black,Telangana,Kharif,1322,4.42,Cypermethrin
+2022,6,Chili,Clay,Madhya Pradesh,Zaid,1135,3.86,Hybrid Tomato Seed
+2023,2,Soybean,Red,Gujarat,Kharif,1390,10.75,Urea
+2023,2,Soybean,Red,Gujarat,Kharif,1390,10.75,Rhizobium
+2023,2,Soybean,Red,Gujarat,Kharif,1390,10.75,Mancozeb
+2025,5,Soybean,Clay,Punjab,Kharif,674,10.11,DAP
+2025,5,Soybean,Clay,Punjab,Kharif,674,10.11,Urea
+2025,12,Chili,Red,Gujarat,Rabi,622,6.94,Humic Acid
+2025,12,Chili,Red,Gujarat,Rabi,622,6.94,Hybrid Tomato Seed
+2025,12,Chili,Red,Gujarat,Rabi,622,6.94,Neem Oil
+2024,7,Tomato,Red,Punjab,Zaid,1173,5.17,Imidacloprid
+2022,1,Cotton,Loamy,Madhya Pradesh,Kharif,424,23.14,Urea
+2022,2,Soybean,Alluvial,Karnataka,Kharif,1419,19.11,DAP
+2022,5,Chili,Clay,Telangana,Zaid,1295,6.7,Hybrid Tomato Seed
+2022,5,Chili,Clay,Telangana,Zaid,1295,6.7,Neem Oil
+2022,5,Chili,Clay,Telangana,Zaid,1295,6.7,Humic Acid
+2023,9,Soybean,Clay,Telangana,Kharif,426,11.68,Urea
+2023,2,Soybean,Alluvial,Gujarat,Kharif,1256,19.39,Urea
+2023,2,Soybean,Alluvial,Gujarat,Kharif,1256,19.39,Mancozeb
+2025,7,Chili,Red,Madhya Pradesh,Rabi,303,9.98,Neem Oil
+2022,6,Rice,Red,Madhya Pradesh,Kharif,433,1.15,DAP
+2023,11,Tomato,Clay,Karnataka,Zaid,1403,15.76,Hybrid Tomato Seed
+2025,6,Maize,Loamy,Punjab,Rabi,803,6.65,Urea
+2022,1,Cotton,Loamy,Karnataka,Kharif,553,20.09,Urea
+2024,10,Rice,Alluvial,Punjab,Kharif,1437,2.1,Urea
+2025,11,Soybean,Loamy,Karnataka,Kharif,383,10.4,DAP
+2025,11,Soybean,Loamy,Karnataka,Kharif,383,10.4,Mancozeb
+2025,11,Soybean,Loamy,Karnataka,Kharif,383,10.4,Rhizobium
+2025,4,Wheat,Red,Punjab,Rabi,594,22.75,DAP
+2024,12,Rice,Loamy,Maharashtra,Kharif,1138,11.53,Imidacloprid
+2024,11,Chili,Clay,Madhya Pradesh,Rabi,865,7.22,Neem Oil
+2023,12,Tomato,Black,Punjab,Rabi,625,20.71,Imidacloprid
+2023,12,Tomato,Black,Punjab,Rabi,625,20.71,Mancozeb
+2023,12,Tomato,Black,Punjab,Rabi,625,20.71,Neem Oil
+2023,10,Maize,Sandy,Gujarat,Kharif,1223,11.32,MOP
+2022,9,Maize,Black,Punjab,Kharif,936,20.83,Cypermethrin
+2022,9,Maize,Black,Punjab,Kharif,936,20.83,Urea
+2022,9,Maize,Black,Punjab,Kharif,936,20.83,DAP
+2024,10,Maize,Loamy,Telangana,Kharif,1054,19.76,Cypermethrin
+2024,10,Maize,Loamy,Telangana,Kharif,1054,19.76,MOP
+2022,8,Maize,Loamy,Madhya Pradesh,Kharif,959,5.7,MOP
+2022,11,Soybean,Sandy,Gujarat,Kharif,893,19.51,Urea
+2022,1,Cotton,Black,Madhya Pradesh,Kharif,1267,16.73,DAP
+2022,1,Cotton,Black,Madhya Pradesh,Kharif,1267,16.73,Glyphosate
+2022,1,Cotton,Black,Madhya Pradesh,Kharif,1267,16.73,Imidacloprid
+2023,4,Rice,Sandy,Karnataka,Kharif,768,15.89,DAP
+2023,4,Rice,Sandy,Karnataka,Kharif,768,15.89,Carbendazim
+2023,4,Rice,Sandy,Karnataka,Kharif,768,15.89,Urea
+2025,1,Chili,Black,Madhya Pradesh,Rabi,476,24.64,Neem Oil
+2025,1,Chili,Black,Madhya Pradesh,Rabi,476,24.64,Imidacloprid
+2025,1,Chili,Black,Madhya Pradesh,Rabi,476,24.64,Humic Acid
+2022,2,Chili,Clay,Karnataka,Zaid,1101,2.24,Neem Oil
+2022,2,Chili,Clay,Karnataka,Zaid,1101,2.24,Imidacloprid
+2022,2,Chili,Clay,Karnataka,Zaid,1101,2.24,Hybrid Tomato Seed
+2025,9,Rice,Clay,Punjab,Kharif,325,2.87,MOP
+2025,9,Rice,Clay,Punjab,Kharif,325,2.87,Carbendazim
+2025,9,Rice,Clay,Punjab,Kharif,325,2.87,Imidacloprid
+2023,7,Rice,Clay,Telangana,Kharif,426,10.96,Hybrid Rice Seed
+2023,7,Rice,Clay,Telangana,Kharif,426,10.96,Carbendazim
+2024,1,Tomato,Loamy,Telangana,Zaid,1026,0.57,Neem Oil
+2024,1,Tomato,Loamy,Telangana,Zaid,1026,0.57,Imidacloprid
+2024,1,Tomato,Loamy,Telangana,Zaid,1026,0.57,Mancozeb
+2023,2,Chili,Loamy,Maharashtra,Rabi,1112,13.48,Neem Oil
+2025,8,Wheat,Black,Telangana,Rabi,572,21.84,DAP
+2025,8,Wheat,Black,Telangana,Rabi,572,21.84,Zinc Sulphate
+2025,8,Wheat,Black,Telangana,Rabi,572,21.84,Urea
+2022,11,Cotton,Red,Madhya Pradesh,Kharif,1191,9.43,Imidacloprid
+2022,11,Cotton,Red,Madhya Pradesh,Kharif,1191,9.43,Cypermethrin
+2023,6,Wheat,Black,Maharashtra,Rabi,1452,7.34,DAP
+2022,1,Maize,Red,Maharashtra,Rabi,449,7.8,Cypermethrin
+2025,6,Rice,Red,Telangana,Kharif,1010,14.28,Zinc Sulphate
+2025,6,Rice,Red,Telangana,Kharif,1010,14.28,Hybrid Rice Seed
+2024,2,Cotton,Red,Telangana,Kharif,1030,15.59,Urea
+2024,2,Cotton,Red,Telangana,Kharif,1030,15.59,Glyphosate
+2024,2,Cotton,Red,Telangana,Kharif,1030,15.59,DAP
+2023,8,Rice,Loamy,Karnataka,Kharif,338,12.24,Carbendazim
+2023,8,Rice,Loamy,Karnataka,Kharif,338,12.24,Zinc Sulphate
+2023,8,Rice,Loamy,Karnataka,Kharif,338,12.24,DAP
+2022,1,Chili,Black,Maharashtra,Zaid,446,1.91,Humic Acid
+2022,3,Soybean,Red,Gujarat,Kharif,1446,24.53,Rhizobium
+2022,3,Soybean,Red,Gujarat,Kharif,1446,24.53,Mancozeb
+2022,3,Soybean,Red,Gujarat,Kharif,1446,24.53,Urea
+2022,11,Maize,Alluvial,Karnataka,Kharif,690,10.38,MOP
+2022,11,Maize,Alluvial,Karnataka,Kharif,690,10.38,Cypermethrin
+2024,5,Tomato,Black,Madhya Pradesh,Rabi,618,20.58,Imidacloprid
+2024,5,Tomato,Black,Madhya Pradesh,Rabi,618,20.58,Neem Oil
+2024,5,Tomato,Black,Madhya Pradesh,Rabi,618,20.58,Mancozeb
+2024,12,Maize,Clay,Maharashtra,Kharif,565,5.83,Cypermethrin
+2024,12,Maize,Clay,Maharashtra,Kharif,565,5.83,Urea
+2022,8,Wheat,Clay,Karnataka,Rabi,682,2.43,Glyphosate
+2022,8,Wheat,Clay,Karnataka,Rabi,682,2.43,Zinc Sulphate
+2022,8,Wheat,Clay,Karnataka,Rabi,682,2.43,MOP
+2022,8,Cotton,Alluvial,Gujarat,Kharif,1044,13.0,DAP
+2023,8,Rice,Clay,Maharashtra,Kharif,1487,1.99,Imidacloprid
+2023,8,Rice,Clay,Maharashtra,Kharif,1487,1.99,Carbendazim
+2023,8,Rice,Clay,Maharashtra,Kharif,1487,1.99,Hybrid Rice Seed
+2025,3,Wheat,Red,Punjab,Rabi,1448,23.89,MOP
+2025,3,Wheat,Red,Punjab,Rabi,1448,23.89,Zinc Sulphate
+2023,12,Maize,Loamy,Gujarat,Rabi,495,20.85,Cypermethrin
+2022,1,Wheat,Red,Telangana,Rabi,637,1.43,Urea
+2022,1,Wheat,Red,Telangana,Rabi,637,1.43,Zinc Sulphate
+2022,1,Wheat,Red,Telangana,Rabi,637,1.43,MOP
+2023,3,Cotton,Alluvial,Punjab,Kharif,900,3.44,DAP
+2022,6,Wheat,Red,Madhya Pradesh,Rabi,340,19.61,Glyphosate
+2023,7,Chili,Loamy,Madhya Pradesh,Zaid,402,1.82,Humic Acid
+2024,10,Maize,Clay,Madhya Pradesh,Kharif,1303,8.86,Urea
+2024,10,Maize,Clay,Madhya Pradesh,Kharif,1303,8.86,DAP
+2024,3,Soybean,Clay,Karnataka,Kharif,878,16.59,Mancozeb
+2024,3,Soybean,Clay,Karnataka,Kharif,878,16.59,Rhizobium
+2024,3,Soybean,Clay,Karnataka,Kharif,878,16.59,DAP
+2024,5,Wheat,Alluvial,Gujarat,Rabi,802,15.03,MOP
+2024,5,Wheat,Alluvial,Gujarat,Rabi,802,15.03,Glyphosate
+2025,6,Soybean,Black,Karnataka,Kharif,851,13.45,DAP
+2023,12,Wheat,Black,Madhya Pradesh,Rabi,807,10.14,Zinc Sulphate
+2022,12,Cotton,Black,Gujarat,Kharif,417,7.63,DAP
+2022,12,Cotton,Black,Gujarat,Kharif,417,7.63,Cypermethrin
+2022,12,Cotton,Black,Gujarat,Kharif,417,7.63,Urea
+2022,7,Maize,Red,Karnataka,Kharif,385,3.72,DAP
+2022,7,Maize,Red,Karnataka,Kharif,385,3.72,MOP
+2023,2,Maize,Alluvial,Maharashtra,Kharif,1118,9.47,MOP
+2023,2,Maize,Alluvial,Maharashtra,Kharif,1118,9.47,Urea
+2023,2,Maize,Alluvial,Maharashtra,Kharif,1118,9.47,DAP
+2024,5,Soybean,Clay,Madhya Pradesh,Kharif,1250,9.61,Mancozeb
+2022,7,Soybean,Loamy,Telangana,Kharif,952,24.37,Urea
+2022,6,Chili,Alluvial,Punjab,Rabi,713,2.22,Imidacloprid
+2022,6,Chili,Alluvial,Punjab,Rabi,713,2.22,Neem Oil
+2022,6,Chili,Alluvial,Punjab,Rabi,713,2.22,Humic Acid
+2023,7,Soybean,Alluvial,Telangana,Kharif,623,22.28,DAP
+2023,3,Rice,Red,Maharashtra,Kharif,1167,7.06,Hybrid Rice Seed
+2022,5,Tomato,Alluvial,Telangana,Zaid,1143,9.66,Imidacloprid
+2022,5,Tomato,Alluvial,Telangana,Zaid,1143,9.66,Humic Acid
+2023,2,Chili,Red,Telangana,Rabi,1142,13.46,Neem Oil
+2023,2,Chili,Red,Telangana,Rabi,1142,13.46,Humic Acid
+2023,8,Soybean,Clay,Punjab,Kharif,388,19.2,Mancozeb
+2023,8,Soybean,Clay,Punjab,Kharif,388,19.2,DAP
+2025,8,Soybean,Alluvial,Telangana,Kharif,1465,12.44,Mancozeb
+2022,3,Tomato,Clay,Madhya Pradesh,Rabi,328,19.45,Hybrid Tomato Seed
+2022,6,Soybean,Black,Telangana,Kharif,889,7.51,Rhizobium
+2022,6,Soybean,Black,Telangana,Kharif,889,7.51,DAP
+2022,6,Soybean,Black,Telangana,Kharif,889,7.51,Urea
+2023,10,Soybean,Loamy,Maharashtra,Kharif,1193,2.21,Mancozeb
+2023,10,Soybean,Loamy,Maharashtra,Kharif,1193,2.21,Urea
+2025,4,Maize,Loamy,Gujarat,Kharif,730,24.67,MOP
+2025,6,Rice,Black,Madhya Pradesh,Kharif,876,22.55,DAP
+2024,8,Soybean,Black,Madhya Pradesh,Kharif,1443,7.18,Mancozeb
+2024,8,Soybean,Black,Madhya Pradesh,Kharif,1443,7.18,DAP
+2024,8,Soybean,Black,Madhya Pradesh,Kharif,1443,7.18,Urea
+2022,6,Soybean,Clay,Gujarat,Kharif,1038,10.19,Mancozeb
+2022,6,Soybean,Clay,Gujarat,Kharif,1038,10.19,DAP
+2024,5,Wheat,Clay,Gujarat,Rabi,778,24.18,Zinc Sulphate
+2024,5,Wheat,Clay,Gujarat,Rabi,778,24.18,Glyphosate
+2022,10,Soybean,Black,Punjab,Kharif,451,22.83,DAP
+2022,10,Soybean,Black,Punjab,Kharif,451,22.83,Rhizobium
+2022,10,Soybean,Black,Punjab,Kharif,451,22.83,Urea
+2023,9,Wheat,Alluvial,Punjab,Rabi,449,4.4,Zinc Sulphate
+2023,9,Wheat,Alluvial,Punjab,Rabi,449,4.4,MOP
+2023,9,Wheat,Alluvial,Punjab,Rabi,449,4.4,Urea
+2024,1,Wheat,Clay,Punjab,Rabi,805,6.56,MOP
+2023,6,Cotton,Sandy,Telangana,Kharif,856,6.97,DAP
+2024,1,Soybean,Alluvial,Madhya Pradesh,Kharif,641,14.19,Urea
+2024,1,Soybean,Alluvial,Madhya Pradesh,Kharif,641,14.19,DAP
+2024,5,Tomato,Sandy,Maharashtra,Rabi,1086,17.33,Hybrid Tomato Seed
+2024,5,Tomato,Sandy,Maharashtra,Rabi,1086,17.33,Imidacloprid
+2024,5,Maize,Red,Madhya Pradesh,Kharif,824,21.38,DAP
+2024,5,Maize,Red,Madhya Pradesh,Kharif,824,21.38,MOP
+2024,5,Maize,Red,Madhya Pradesh,Kharif,824,21.38,Urea
+2025,9,Chili,Alluvial,Madhya Pradesh,Zaid,1104,22.61,Hybrid Tomato Seed
+2025,9,Chili,Alluvial,Madhya Pradesh,Zaid,1104,22.61,Neem Oil
+2024,8,Wheat,Sandy,Karnataka,Rabi,935,13.61,Zinc Sulphate
+2025,3,Rice,Clay,Gujarat,Kharif,1323,14.94,Zinc Sulphate
+2023,12,Tomato,Loamy,Telangana,Rabi,1465,12.53,Humic Acid
+2023,12,Tomato,Loamy,Telangana,Rabi,1465,12.53,Mancozeb
+2022,8,Chili,Alluvial,Karnataka,Rabi,890,8.85,Imidacloprid
+2022,8,Chili,Alluvial,Karnataka,Rabi,890,8.85,Humic Acid
+2022,8,Chili,Alluvial,Karnataka,Rabi,890,8.85,Hybrid Tomato Seed
+2024,6,Chili,Clay,Telangana,Zaid,689,22.42,Humic Acid
+2024,6,Chili,Clay,Telangana,Zaid,689,22.42,Hybrid Tomato Seed
+2025,9,Maize,Clay,Gujarat,Rabi,800,12.06,Cypermethrin
+2023,4,Tomato,Red,Punjab,Rabi,811,15.79,Hybrid Tomato Seed
+2023,4,Tomato,Red,Punjab,Rabi,811,15.79,Neem Oil
+2023,4,Tomato,Red,Punjab,Rabi,811,15.79,Humic Acid
+2024,12,Tomato,Alluvial,Karnataka,Rabi,462,10.42,Humic Acid
+2022,10,Cotton,Loamy,Punjab,Kharif,1351,9.65,Cypermethrin
+2022,10,Cotton,Loamy,Punjab,Kharif,1351,9.65,DAP
+2022,8,Tomato,Clay,Karnataka,Rabi,1145,7.38,Neem Oil
+2022,8,Tomato,Clay,Karnataka,Rabi,1145,7.38,Hybrid Tomato Seed
+2023,6,Chili,Loamy,Maharashtra,Zaid,763,18.7,Humic Acid
+2023,6,Chili,Loamy,Maharashtra,Zaid,763,18.7,Neem Oil
+2023,1,Chili,Clay,Punjab,Rabi,1201,19.76,Humic Acid
+2024,10,Cotton,Loamy,Maharashtra,Kharif,1046,13.81,Cypermethrin
+2024,10,Cotton,Loamy,Maharashtra,Kharif,1046,13.81,Urea
+2024,10,Wheat,Red,Punjab,Rabi,1243,10.17,MOP
+2023,8,Chili,Alluvial,Gujarat,Rabi,699,24.53,Neem Oil
+2023,8,Chili,Alluvial,Gujarat,Rabi,699,24.53,Humic Acid
+2023,8,Chili,Alluvial,Gujarat,Rabi,699,24.53,Imidacloprid
+2023,11,Rice,Clay,Maharashtra,Kharif,908,19.98,DAP
+2025,2,Chili,Red,Punjab,Zaid,730,21.49,Neem Oil
+2025,2,Chili,Red,Punjab,Zaid,730,21.49,Imidacloprid
+2024,12,Rice,Red,Punjab,Kharif,1427,12.26,Hybrid Rice Seed
+2022,6,Chili,Alluvial,Maharashtra,Rabi,1482,11.7,Imidacloprid
+2022,6,Chili,Alluvial,Maharashtra,Rabi,1482,11.7,Neem Oil
+2022,6,Chili,Alluvial,Maharashtra,Rabi,1482,11.7,Hybrid Tomato Seed
+2024,5,Soybean,Alluvial,Maharashtra,Kharif,508,16.01,Mancozeb
+2024,5,Soybean,Alluvial,Maharashtra,Kharif,508,16.01,Urea
+2022,3,Tomato,Red,Karnataka,Zaid,403,5.06,Imidacloprid
+2022,3,Tomato,Red,Karnataka,Zaid,403,5.06,Neem Oil
+2022,3,Tomato,Red,Karnataka,Zaid,403,5.06,Hybrid Tomato Seed
+2025,2,Chili,Clay,Madhya Pradesh,Zaid,960,22.4,Imidacloprid
+2025,2,Chili,Clay,Madhya Pradesh,Zaid,960,22.4,Neem Oil
+2025,2,Chili,Clay,Madhya Pradesh,Zaid,960,22.4,Hybrid Tomato Seed
+2022,4,Rice,Clay,Karnataka,Kharif,1023,22.2,Hybrid Rice Seed
+2022,4,Rice,Clay,Karnataka,Kharif,1023,22.2,Carbendazim
+2023,7,Maize,Black,Punjab,Kharif,1055,23.44,MOP
+2023,7,Maize,Black,Punjab,Kharif,1055,23.44,Cypermethrin
+2024,4,Soybean,Black,Telangana,Kharif,1399,8.6,Rhizobium
+2025,12,Wheat,Sandy,Madhya Pradesh,Rabi,1414,4.42,Zinc Sulphate
+2025,12,Wheat,Sandy,Madhya Pradesh,Rabi,1414,4.42,Urea
+2024,9,Cotton,Sandy,Maharashtra,Kharif,699,1.2,Imidacloprid
+2024,9,Cotton,Sandy,Maharashtra,Kharif,699,1.2,Urea
+2024,9,Cotton,Sandy,Maharashtra,Kharif,699,1.2,DAP
+2024,5,Tomato,Black,Telangana,Rabi,905,24.85,Mancozeb
+2024,3,Soybean,Sandy,Maharashtra,Kharif,350,9.91,Rhizobium
+2025,4,Tomato,Alluvial,Maharashtra,Rabi,435,0.71,Mancozeb
+2025,4,Tomato,Alluvial,Maharashtra,Rabi,435,0.71,Humic Acid
+2025,4,Tomato,Alluvial,Maharashtra,Rabi,435,0.71,Imidacloprid
+2023,6,Rice,Clay,Telangana,Kharif,585,3.29,MOP
+2024,4,Tomato,Sandy,Maharashtra,Rabi,1089,20.33,Mancozeb
+2024,4,Tomato,Sandy,Maharashtra,Rabi,1089,20.33,Neem Oil
+2022,9,Rice,Clay,Telangana,Kharif,1230,15.06,Urea
+2022,9,Rice,Clay,Telangana,Kharif,1230,15.06,Imidacloprid
+2022,7,Tomato,Clay,Gujarat,Zaid,938,3.04,Mancozeb
+2022,7,Tomato,Clay,Gujarat,Zaid,938,3.04,Hybrid Tomato Seed
+2022,7,Tomato,Clay,Gujarat,Zaid,938,3.04,Imidacloprid
+2023,11,Wheat,Clay,Maharashtra,Rabi,996,1.57,Zinc Sulphate
+2023,11,Wheat,Clay,Maharashtra,Rabi,996,1.57,DAP
+2022,4,Soybean,Red,Maharashtra,Kharif,1146,20.38,DAP
+2022,4,Soybean,Red,Maharashtra,Kharif,1146,20.38,Urea
+2024,12,Tomato,Red,Telangana,Rabi,1358,20.65,Humic Acid
+2024,10,Chili,Alluvial,Telangana,Zaid,1398,22.28,Hybrid Tomato Seed
+2024,10,Chili,Alluvial,Telangana,Zaid,1398,22.28,Imidacloprid
+2024,10,Chili,Alluvial,Telangana,Zaid,1398,22.28,Humic Acid
+2024,1,Soybean,Red,Gujarat,Kharif,923,23.74,Urea
+2024,1,Soybean,Red,Gujarat,Kharif,923,23.74,Rhizobium
+2025,11,Chili,Loamy,Gujarat,Rabi,1090,15.29,Hybrid Tomato Seed
+2025,11,Chili,Loamy,Gujarat,Rabi,1090,15.29,Neem Oil
+2024,10,Tomato,Alluvial,Madhya Pradesh,Zaid,1326,15.61,Mancozeb
+2024,10,Tomato,Alluvial,Madhya Pradesh,Zaid,1326,15.61,Imidacloprid
+2024,10,Tomato,Alluvial,Madhya Pradesh,Zaid,1326,15.61,Neem Oil
+2025,2,Wheat,Loamy,Punjab,Rabi,842,24.25,Zinc Sulphate
+2025,2,Wheat,Loamy,Punjab,Rabi,842,24.25,MOP
+2025,2,Wheat,Loamy,Punjab,Rabi,842,24.25,Glyphosate
+2022,2,Rice,Black,Telangana,Kharif,1026,21.9,Carbendazim
+2024,3,Soybean,Clay,Karnataka,Kharif,640,4.07,DAP
+2024,3,Soybean,Clay,Karnataka,Kharif,640,4.07,Mancozeb
+2024,3,Soybean,Clay,Karnataka,Kharif,640,4.07,Urea
+2023,2,Wheat,Alluvial,Karnataka,Rabi,1198,3.17,MOP
+2023,2,Wheat,Alluvial,Karnataka,Rabi,1198,3.17,Urea
+2023,2,Wheat,Alluvial,Karnataka,Rabi,1198,3.17,Zinc Sulphate
+2022,5,Wheat,Loamy,Punjab,Rabi,1486,8.6,MOP
+2022,5,Wheat,Loamy,Punjab,Rabi,1486,8.6,Glyphosate
+2022,12,Cotton,Loamy,Karnataka,Kharif,1402,0.94,DAP
+2023,2,Chili,Black,Gujarat,Zaid,1198,13.32,Humic Acid
+2023,2,Chili,Black,Gujarat,Zaid,1198,13.32,Neem Oil
+2023,2,Chili,Black,Gujarat,Zaid,1198,13.32,Imidacloprid
+2022,9,Tomato,Clay,Telangana,Rabi,517,21.81,Imidacloprid
+2022,9,Tomato,Clay,Telangana,Rabi,517,21.81,Hybrid Tomato Seed
+2025,4,Soybean,Clay,Madhya Pradesh,Kharif,686,16.71,Rhizobium
+2025,4,Soybean,Clay,Madhya Pradesh,Kharif,686,16.71,Mancozeb
+2024,4,Wheat,Alluvial,Karnataka,Rabi,668,17.82,Zinc Sulphate
+2024,4,Wheat,Alluvial,Karnataka,Rabi,668,17.82,MOP
+2024,2,Tomato,Black,Madhya Pradesh,Zaid,365,10.21,Hybrid Tomato Seed
+2024,2,Tomato,Black,Madhya Pradesh,Zaid,365,10.21,Humic Acid
+2024,2,Cotton,Clay,Maharashtra,Kharif,818,2.56,Cypermethrin
+2024,2,Cotton,Clay,Maharashtra,Kharif,818,2.56,Imidacloprid
+2023,4,Maize,Black,Karnataka,Rabi,328,1.83,MOP
+2023,5,Maize,Black,Madhya Pradesh,Rabi,1015,22.82,DAP
+2023,5,Maize,Black,Madhya Pradesh,Rabi,1015,22.82,Cypermethrin
+2023,5,Maize,Black,Madhya Pradesh,Rabi,1015,22.82,Urea
+2025,3,Chili,Loamy,Madhya Pradesh,Rabi,401,7.22,Hybrid Tomato Seed
+2025,3,Chili,Loamy,Madhya Pradesh,Rabi,401,7.22,Humic Acid
+2025,3,Chili,Loamy,Madhya Pradesh,Rabi,401,7.22,Imidacloprid
+2023,11,Rice,Red,Gujarat,Kharif,507,17.22,Hybrid Rice Seed
+2023,11,Rice,Red,Gujarat,Kharif,507,17.22,DAP
+2022,4,Maize,Clay,Karnataka,Rabi,968,20.63,Urea
+2023,4,Soybean,Alluvial,Karnataka,Kharif,959,22.7,DAP
+2023,4,Soybean,Alluvial,Karnataka,Kharif,959,22.7,Rhizobium
+2023,4,Soybean,Alluvial,Karnataka,Kharif,959,22.7,Urea
+2023,11,Tomato,Red,Madhya Pradesh,Rabi,772,24.25,Mancozeb
+2023,11,Tomato,Red,Madhya Pradesh,Rabi,772,24.25,Imidacloprid
+2022,2,Wheat,Black,Madhya Pradesh,Rabi,378,8.64,Glyphosate
+2022,2,Wheat,Black,Madhya Pradesh,Rabi,378,8.64,Zinc Sulphate
+2022,2,Wheat,Black,Madhya Pradesh,Rabi,378,8.64,Urea
+2022,10,Soybean,Black,Gujarat,Kharif,768,3.39,Rhizobium
+2022,10,Soybean,Black,Gujarat,Kharif,768,3.39,Urea
+2022,12,Soybean,Alluvial,Madhya Pradesh,Kharif,422,3.3,Rhizobium
+2023,2,Chili,Black,Maharashtra,Zaid,1306,23.91,Imidacloprid
+2023,2,Chili,Black,Maharashtra,Zaid,1306,23.91,Humic Acid
+2023,2,Chili,Black,Maharashtra,Zaid,1306,23.91,Neem Oil
+2024,10,Chili,Clay,Madhya Pradesh,Zaid,947,11.92,Neem Oil
+2024,10,Chili,Clay,Madhya Pradesh,Zaid,947,11.92,Hybrid Tomato Seed
+2024,10,Chili,Clay,Madhya Pradesh,Zaid,947,11.92,Imidacloprid
+2023,10,Chili,Clay,Gujarat,Rabi,587,2.5,Neem Oil
+2025,10,Chili,Red,Maharashtra,Rabi,1315,7.43,Humic Acid
+2025,10,Chili,Red,Maharashtra,Rabi,1315,7.43,Neem Oil
+2025,10,Chili,Red,Maharashtra,Rabi,1315,7.43,Hybrid Tomato Seed
+2024,6,Chili,Sandy,Karnataka,Zaid,1341,4.01,Hybrid Tomato Seed
+2024,6,Chili,Sandy,Karnataka,Zaid,1341,4.01,Neem Oil
+2024,7,Tomato,Black,Karnataka,Rabi,1267,19.92,Neem Oil
+2024,10,Rice,Clay,Telangana,Kharif,337,10.26,Imidacloprid
+2024,10,Rice,Clay,Telangana,Kharif,337,10.26,Urea
+2023,6,Maize,Black,Maharashtra,Kharif,1045,21.44,DAP
+2023,6,Maize,Black,Maharashtra,Kharif,1045,21.44,Urea
+2023,6,Maize,Black,Maharashtra,Kharif,1045,21.44,Cypermethrin
+2023,11,Maize,Red,Gujarat,Rabi,596,15.25,MOP
+2023,2,Wheat,Clay,Karnataka,Rabi,1434,1.95,Zinc Sulphate
+2023,2,Wheat,Clay,Karnataka,Rabi,1434,1.95,MOP
+2025,6,Maize,Red,Gujarat,Rabi,316,24.58,MOP
+2023,3,Cotton,Black,Telangana,Kharif,1421,16.81,Glyphosate
+2023,3,Cotton,Black,Telangana,Kharif,1421,16.81,Imidacloprid
+2025,1,Chili,Black,Karnataka,Rabi,1176,18.74,Hybrid Tomato Seed
+2025,1,Chili,Black,Karnataka,Rabi,1176,18.74,Imidacloprid
+2025,1,Chili,Black,Karnataka,Rabi,1176,18.74,Neem Oil
+2023,5,Rice,Alluvial,Madhya Pradesh,Kharif,1219,5.07,Urea
+2023,5,Rice,Alluvial,Madhya Pradesh,Kharif,1219,5.07,Carbendazim
+2023,10,Tomato,Alluvial,Maharashtra,Rabi,1344,8.09,Neem Oil
+2023,10,Tomato,Alluvial,Maharashtra,Rabi,1344,8.09,Hybrid Tomato Seed
+2025,12,Maize,Sandy,Madhya Pradesh,Kharif,1481,23.5,DAP
+2025,12,Maize,Sandy,Madhya Pradesh,Kharif,1481,23.5,Cypermethrin
+2025,12,Maize,Sandy,Madhya Pradesh,Kharif,1481,23.5,MOP
+2022,7,Soybean,Red,Punjab,Kharif,450,14.36,DAP
+2022,7,Soybean,Red,Punjab,Kharif,450,14.36,Mancozeb
+2023,5,Cotton,Sandy,Karnataka,Kharif,1387,10.91,Urea
+2023,5,Cotton,Sandy,Karnataka,Kharif,1387,10.91,DAP
+2023,5,Cotton,Sandy,Karnataka,Kharif,1387,10.91,Imidacloprid
+2025,4,Cotton,Alluvial,Madhya Pradesh,Kharif,571,23.62,Cypermethrin
+2025,4,Cotton,Alluvial,Madhya Pradesh,Kharif,571,23.62,Imidacloprid
+2025,10,Tomato,Red,Karnataka,Rabi,698,14.79,Imidacloprid
+2025,10,Tomato,Red,Karnataka,Rabi,698,14.79,Mancozeb
+2025,10,Tomato,Red,Karnataka,Rabi,698,14.79,Neem Oil
+2023,4,Wheat,Loamy,Karnataka,Rabi,560,4.89,MOP
+2022,1,Wheat,Sandy,Gujarat,Rabi,1102,8.88,Glyphosate
+2022,1,Wheat,Sandy,Gujarat,Rabi,1102,8.88,MOP
+2022,1,Wheat,Sandy,Gujarat,Rabi,1102,8.88,Urea
+2024,4,Rice,Black,Gujarat,Kharif,1157,19.2,Imidacloprid
+2024,4,Rice,Black,Gujarat,Kharif,1157,19.2,MOP
+2022,12,Rice,Loamy,Punjab,Kharif,1150,5.84,DAP
+2022,12,Rice,Loamy,Punjab,Kharif,1150,5.84,Carbendazim
+2022,12,Rice,Loamy,Punjab,Kharif,1150,5.84,Imidacloprid
+2022,12,Maize,Black,Maharashtra,Rabi,468,7.4,DAP
+2022,12,Maize,Black,Maharashtra,Rabi,468,7.4,Urea
+2023,6,Cotton,Loamy,Madhya Pradesh,Kharif,1179,9.86,Cypermethrin
+2023,6,Cotton,Loamy,Madhya Pradesh,Kharif,1179,9.86,DAP
+2023,6,Cotton,Loamy,Madhya Pradesh,Kharif,1179,9.86,Glyphosate
+2025,2,Maize,Loamy,Madhya Pradesh,Kharif,1349,11.55,Urea
+2025,2,Maize,Loamy,Madhya Pradesh,Kharif,1349,11.55,MOP
+2025,12,Maize,Loamy,Gujarat,Rabi,508,14.57,MOP
+2025,12,Maize,Loamy,Gujarat,Rabi,508,14.57,Cypermethrin
+2024,5,Maize,Loamy,Punjab,Rabi,558,18.96,MOP
+2024,5,Maize,Loamy,Punjab,Rabi,558,18.96,Urea
+2025,9,Rice,Red,Madhya Pradesh,Kharif,1070,8.96,DAP
+2025,9,Rice,Red,Madhya Pradesh,Kharif,1070,8.96,Hybrid Rice Seed
+2025,9,Rice,Red,Madhya Pradesh,Kharif,1070,8.96,MOP
+2023,1,Chili,Black,Madhya Pradesh,Zaid,747,7.14,Neem Oil
+2023,1,Chili,Black,Madhya Pradesh,Zaid,747,7.14,Hybrid Tomato Seed
+2023,1,Chili,Black,Madhya Pradesh,Zaid,747,7.14,Humic Acid
+2024,4,Soybean,Red,Karnataka,Kharif,1193,6.35,Rhizobium
+2024,4,Soybean,Red,Karnataka,Kharif,1193,6.35,DAP
+2024,7,Rice,Sandy,Gujarat,Kharif,986,20.36,Zinc Sulphate
+2024,7,Rice,Sandy,Gujarat,Kharif,986,20.36,Imidacloprid
+2024,7,Rice,Sandy,Gujarat,Kharif,986,20.36,DAP
+2023,10,Chili,Alluvial,Karnataka,Rabi,835,9.05,Humic Acid
+2023,10,Chili,Alluvial,Karnataka,Rabi,835,9.05,Imidacloprid
+2022,9,Rice,Clay,Madhya Pradesh,Kharif,744,22.35,DAP
+2022,9,Rice,Clay,Madhya Pradesh,Kharif,744,22.35,Zinc Sulphate
+2022,9,Rice,Clay,Madhya Pradesh,Kharif,744,22.35,Urea
+2024,10,Maize,Red,Madhya Pradesh,Rabi,330,13.15,MOP
+2024,10,Maize,Red,Madhya Pradesh,Rabi,330,13.15,Cypermethrin
+2022,12,Maize,Red,Punjab,Kharif,535,8.68,DAP
+2022,12,Maize,Red,Punjab,Kharif,535,8.68,Urea
+2022,12,Maize,Red,Punjab,Kharif,535,8.68,Cypermethrin
+2025,2,Rice,Sandy,Gujarat,Kharif,1288,12.37,Urea
+2025,2,Rice,Sandy,Gujarat,Kharif,1288,12.37,Carbendazim
+2025,2,Rice,Sandy,Gujarat,Kharif,1288,12.37,Zinc Sulphate
+2024,6,Chili,Sandy,Gujarat,Zaid,927,12.44,Neem Oil
+2024,6,Chili,Sandy,Gujarat,Zaid,927,12.44,Hybrid Tomato Seed
+2025,2,Tomato,Black,Gujarat,Rabi,802,10.86,Neem Oil
+2022,9,Chili,Black,Madhya Pradesh,Rabi,1146,2.38,Imidacloprid
+2022,9,Chili,Black,Madhya Pradesh,Rabi,1146,2.38,Hybrid Tomato Seed
+2022,9,Chili,Black,Madhya Pradesh,Rabi,1146,2.38,Neem Oil
+2024,12,Tomato,Clay,Madhya Pradesh,Zaid,563,4.7,Humic Acid
+2024,12,Tomato,Clay,Madhya Pradesh,Zaid,563,4.7,Neem Oil
+2023,8,Wheat,Red,Telangana,Rabi,1242,23.8,DAP
+2022,12,Wheat,Loamy,Madhya Pradesh,Rabi,1402,16.55,MOP
+2022,7,Tomato,Red,Karnataka,Rabi,1411,4.88,Imidacloprid
+2022,7,Tomato,Red,Karnataka,Rabi,1411,4.88,Hybrid Tomato Seed
+2022,7,Tomato,Red,Karnataka,Rabi,1411,4.88,Humic Acid
+2023,4,Maize,Black,Punjab,Rabi,1019,2.45,MOP
+2023,4,Maize,Black,Punjab,Rabi,1019,2.45,Urea
+2024,2,Chili,Black,Karnataka,Rabi,1165,22.79,Humic Acid
+2024,2,Chili,Black,Karnataka,Rabi,1165,22.79,Imidacloprid
+2024,2,Wheat,Black,Gujarat,Rabi,1017,3.98,MOP
+2024,2,Wheat,Black,Gujarat,Rabi,1017,3.98,Urea
+2024,6,Rice,Sandy,Telangana,Kharif,1085,1.6,Zinc Sulphate
+2024,6,Rice,Sandy,Telangana,Kharif,1085,1.6,Urea
+2024,6,Rice,Sandy,Telangana,Kharif,1085,1.6,Hybrid Rice Seed
+2025,7,Cotton,Black,Punjab,Kharif,859,14.13,Cypermethrin
+2023,1,Chili,Red,Telangana,Zaid,946,7.15,Hybrid Tomato Seed
+2023,1,Chili,Red,Telangana,Zaid,946,7.15,Humic Acid
+2023,1,Chili,Red,Telangana,Zaid,946,7.15,Neem Oil
+2023,7,Tomato,Loamy,Maharashtra,Zaid,405,15.78,Hybrid Tomato Seed
+2023,12,Cotton,Alluvial,Madhya Pradesh,Kharif,879,1.19,Glyphosate
+2023,12,Cotton,Alluvial,Madhya Pradesh,Kharif,879,1.19,Cypermethrin
+2023,12,Cotton,Alluvial,Madhya Pradesh,Kharif,879,1.19,Imidacloprid
+2022,11,Chili,Sandy,Karnataka,Zaid,793,11.64,Humic Acid
+2023,6,Soybean,Alluvial,Punjab,Kharif,532,20.57,Mancozeb
+2023,3,Tomato,Alluvial,Madhya Pradesh,Rabi,342,20.11,Humic Acid
+2025,2,Maize,Loamy,Madhya Pradesh,Rabi,1014,2.34,Cypermethrin
+2025,2,Maize,Loamy,Madhya Pradesh,Rabi,1014,2.34,Urea
+2025,2,Maize,Loamy,Madhya Pradesh,Rabi,1014,2.34,DAP
+2022,11,Tomato,Alluvial,Telangana,Zaid,400,8.05,Humic Acid
+2023,1,Cotton,Loamy,Madhya Pradesh,Kharif,1056,22.05,DAP
+2023,1,Cotton,Loamy,Madhya Pradesh,Kharif,1056,22.05,Imidacloprid
+2023,4,Chili,Red,Madhya Pradesh,Rabi,888,20.11,Imidacloprid
+2023,4,Chili,Red,Madhya Pradesh,Rabi,888,20.11,Neem Oil
+2025,4,Rice,Red,Punjab,Kharif,1064,14.73,Urea
+2025,4,Rice,Red,Punjab,Kharif,1064,14.73,Zinc Sulphate
+2025,4,Rice,Red,Punjab,Kharif,1064,14.73,MOP
+2022,4,Maize,Sandy,Madhya Pradesh,Rabi,1454,8.91,Cypermethrin
+2023,6,Wheat,Sandy,Maharashtra,Rabi,830,19.84,DAP
+2023,10,Rice,Clay,Maharashtra,Kharif,1321,8.42,Zinc Sulphate
+2023,10,Rice,Clay,Maharashtra,Kharif,1321,8.42,MOP
+2023,10,Rice,Clay,Maharashtra,Kharif,1321,8.42,Carbendazim
+2022,4,Cotton,Loamy,Gujarat,Kharif,860,4.26,DAP
+2022,4,Cotton,Loamy,Gujarat,Kharif,860,4.26,Glyphosate
+2022,4,Cotton,Loamy,Gujarat,Kharif,860,4.26,Urea
+2022,3,Tomato,Sandy,Telangana,Rabi,1434,13.05,Humic Acid
+2022,3,Tomato,Sandy,Telangana,Rabi,1434,13.05,Hybrid Tomato Seed
+2022,3,Tomato,Sandy,Telangana,Rabi,1434,13.05,Imidacloprid
+2024,8,Soybean,Loamy,Punjab,Kharif,1081,9.26,DAP
+2024,8,Soybean,Loamy,Punjab,Kharif,1081,9.26,Rhizobium
+2023,1,Chili,Black,Karnataka,Zaid,1020,9.38,Neem Oil
+2023,1,Chili,Black,Karnataka,Zaid,1020,9.38,Humic Acid
+2023,1,Soybean,Sandy,Gujarat,Kharif,340,3.14,Mancozeb
+2023,1,Soybean,Sandy,Gujarat,Kharif,340,3.14,DAP
+2025,12,Maize,Clay,Gujarat,Kharif,723,3.05,Urea
+2025,12,Maize,Clay,Gujarat,Kharif,723,3.05,DAP
+2025,12,Maize,Clay,Gujarat,Kharif,723,3.05,Cypermethrin
+2024,10,Cotton,Clay,Maharashtra,Kharif,1089,8.96,DAP
+2023,10,Rice,Alluvial,Telangana,Kharif,717,6.63,DAP
+2023,10,Rice,Alluvial,Telangana,Kharif,717,6.63,Urea
+2023,1,Tomato,Loamy,Gujarat,Zaid,833,10.76,Imidacloprid
+2024,7,Soybean,Loamy,Karnataka,Kharif,1083,7.35,DAP
+2024,7,Soybean,Loamy,Karnataka,Kharif,1083,7.35,Mancozeb
+2024,7,Soybean,Loamy,Karnataka,Kharif,1083,7.35,Rhizobium
+2022,10,Maize,Loamy,Madhya Pradesh,Kharif,796,16.36,Urea
+2022,10,Maize,Loamy,Madhya Pradesh,Kharif,796,16.36,MOP
+2022,10,Maize,Loamy,Madhya Pradesh,Kharif,796,16.36,DAP
+2022,10,Rice,Red,Punjab,Kharif,485,7.83,DAP
+2023,7,Wheat,Alluvial,Telangana,Rabi,1490,17.64,DAP
+2022,12,Maize,Red,Karnataka,Rabi,345,12.0,DAP
+2022,12,Maize,Red,Karnataka,Rabi,345,12.0,Cypermethrin
+2022,12,Maize,Red,Karnataka,Rabi,345,12.0,Urea
+2023,11,Rice,Alluvial,Gujarat,Kharif,300,20.1,Urea
+2023,11,Rice,Alluvial,Gujarat,Kharif,300,20.1,MOP
+2023,12,Cotton,Clay,Gujarat,Kharif,588,12.54,Imidacloprid
+2023,12,Cotton,Clay,Gujarat,Kharif,588,12.54,Glyphosate
+2023,12,Cotton,Clay,Gujarat,Kharif,588,12.54,Urea
+2025,6,Tomato,Alluvial,Gujarat,Rabi,1493,24.27,Neem Oil
+2025,8,Rice,Sandy,Punjab,Kharif,1334,0.59,Zinc Sulphate
+2025,8,Rice,Sandy,Punjab,Kharif,1334,0.59,Urea
+2025,1,Chili,Sandy,Maharashtra,Zaid,1279,18.11,Humic Acid
+2025,1,Chili,Sandy,Maharashtra,Zaid,1279,18.11,Hybrid Tomato Seed
+2022,8,Chili,Clay,Karnataka,Zaid,1409,3.33,Imidacloprid
+2022,8,Chili,Clay,Karnataka,Zaid,1409,3.33,Humic Acid
+2022,8,Chili,Clay,Karnataka,Zaid,1409,3.33,Neem Oil
+2025,5,Cotton,Red,Gujarat,Kharif,628,13.62,Imidacloprid
+2025,3,Soybean,Clay,Gujarat,Kharif,471,9.64,Rhizobium
+2025,3,Soybean,Clay,Gujarat,Kharif,471,9.64,DAP
+2025,3,Soybean,Clay,Gujarat,Kharif,471,9.64,Mancozeb
+2022,1,Soybean,Sandy,Maharashtra,Kharif,956,21.86,Rhizobium
+2022,1,Soybean,Sandy,Maharashtra,Kharif,956,21.86,DAP
+2022,1,Soybean,Sandy,Maharashtra,Kharif,956,21.86,Urea
+2025,4,Rice,Loamy,Punjab,Kharif,1203,3.44,DAP
+2022,1,Cotton,Sandy,Punjab,Kharif,1032,0.67,Imidacloprid
+2022,1,Cotton,Sandy,Punjab,Kharif,1032,0.67,DAP
+2022,1,Cotton,Sandy,Punjab,Kharif,1032,0.67,Cypermethrin
+2023,10,Rice,Alluvial,Gujarat,Kharif,628,10.91,Imidacloprid
+2024,5,Rice,Loamy,Maharashtra,Kharif,332,3.69,DAP
+2024,5,Rice,Loamy,Maharashtra,Kharif,332,3.69,Zinc Sulphate
+2024,5,Rice,Loamy,Maharashtra,Kharif,332,3.69,Urea
+2023,9,Maize,Loamy,Maharashtra,Rabi,788,22.22,Cypermethrin
+2025,2,Rice,Sandy,Maharashtra,Kharif,1195,8.86,MOP
+2025,2,Rice,Sandy,Maharashtra,Kharif,1195,8.86,Urea
+2025,2,Rice,Sandy,Maharashtra,Kharif,1195,8.86,Zinc Sulphate
+2024,3,Wheat,Red,Karnataka,Rabi,527,1.66,Zinc Sulphate
+2022,7,Soybean,Alluvial,Karnataka,Kharif,1341,13.21,Mancozeb
+2022,7,Soybean,Alluvial,Karnataka,Kharif,1341,13.21,Rhizobium
+2025,11,Maize,Sandy,Telangana,Kharif,1043,17.66,Urea
+2025,11,Maize,Sandy,Telangana,Kharif,1043,17.66,DAP
+2023,3,Chili,Loamy,Karnataka,Zaid,777,11.78,Humic Acid
+2022,4,Rice,Red,Madhya Pradesh,Kharif,736,22.84,Urea
+2022,4,Rice,Red,Madhya Pradesh,Kharif,736,22.84,MOP
+2024,12,Maize,Sandy,Punjab,Rabi,933,5.64,DAP
+2024,12,Maize,Sandy,Punjab,Rabi,933,5.64,Urea
+2024,8,Chili,Sandy,Karnataka,Rabi,643,7.45,Imidacloprid
+2024,8,Chili,Sandy,Karnataka,Rabi,643,7.45,Humic Acid
+2024,8,Chili,Sandy,Karnataka,Rabi,643,7.45,Hybrid Tomato Seed
+2024,2,Rice,Loamy,Karnataka,Kharif,376,11.82,Hybrid Rice Seed
+2025,8,Soybean,Red,Madhya Pradesh,Kharif,331,16.78,DAP
+2025,8,Soybean,Red,Madhya Pradesh,Kharif,331,16.78,Rhizobium
+2025,5,Tomato,Clay,Madhya Pradesh,Zaid,805,4.46,Mancozeb
+2025,5,Tomato,Clay,Madhya Pradesh,Zaid,805,4.46,Humic Acid
+2025,5,Tomato,Clay,Madhya Pradesh,Zaid,805,4.46,Hybrid Tomato Seed
+2025,1,Chili,Sandy,Telangana,Zaid,659,21.48,Neem Oil
+2023,2,Soybean,Sandy,Madhya Pradesh,Kharif,1173,18.12,Rhizobium
+2024,2,Maize,Loamy,Punjab,Kharif,395,20.73,DAP
+2024,2,Maize,Loamy,Punjab,Kharif,395,20.73,Urea
+2024,2,Maize,Loamy,Punjab,Kharif,395,20.73,Cypermethrin
+2022,7,Maize,Clay,Madhya Pradesh,Kharif,880,5.48,MOP
+2022,7,Maize,Clay,Madhya Pradesh,Kharif,880,5.48,Urea
+2024,12,Soybean,Sandy,Karnataka,Kharif,331,14.49,DAP
+2024,9,Maize,Sandy,Gujarat,Kharif,593,3.04,Cypermethrin
+2024,9,Maize,Sandy,Gujarat,Kharif,593,3.04,DAP
+2024,9,Maize,Sandy,Gujarat,Kharif,593,3.04,MOP
+2024,10,Soybean,Alluvial,Punjab,Kharif,733,17.16,DAP
+2022,11,Wheat,Alluvial,Maharashtra,Rabi,437,7.8,DAP
+2022,11,Wheat,Alluvial,Maharashtra,Rabi,437,7.8,Glyphosate
+2022,11,Wheat,Alluvial,Maharashtra,Rabi,437,7.8,Urea
+2022,12,Wheat,Black,Maharashtra,Rabi,408,3.87,Glyphosate
+2022,12,Wheat,Black,Maharashtra,Rabi,408,3.87,Urea
+2024,9,Soybean,Clay,Punjab,Kharif,878,2.72,Urea
+2024,9,Soybean,Clay,Punjab,Kharif,878,2.72,DAP
+2023,7,Maize,Sandy,Madhya Pradesh,Kharif,471,8.71,DAP
+2023,7,Maize,Sandy,Madhya Pradesh,Kharif,471,8.71,Urea
+2023,7,Maize,Sandy,Madhya Pradesh,Kharif,471,8.71,MOP
+2023,9,Cotton,Black,Punjab,Kharif,808,14.43,Cypermethrin
+2023,9,Cotton,Black,Punjab,Kharif,808,14.43,Imidacloprid
+2023,9,Cotton,Black,Punjab,Kharif,808,14.43,Glyphosate
+2023,8,Chili,Sandy,Karnataka,Zaid,357,8.28,Hybrid Tomato Seed
+2023,8,Chili,Sandy,Karnataka,Zaid,357,8.28,Humic Acid
+2025,3,Maize,Red,Madhya Pradesh,Kharif,707,17.73,Cypermethrin
+2024,11,Chili,Alluvial,Maharashtra,Zaid,580,12.25,Imidacloprid
+2024,11,Chili,Alluvial,Maharashtra,Zaid,580,12.25,Neem Oil
+2024,11,Chili,Alluvial,Maharashtra,Zaid,580,12.25,Hybrid Tomato Seed
+2023,3,Maize,Sandy,Maharashtra,Kharif,844,12.07,DAP
+2025,11,Chili,Alluvial,Karnataka,Zaid,945,19.01,Hybrid Tomato Seed
+2025,11,Chili,Alluvial,Karnataka,Zaid,945,19.01,Humic Acid
+2022,5,Chili,Black,Gujarat,Rabi,599,16.35,Humic Acid
+2022,5,Chili,Black,Gujarat,Rabi,599,16.35,Hybrid Tomato Seed
+2024,5,Soybean,Sandy,Madhya Pradesh,Kharif,992,8.15,DAP
+2024,2,Wheat,Black,Madhya Pradesh,Rabi,1004,11.11,DAP
+2024,4,Maize,Alluvial,Telangana,Rabi,1310,14.83,DAP
+2024,4,Maize,Alluvial,Telangana,Rabi,1310,14.83,Cypermethrin
+2023,2,Rice,Alluvial,Telangana,Kharif,1142,19.5,Imidacloprid
+2023,2,Rice,Alluvial,Telangana,Kharif,1142,19.5,Hybrid Rice Seed
+2022,8,Soybean,Loamy,Gujarat,Kharif,656,17.25,Mancozeb
+2022,8,Soybean,Loamy,Gujarat,Kharif,656,17.25,Rhizobium
+2023,7,Wheat,Clay,Punjab,Rabi,822,6.41,DAP
+2025,11,Rice,Alluvial,Punjab,Kharif,1018,23.0,Zinc Sulphate
+2022,3,Chili,Alluvial,Karnataka,Rabi,1336,11.89,Humic Acid
+2022,3,Chili,Alluvial,Karnataka,Rabi,1336,11.89,Neem Oil
+2024,12,Soybean,Sandy,Telangana,Kharif,853,10.56,DAP
+2023,2,Maize,Clay,Punjab,Kharif,1188,14.47,DAP
+2024,8,Tomato,Alluvial,Gujarat,Rabi,768,7.49,Humic Acid
+2024,11,Wheat,Clay,Madhya Pradesh,Rabi,1077,16.82,DAP
+2024,11,Wheat,Clay,Madhya Pradesh,Rabi,1077,16.82,Urea
+2024,11,Wheat,Clay,Madhya Pradesh,Rabi,1077,16.82,Zinc Sulphate
+2023,12,Soybean,Alluvial,Madhya Pradesh,Kharif,881,4.24,Rhizobium
+2023,12,Soybean,Alluvial,Madhya Pradesh,Kharif,881,4.24,Urea
+2023,12,Soybean,Alluvial,Madhya Pradesh,Kharif,881,4.24,Mancozeb
+2025,5,Wheat,Loamy,Karnataka,Rabi,878,1.41,Urea
+2025,5,Wheat,Loamy,Karnataka,Rabi,878,1.41,Glyphosate
+2023,12,Maize,Loamy,Maharashtra,Rabi,406,6.82,DAP
+2023,12,Maize,Loamy,Maharashtra,Rabi,406,6.82,Urea
+2022,5,Chili,Red,Punjab,Rabi,731,12.09,Humic Acid
+2022,11,Wheat,Alluvial,Maharashtra,Rabi,390,13.64,Glyphosate
+2022,11,Wheat,Alluvial,Maharashtra,Rabi,390,13.64,Zinc Sulphate
+2023,1,Tomato,Sandy,Maharashtra,Zaid,693,18.12,Mancozeb
+2025,6,Maize,Clay,Telangana,Kharif,307,10.83,Cypermethrin
+2024,7,Rice,Alluvial,Madhya Pradesh,Kharif,1065,17.7,DAP
+2024,7,Rice,Alluvial,Madhya Pradesh,Kharif,1065,17.7,Imidacloprid
+2024,7,Rice,Alluvial,Madhya Pradesh,Kharif,1065,17.7,Hybrid Rice Seed
+2025,5,Chili,Alluvial,Karnataka,Zaid,932,4.74,Neem Oil
+2025,5,Chili,Alluvial,Karnataka,Zaid,932,4.74,Hybrid Tomato Seed
+2022,8,Maize,Alluvial,Maharashtra,Kharif,1120,6.59,Cypermethrin
+2022,8,Maize,Alluvial,Maharashtra,Kharif,1120,6.59,MOP
+2022,8,Maize,Alluvial,Maharashtra,Kharif,1120,6.59,Urea
+2024,2,Chili,Loamy,Punjab,Zaid,972,7.27,Humic Acid
+2024,2,Chili,Loamy,Punjab,Zaid,972,7.27,Hybrid Tomato Seed
+2025,3,Rice,Black,Madhya Pradesh,Kharif,302,21.69,Carbendazim
+2024,11,Rice,Sandy,Punjab,Kharif,959,4.66,Carbendazim
+2024,11,Rice,Sandy,Punjab,Kharif,959,4.66,Zinc Sulphate
+2024,11,Rice,Sandy,Punjab,Kharif,959,4.66,Urea
+2022,9,Chili,Loamy,Gujarat,Rabi,521,11.0,Hybrid Tomato Seed
+2022,9,Chili,Loamy,Gujarat,Rabi,521,11.0,Imidacloprid
+2024,6,Rice,Alluvial,Maharashtra,Kharif,429,14.66,MOP
+2025,12,Chili,Alluvial,Karnataka,Zaid,436,12.95,Imidacloprid
+2022,9,Maize,Sandy,Gujarat,Rabi,1431,23.95,Cypermethrin
+2022,9,Maize,Sandy,Gujarat,Rabi,1431,23.95,MOP
+2022,7,Tomato,Alluvial,Punjab,Zaid,662,6.44,Imidacloprid
+2022,7,Tomato,Alluvial,Punjab,Zaid,662,6.44,Neem Oil
+2024,5,Wheat,Red,Madhya Pradesh,Rabi,1184,19.28,Urea
+2024,5,Wheat,Red,Madhya Pradesh,Rabi,1184,19.28,MOP
+2023,12,Soybean,Alluvial,Telangana,Kharif,459,21.01,Urea
+2023,2,Rice,Sandy,Karnataka,Kharif,806,1.42,Imidacloprid
+2023,4,Wheat,Sandy,Karnataka,Rabi,337,23.6,Glyphosate
+2023,4,Wheat,Sandy,Karnataka,Rabi,337,23.6,Zinc Sulphate
+2024,3,Wheat,Clay,Gujarat,Rabi,1004,8.68,Glyphosate
+2024,3,Wheat,Clay,Gujarat,Rabi,1004,8.68,Zinc Sulphate
+2024,3,Wheat,Clay,Gujarat,Rabi,1004,8.68,DAP
+2025,10,Wheat,Red,Maharashtra,Rabi,1003,3.14,DAP
+2024,9,Maize,Clay,Punjab,Kharif,316,11.45,DAP
+2024,9,Maize,Clay,Punjab,Kharif,316,11.45,Urea
+2023,1,Soybean,Black,Punjab,Kharif,403,16.9,Mancozeb
+2023,1,Soybean,Black,Punjab,Kharif,403,16.9,DAP
+2023,2,Rice,Black,Gujarat,Kharif,747,11.15,MOP
+2023,2,Rice,Black,Gujarat,Kharif,747,11.15,Carbendazim
+2022,12,Maize,Sandy,Gujarat,Kharif,542,17.0,Cypermethrin
+2022,12,Maize,Sandy,Gujarat,Kharif,542,17.0,MOP
+2022,12,Maize,Sandy,Gujarat,Kharif,542,17.0,DAP
+2022,3,Soybean,Sandy,Telangana,Kharif,1164,8.37,Mancozeb
+2022,3,Soybean,Sandy,Telangana,Kharif,1164,8.37,DAP
+2023,7,Wheat,Alluvial,Punjab,Rabi,305,22.0,DAP
+2023,10,Wheat,Loamy,Gujarat,Rabi,1046,14.54,Urea
+2023,10,Wheat,Loamy,Gujarat,Rabi,1046,14.54,Glyphosate
+2023,10,Wheat,Loamy,Gujarat,Rabi,1046,14.54,DAP
+2023,9,Tomato,Alluvial,Gujarat,Zaid,387,7.93,Humic Acid
+2023,9,Tomato,Alluvial,Gujarat,Zaid,387,7.93,Mancozeb
+2023,3,Tomato,Red,Madhya Pradesh,Rabi,1119,23.96,Hybrid Tomato Seed
+2023,3,Tomato,Red,Madhya Pradesh,Rabi,1119,23.96,Imidacloprid
+2024,5,Soybean,Alluvial,Punjab,Kharif,410,7.57,DAP
+2024,5,Soybean,Alluvial,Punjab,Kharif,410,7.57,Urea
+2024,5,Soybean,Alluvial,Punjab,Kharif,410,7.57,Mancozeb
+2022,7,Chili,Clay,Gujarat,Zaid,728,4.35,Hybrid Tomato Seed
+2022,7,Chili,Clay,Gujarat,Zaid,728,4.35,Imidacloprid
+2022,7,Chili,Clay,Gujarat,Zaid,728,4.35,Humic Acid
+2024,6,Cotton,Alluvial,Telangana,Kharif,1278,8.17,Urea
+2025,1,Soybean,Sandy,Maharashtra,Kharif,1045,10.17,Mancozeb
+2023,2,Tomato,Alluvial,Maharashtra,Zaid,827,20.26,Neem Oil
+2023,2,Tomato,Alluvial,Maharashtra,Zaid,827,20.26,Mancozeb
+2023,2,Tomato,Alluvial,Maharashtra,Zaid,827,20.26,Imidacloprid
+2023,12,Cotton,Black,Maharashtra,Kharif,698,17.12,Urea
+2022,4,Wheat,Red,Punjab,Rabi,1017,6.36,DAP
+2022,4,Wheat,Red,Punjab,Rabi,1017,6.36,Urea
+2024,9,Chili,Black,Gujarat,Zaid,1144,20.49,Hybrid Tomato Seed
+2024,9,Chili,Black,Gujarat,Zaid,1144,20.49,Neem Oil
+2023,5,Rice,Black,Gujarat,Kharif,377,22.32,Imidacloprid
+2023,5,Rice,Black,Gujarat,Kharif,377,22.32,Urea
+2023,5,Rice,Black,Gujarat,Kharif,377,22.32,Carbendazim
+2025,2,Wheat,Clay,Maharashtra,Rabi,729,11.9,Urea
+2025,2,Wheat,Clay,Maharashtra,Rabi,729,11.9,MOP
+2023,5,Cotton,Sandy,Karnataka,Kharif,798,19.19,Glyphosate
+2023,5,Cotton,Sandy,Karnataka,Kharif,798,19.19,Imidacloprid
+2023,5,Cotton,Sandy,Karnataka,Kharif,798,19.19,Cypermethrin
+2023,7,Tomato,Clay,Gujarat,Zaid,551,22.73,Hybrid Tomato Seed
+2023,10,Rice,Alluvial,Gujarat,Kharif,1134,20.71,Carbendazim
+2023,10,Rice,Alluvial,Gujarat,Kharif,1134,20.71,MOP
+2025,3,Wheat,Alluvial,Gujarat,Rabi,1216,21.2,MOP
+2025,3,Wheat,Alluvial,Gujarat,Rabi,1216,21.2,Urea
+2022,11,Rice,Sandy,Madhya Pradesh,Kharif,477,22.06,Hybrid Rice Seed
+2022,11,Rice,Sandy,Madhya Pradesh,Kharif,477,22.06,DAP
+2022,11,Rice,Sandy,Madhya Pradesh,Kharif,477,22.06,Carbendazim
+2022,10,Chili,Clay,Gujarat,Rabi,401,10.1,Imidacloprid
+2022,6,Chili,Loamy,Gujarat,Rabi,1348,8.29,Hybrid Tomato Seed
+2023,12,Cotton,Alluvial,Gujarat,Kharif,395,17.91,Imidacloprid
+2023,12,Cotton,Alluvial,Gujarat,Kharif,395,17.91,Cypermethrin
+2023,12,Cotton,Alluvial,Gujarat,Kharif,395,17.91,Glyphosate
+2023,3,Soybean,Alluvial,Madhya Pradesh,Kharif,1328,18.97,DAP
+2025,7,Wheat,Red,Gujarat,Rabi,426,9.13,Glyphosate
+2024,7,Wheat,Sandy,Punjab,Rabi,1046,3.16,DAP
+2024,7,Wheat,Sandy,Punjab,Rabi,1046,3.16,Urea
+2024,7,Wheat,Sandy,Punjab,Rabi,1046,3.16,Glyphosate
+2025,12,Tomato,Black,Madhya Pradesh,Rabi,675,6.31,Humic Acid
+2025,12,Tomato,Black,Madhya Pradesh,Rabi,675,6.31,Neem Oil
+2025,12,Tomato,Black,Madhya Pradesh,Rabi,675,6.31,Mancozeb
+2025,4,Cotton,Loamy,Madhya Pradesh,Kharif,1199,20.83,DAP
+2025,4,Cotton,Loamy,Madhya Pradesh,Kharif,1199,20.83,Cypermethrin
+2025,4,Cotton,Loamy,Madhya Pradesh,Kharif,1199,20.83,Urea
+2023,9,Soybean,Red,Madhya Pradesh,Kharif,1091,15.26,Urea
+2025,6,Tomato,Sandy,Punjab,Zaid,1041,21.73,Humic Acid
+2024,2,Tomato,Black,Madhya Pradesh,Rabi,547,13.19,Humic Acid
+2024,2,Tomato,Black,Madhya Pradesh,Rabi,547,13.19,Neem Oil
+2024,2,Tomato,Black,Madhya Pradesh,Rabi,547,13.19,Mancozeb
+2022,9,Soybean,Alluvial,Karnataka,Kharif,1018,21.56,Urea
+2022,9,Soybean,Alluvial,Karnataka,Kharif,1018,21.56,Rhizobium
+2022,9,Soybean,Alluvial,Karnataka,Kharif,1018,21.56,DAP
+2024,2,Tomato,Clay,Punjab,Zaid,984,5.5,Imidacloprid
+2024,2,Tomato,Clay,Punjab,Zaid,984,5.5,Humic Acid
+2024,2,Tomato,Clay,Punjab,Zaid,984,5.5,Hybrid Tomato Seed
+2023,11,Soybean,Loamy,Gujarat,Kharif,1213,4.3,Rhizobium
+2025,12,Maize,Clay,Karnataka,Rabi,939,8.36,DAP
+2025,12,Maize,Clay,Karnataka,Rabi,939,8.36,MOP
+2022,8,Cotton,Alluvial,Karnataka,Kharif,1150,24.02,Urea
+2022,8,Cotton,Alluvial,Karnataka,Kharif,1150,24.02,Cypermethrin
+2023,5,Chili,Alluvial,Gujarat,Zaid,686,9.37,Hybrid Tomato Seed
+2024,4,Chili,Black,Gujarat,Zaid,791,16.57,Humic Acid
+2024,4,Chili,Black,Gujarat,Zaid,791,16.57,Hybrid Tomato Seed
+2024,4,Chili,Black,Gujarat,Zaid,791,16.57,Neem Oil
+2025,8,Chili,Sandy,Karnataka,Rabi,747,20.05,Humic Acid
+2025,8,Chili,Sandy,Karnataka,Rabi,747,20.05,Imidacloprid
+2025,8,Chili,Sandy,Karnataka,Rabi,747,20.05,Hybrid Tomato Seed
+2025,5,Soybean,Black,Punjab,Kharif,902,21.48,DAP
+2025,5,Soybean,Black,Punjab,Kharif,902,21.48,Mancozeb
+2022,8,Maize,Black,Karnataka,Rabi,684,19.46,MOP
+2022,8,Maize,Black,Karnataka,Rabi,684,19.46,DAP
+2022,8,Maize,Black,Karnataka,Rabi,684,19.46,Cypermethrin
+2025,4,Tomato,Black,Madhya Pradesh,Rabi,1166,16.31,Humic Acid
+2025,4,Tomato,Black,Madhya Pradesh,Rabi,1166,16.31,Neem Oil
+2024,1,Cotton,Red,Punjab,Kharif,696,14.45,Urea
+2024,1,Cotton,Red,Punjab,Kharif,696,14.45,DAP
+2024,11,Soybean,Sandy,Gujarat,Kharif,640,19.56,DAP
+2024,11,Soybean,Sandy,Gujarat,Kharif,640,19.56,Rhizobium
+2024,12,Maize,Black,Punjab,Kharif,623,3.07,MOP
+2022,10,Cotton,Loamy,Maharashtra,Kharif,477,3.92,Urea
+2023,11,Maize,Black,Telangana,Kharif,987,14.83,DAP
+2022,12,Wheat,Black,Punjab,Rabi,803,2.65,DAP
+2024,8,Maize,Loamy,Gujarat,Rabi,1368,20.6,MOP
+2024,8,Maize,Loamy,Gujarat,Rabi,1368,20.6,DAP
+2024,5,Maize,Alluvial,Telangana,Kharif,685,5.73,MOP
+2023,6,Soybean,Sandy,Telangana,Kharif,1187,6.11,Rhizobium
+2024,9,Tomato,Loamy,Madhya Pradesh,Rabi,1179,21.3,Hybrid Tomato Seed
+2024,9,Tomato,Loamy,Madhya Pradesh,Rabi,1179,21.3,Neem Oil
+2025,1,Maize,Alluvial,Madhya Pradesh,Kharif,1110,17.98,DAP
+2025,1,Maize,Alluvial,Madhya Pradesh,Kharif,1110,17.98,MOP
+2024,1,Tomato,Black,Gujarat,Rabi,582,14.68,Mancozeb
+2024,1,Tomato,Black,Gujarat,Rabi,582,14.68,Humic Acid
+2024,1,Tomato,Black,Gujarat,Rabi,582,14.68,Hybrid Tomato Seed
+2024,11,Soybean,Alluvial,Maharashtra,Kharif,582,2.24,Urea
+2024,11,Soybean,Alluvial,Maharashtra,Kharif,582,2.24,DAP
+2024,11,Soybean,Alluvial,Maharashtra,Kharif,582,2.24,Rhizobium
+2023,5,Maize,Red,Maharashtra,Rabi,1448,21.35,DAP
+2023,5,Maize,Red,Maharashtra,Rabi,1448,21.35,Cypermethrin
+2022,8,Maize,Red,Telangana,Rabi,1418,21.75,Urea
+2022,8,Maize,Red,Telangana,Rabi,1418,21.75,Cypermethrin
+2022,4,Chili,Sandy,Karnataka,Zaid,982,7.63,Imidacloprid
+2024,5,Chili,Black,Madhya Pradesh,Zaid,1266,24.6,Imidacloprid
+2023,3,Wheat,Alluvial,Telangana,Rabi,1041,9.77,Zinc Sulphate
+2023,3,Wheat,Alluvial,Telangana,Rabi,1041,9.77,MOP
+2023,2,Wheat,Red,Madhya Pradesh,Rabi,540,15.18,Glyphosate
+2024,4,Cotton,Loamy,Telangana,Kharif,925,8.16,DAP
+2024,4,Cotton,Loamy,Telangana,Kharif,925,8.16,Cypermethrin
+2022,6,Rice,Alluvial,Gujarat,Kharif,1227,12.56,Imidacloprid
+2022,6,Rice,Alluvial,Gujarat,Kharif,1227,12.56,DAP
+2022,6,Rice,Alluvial,Gujarat,Kharif,1227,12.56,Zinc Sulphate
+2023,4,Rice,Alluvial,Telangana,Kharif,302,17.81,Carbendazim
+2023,4,Rice,Alluvial,Telangana,Kharif,302,17.81,Urea
+2023,4,Rice,Alluvial,Telangana,Kharif,302,17.81,MOP
+2023,10,Tomato,Sandy,Gujarat,Zaid,760,7.18,Humic Acid
+2023,10,Tomato,Sandy,Gujarat,Zaid,760,7.18,Neem Oil
+2023,10,Tomato,Sandy,Gujarat,Zaid,760,7.18,Imidacloprid
+2025,4,Tomato,Clay,Karnataka,Rabi,1486,1.3,Humic Acid
+2025,4,Tomato,Clay,Karnataka,Rabi,1486,1.3,Imidacloprid
+2025,4,Tomato,Clay,Karnataka,Rabi,1486,1.3,Neem Oil
+2024,2,Soybean,Clay,Maharashtra,Kharif,585,3.46,Mancozeb
+2024,2,Soybean,Clay,Maharashtra,Kharif,585,3.46,Urea
+2024,2,Soybean,Clay,Maharashtra,Kharif,585,3.46,DAP
+2023,5,Wheat,Clay,Telangana,Rabi,561,10.15,DAP
+2023,5,Wheat,Clay,Telangana,Rabi,561,10.15,MOP
+2024,9,Wheat,Red,Telangana,Rabi,1158,6.98,DAP
+2025,11,Tomato,Sandy,Madhya Pradesh,Rabi,1302,3.79,Humic Acid
+2023,8,Maize,Clay,Telangana,Kharif,1265,4.27,Cypermethrin
+2023,8,Maize,Clay,Telangana,Kharif,1265,4.27,Urea
+2023,8,Maize,Clay,Telangana,Kharif,1265,4.27,DAP
+2025,11,Tomato,Alluvial,Karnataka,Rabi,521,14.78,Humic Acid
+2025,11,Tomato,Alluvial,Karnataka,Rabi,521,14.78,Hybrid Tomato Seed
+2023,12,Maize,Alluvial,Gujarat,Kharif,697,9.53,Cypermethrin
+2024,10,Cotton,Clay,Telangana,Kharif,362,22.66,Glyphosate
+2024,10,Cotton,Clay,Telangana,Kharif,362,22.66,Urea
+2025,8,Rice,Black,Punjab,Kharif,423,11.51,Carbendazim
+2025,8,Rice,Black,Punjab,Kharif,423,11.51,Urea
+2022,1,Soybean,Red,Madhya Pradesh,Kharif,608,10.51,Mancozeb
+2022,1,Soybean,Red,Madhya Pradesh,Kharif,608,10.51,Urea
+2022,1,Soybean,Red,Madhya Pradesh,Kharif,608,10.51,Rhizobium
+2024,9,Maize,Clay,Gujarat,Rabi,1057,14.75,Cypermethrin
+2025,8,Cotton,Black,Maharashtra,Kharif,1129,19.54,Imidacloprid
+2025,8,Cotton,Black,Maharashtra,Kharif,1129,19.54,Urea
+2025,8,Cotton,Black,Maharashtra,Kharif,1129,19.54,DAP
+2022,1,Chili,Clay,Karnataka,Rabi,1078,5.03,Hybrid Tomato Seed
+2022,1,Chili,Clay,Karnataka,Rabi,1078,5.03,Neem Oil
+2024,1,Tomato,Sandy,Karnataka,Zaid,743,10.21,Humic Acid
+2024,1,Tomato,Sandy,Karnataka,Zaid,743,10.21,Neem Oil
+2024,1,Tomato,Sandy,Karnataka,Zaid,743,10.21,Hybrid Tomato Seed
+2024,1,Tomato,Black,Punjab,Rabi,1043,20.2,Hybrid Tomato Seed
+2024,1,Tomato,Black,Punjab,Rabi,1043,20.2,Humic Acid
+2024,1,Tomato,Black,Punjab,Rabi,1043,20.2,Imidacloprid
+2024,10,Soybean,Red,Gujarat,Kharif,366,12.4,DAP
+2025,5,Cotton,Black,Telangana,Kharif,1110,13.84,Imidacloprid
+2025,5,Cotton,Black,Telangana,Kharif,1110,13.84,Urea
+2025,5,Cotton,Black,Telangana,Kharif,1110,13.84,Cypermethrin
+2022,3,Tomato,Black,Gujarat,Rabi,1359,11.33,Hybrid Tomato Seed
+2022,3,Tomato,Black,Gujarat,Rabi,1359,11.33,Humic Acid
+2025,2,Tomato,Clay,Madhya Pradesh,Zaid,622,6.25,Hybrid Tomato Seed
+2024,2,Tomato,Black,Karnataka,Rabi,1167,13.37,Hybrid Tomato Seed
+2022,12,Chili,Sandy,Karnataka,Rabi,1002,18.09,Hybrid Tomato Seed
+2022,12,Chili,Sandy,Karnataka,Rabi,1002,18.09,Neem Oil
+2022,12,Chili,Sandy,Karnataka,Rabi,1002,18.09,Imidacloprid
+2023,3,Wheat,Alluvial,Gujarat,Rabi,983,23.43,Glyphosate
+2022,3,Rice,Sandy,Telangana,Kharif,1390,4.47,Carbendazim
+2022,3,Rice,Sandy,Telangana,Kharif,1390,4.47,Urea
+2022,3,Rice,Sandy,Telangana,Kharif,1390,4.47,Hybrid Rice Seed
+2025,6,Rice,Sandy,Maharashtra,Kharif,573,3.7,MOP
+2025,6,Rice,Sandy,Maharashtra,Kharif,573,3.7,Hybrid Rice Seed
+2024,7,Chili,Alluvial,Madhya Pradesh,Zaid,553,1.22,Hybrid Tomato Seed
+2022,5,Rice,Loamy,Punjab,Kharif,1265,19.69,DAP
+2022,5,Rice,Loamy,Punjab,Kharif,1265,19.69,MOP
+2022,5,Rice,Loamy,Punjab,Kharif,1265,19.69,Carbendazim
+2023,9,Maize,Red,Karnataka,Rabi,1080,3.03,Urea
+2023,9,Maize,Red,Karnataka,Rabi,1080,3.03,MOP
+2023,9,Maize,Red,Karnataka,Rabi,1080,3.03,DAP
+2023,3,Cotton,Clay,Madhya Pradesh,Kharif,673,5.42,DAP
+2023,3,Cotton,Clay,Madhya Pradesh,Kharif,673,5.42,Cypermethrin
+2023,1,Cotton,Black,Gujarat,Kharif,914,4.26,Cypermethrin
+2023,1,Cotton,Black,Gujarat,Kharif,914,4.26,DAP
+2023,1,Cotton,Black,Gujarat,Kharif,914,4.26,Glyphosate
+2023,6,Tomato,Loamy,Telangana,Rabi,559,2.84,Hybrid Tomato Seed
+2023,1,Rice,Alluvial,Punjab,Kharif,378,12.51,MOP
+2023,1,Rice,Alluvial,Punjab,Kharif,378,12.51,Carbendazim
+2025,2,Maize,Alluvial,Punjab,Kharif,1360,19.98,Urea
+2025,2,Maize,Alluvial,Punjab,Kharif,1360,19.98,DAP
+2025,2,Maize,Alluvial,Punjab,Kharif,1360,19.98,MOP
+2022,4,Chili,Alluvial,Punjab,Rabi,1218,13.99,Hybrid Tomato Seed
