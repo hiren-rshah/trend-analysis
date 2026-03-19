@@ -3,10 +3,10 @@
 
 A Springboot and Spring AI based JAVA project to perform Trend analysis based on historic Input and Product data.
 
-## Highlevel Architecture
+## 1. Highlevel Architecture
 <img src="reference/hl-architecture.png"></img>
 
-## Technology Stack
+## 2. Technology Stack
 * JAVA 17
 * Tribuo Machine Learning Library
 * Spring Boot
@@ -15,7 +15,7 @@ A Springboot and Spring AI based JAVA project to perform Trend analysis based on
 * Spring Web
 * H2 In Memory Database
 
-## Activities
+## 3. Activities
 
 1. Create SpringBoot Project with Spring AI dependencies
 2. Integrate H2 Database and make it work with Spring Data JPA
@@ -26,10 +26,10 @@ A Springboot and Spring AI based JAVA project to perform Trend analysis based on
 5. Create ChatController and ChatService to perform below activities.
    1. <b>/chat endpoint:</b> performs below activities.
       1. Accepts user Prompt
-      2. Perform JSON Extraction by connecting to <b>OpenAI LLM</b>
+      2. Perform JSON Extraction by connecting to <b>OpenAI LLM</b> or <b>Ollama</b>
       3. Create Feature and pass to trained model
       4. Get the predictions from Trained Model
-      5. Pass Prediction to <b>OpenAI LLM</b> to convert prediction for user explanation
+      5. Pass Prediction to <b>OpenAI LLM</b> or <b>Ollama</b>to convert prediction for user explanation
       6. Respond back to user with the final output from LLM
    2. <b>/api endpoint:</b> performs below activities.
       1. Accepts user input in JSON format
@@ -39,7 +39,10 @@ A Springboot and Spring AI based JAVA project to perform Trend analysis based on
 6. Test the REST API using Postman
 7. Use the trained machine learning model to make predictions in the REST API endpoints
 
-## Curl command
+## 4. OpenAI vs Ollama
+update application.yml file to switch between OpenAI and Ollama LLM by changing model.chat attribute value
+
+## 5. Curl command
 ### Prompt Format
 ```bash
 curl --location 'http://localhost:8080/trend/chat' \
@@ -64,6 +67,7 @@ curl --location 'http://localhost:8080/trend/api' \
 }'
 ```
 
-## References
-* H2 Database URL: http://localhost:8080/h2-console
+## 6. References
+* https://spring.io/projects/spring-ai
 * https://www.baeldung.com/java-ml-tribuo-guide
+* H2 Database URL: http://localhost:8080/h2-console

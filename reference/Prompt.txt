@@ -1,33 +1,125 @@
----- DB Createion ----
-I am creating a Farmer's Input database where I need to store input what is required by farmer to grow a crop.
-Create an Input Database tables to store and perform below,
-Create Table script with Input table
+------ Creating Trend data for Farmer's Input Usage -----
 
+I am training a Tribuo ML model using the following features:
 
+year, month, crop_type, soil_type, region, season, rainfall_mm, farmer_land_size_acres, 
+pest_pressure, soil_fertility, crop_stage, previous_input_usage
 
------ Machine Learning Tools/Technologies ------
+I want to generate a synthetic dataset of 5000 rows that is highly realistic, learnable, and has strong feature-label relationships.
 
-A Springboot and Spring AI based JAVA project to perform Trend analysis based on historic Input and Product data. I have created below DB tables to begin with,
-1. Store input what is required by farmer to grow a crop,
-2. Farmer's demographic data
-3. Input Transaction showing which input is being used by farmer
+Use the following master data:
 
-I have large volume of test data. Now I want to perform below activities, Please suggest Tools, technologies and steps to use.
-1. Integrate Spring AI/MCP to add machine learning capabilities to the application
-2. Create a machine learning model using Spring AI/MCP and train it with sample data
-3. Continuously improve the machine learning model by retraining it with new data and evaluating its performance
+- year: last 10 years
+- crop_type: Rice, Wheat, Maize, Cotton, Sugarcane, Tomato, Potato, Soybean, Groundnut, Chilli
+- soil_type: Black, Red, Alluvial, Laterite, Sandy
+- region: Indian states
+- season: Kharif, Rabi, Zaid
+- pest_pressure: Low, Medium, High
+- soil_fertility: Low, Medium, High
+- crop_stage: Sowing, Growth, Harvest
 
+- previous_input_usage (target label):
+  Urea, DAP, MOP, Zinc Sulphate, Neem Oil, Glyphosate, Carbendazim, Mancozeb,
+  Seaweed Extract, Rhizobium, Hybrid Rice Seed, Hybrid Tomato Seed,
+  Cypermethrin, Imidacloprid, Humic Acid
 
------- Creating Trend data for Farmer's Input Analysis -----
-I would like to perform Farmer's Input trend analysis and training my model based on below paramters. List of Input is attached herewith in temp.sql file to explain all parameters. Please create CSV file mentioning usage of this inputs based on below parameters. I would like 100 or even more records in CSV file to train my model.
-    crop_type
-    soil_type
-    region
-    season
-    rainfall
-    farmer_land_size
-    previous_input_usage
-	
-Please add another parameter year/month to better understand time series for trend analysis. Please generate 1000 realistic records for better ML training with time-series data (year/month)	
-	
-I would like to train a tribuo model to analyze trend based on previous_input_usage. Please provide JAVA Code to perform below activities. 1/ create dataset from this CSV file 2/ create Trainer 3/ evaluate Models 4/ save Model 5/ load Model 6/ predict using parameters in ArrayExample	
+--------------------------------------------------
+IMPORTANT RULES (VERY STRICT)
+--------------------------------------------------
+
+1. STRONG FEATURE → LABEL MAPPING (NO OVERLAP)
+
+Each input MUST have a unique and distinguishable pattern:
+
+FERTILIZERS:
+- Urea → Rice + Kharif + High rainfall + Growth stage
+- DAP → Wheat + Rabi + Medium rainfall + Sowing stage
+- MOP → Wheat + Rabi + Low rainfall + Growth stage
+
+MICRONUTRIENTS:
+- Zinc Sulphate → Red/Laterite soil + Low fertility
+- Humic Acid → Low fertility + Small land (<3 acres)
+- Seaweed Extract → Medium fertility + Zaid season
+
+BIO-FERTILIZER:
+- Rhizobium → Soybean/Groundnut + Black soil + Sowing
+
+PESTICIDES:
+- Imidacloprid → Cotton + High pest_pressure
+- Cypermethrin → Cotton + Medium pest_pressure
+- Neem Oil → Low pest_pressure (organic usage)
+
+HERBICIDE:
+- Glyphosate → Large land (>10 acres) + Weed control crops
+
+FUNGICIDES:
+- Mancozeb → High rainfall + fungal crops (Tomato, Potato)
+- Carbendazim → Medium rainfall + disease condition
+
+SEEDS:
+- Hybrid Rice Seed → Rice + Sowing stage
+- Hybrid Tomato Seed → Tomato + Zaid + Sowing stage
+
+--------------------------------------------------
+2. REALISTIC AGRICULTURE PATTERNS
+
+- Kharif → rainfall 600–2000 mm → Rice, Cotton, Soybean
+- Rabi → rainfall 50–500 mm → Wheat, Potato
+- Zaid → rainfall 200–800 mm → Tomato, Maize, Chilli
+
+- Soil mapping:
+  Black → Cotton, Soybean
+  Alluvial → Rice, Wheat
+  Sandy → Groundnut
+
+--------------------------------------------------
+3. ADDITIONAL FEATURE INFLUENCE
+
+- pest_pressure MUST influence pesticide selection
+- soil_fertility MUST influence fertilizers/micronutrients
+- crop_stage MUST strongly control:
+  - Sowing → Seeds, DAP
+  - Growth → Urea, pesticides
+  - Harvest → minimal input usage
+
+--------------------------------------------------
+4. CLASS BALANCE (CRITICAL)
+
+- Ensure ALL 15 classes appear evenly (~300–350 rows each)
+- No class should dominate
+
+--------------------------------------------------
+5. CONTROLLED RANDOMNESS
+
+- Add only 10–15% noise:
+  - Occasionally break rules slightly
+  - But DO NOT destroy overall patterns
+
+--------------------------------------------------
+6. DATA RANGES
+
+- rainfall_mm MUST depend on season (NOT random)
+- farmer_land_size_acres: 0.5 to 20
+  - Small (<3), Medium (3–10), Large (>10)
+
+--------------------------------------------------
+7. OUTPUT FORMAT
+
+- Generate EXACT CSV
+- Include header row
+- No explanations
+- No extra text
+
+--------------------------------------------------
+8. DATASET SIZE
+
+- Exactly 5000 rows
+
+--------------------------------------------------
+GOAL:
+
+The dataset MUST allow an ML model to:
+- Clearly distinguish all 15 classes
+- Avoid class confusion
+- Achieve high accuracy (>70%)
+- Avoid predicting only a few dominant classes

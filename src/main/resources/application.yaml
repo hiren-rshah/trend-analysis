@@ -34,7 +34,7 @@ spring:
         options:
           model: llama3.2:1b
     model:
-      chat: openai # openai or ollama
+      chat: ollama # openai or ollama
 
 
 logging:
