@@ -8,6 +8,7 @@ A Springboot and Spring AI based JAVA project to perform Trend analysis based on
 
 ## Technology Stack
 * JAVA 17
+* Tribuo Machine Learning Library
 * Spring Boot
 * Spring AI
 * Spring Data JPA
