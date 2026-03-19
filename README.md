@@ -1,7 +1,7 @@
 
 # <u>Project: Trend Analysis</u>
 
-A Springboot and Spring AI based JAVA project to perform Trend analysis based on historic Input and Product data.
+This project is a Spring Boot and Spring AI–powered Java application designed to analyze trends and generate predictions based on farmers' historical input data, utilizing the Tribuo library for machine learning.
 
 ## 1. Highlevel Architecture
 <img src="reference/hl-architecture.png"></img>
